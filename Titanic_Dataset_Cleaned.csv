@@ -1,0 +1,1306 @@
+pclass,survived,Buyer,Passenger,sex,age,sibsp,parch,ticket,fare,embarked,boat,body,home.dest,cabin_sector,cabin_rooms
+1,TRUE,Allen Elisabeth Walton,Allen Elisabeth Walton,female,29,0,0,24160,211.34,S,12,NA,"St Louis, MO",B,5
+1,TRUE,Allison Master Hudson Trevor,Allison Master Hudson Trevor,male,1,1,2,113781,151.55,S,3,NA,"Montreal, PQ / Chesterville, ON",C,"22, 26"
+1,FALSE,Allison Helen Loraine,Allison Helen Loraine,female,2,1,2,113781,151.55,S,None,NA,"Montreal, PQ / Chesterville, ON",C,"22, 26"
+1,FALSE,Allison Hudson Joshua Creighton,Allison Hudson Joshua Creighton,male,30,1,2,113781,151.55,S,None,135,"Montreal, PQ / Chesterville, ON",C,"22, 26"
+1,FALSE,Allison Hudson J C,Bessie Waldo Daniels,female,25,1,2,113781,151.55,S,None,NA,"Montreal, PQ / Chesterville, ON",C,"22, 26"
+1,TRUE,Anderson Harry,Anderson Harry,male,120,0,0,19952,26.55,S,13,NA,"New York, NY",E,12
+1,TRUE,Andrews Kornelia Theodosia,Andrews Kornelia Theodosia,female,63,1,0,13502,10000,S,2,NA,"Hudson, NY",D,7
+1,FALSE,Artagaveytia Ramon,Artagaveytia Ramon,male,71,0,0,PC 17609,49.5,C,None,22,"Montevideo, Uruguay",None,None
+1,FALSE,Astor Col John Jacob,Astor Col John Jacob,male,47,1,0,PC 17757,227.52,C,None,124,"New York, NY",C,"62, 64"
+1,TRUE,Astor John Jacob,Madeleine Talmadge Force,female,18,1,0,PC 17757,227.52,C,14,NA,"New York, NY",C,"62, 64"
+1,TRUE,Aubart Mme Leontine Pauline,Aubart Mme Leontine Pauline,female,24,0,0,PC 17477,69.3,C,22,NA,"Paris, France",B,35
+1,TRUE,"Barber Ellen ""Nellie""","Barber Ellen ""Nellie""",female,26,0,0,19877,78.85,S,18,NA,NA,None,None
+1,TRUE,Barkworth Algernon Henry Wilson,Barkworth Algernon Henry Wilson,male,80,0,0,27042,30,S,24,NA,"Hessle, Yorks",A,23
+1,FALSE,Baumann John D,Baumann John D,male,NA,0,0,PC 17318,25.92,S,None,NA,"New York, NY",None,None
+1,FALSE,Baxter Quigg Edmond,Baxter Quigg Edmond,male,24,0,1,PC 17558,247.52,C,None,NA,"Montreal, PQ",B,"58, 60"
+1,TRUE,Baxter James,Helene DeLaudeniere Chaput,female,50,0,1,PC 17558,247.52,C,18,NA,"Montreal, PQ",B,"58, 60"
+1,TRUE,Bazzani Albina,Bazzani Albina,female,32,0,0,11813,76.29,C,20,NA,NA,D,15
+1,FALSE,Beattie Thomson,Beattie Thomson,male,36,0,0,13050,75.24,C,23,NA,"Winnipeg, MN",C,6
+1,TRUE,Beckwith Richard Leonard,Beckwith Richard Leonard,male,37,1,1,11751,52.55,S,15,NA,"New York, NY",D,35
+1,TRUE,Beckwith Richard Leonard,Sallie Monypeny,female,47,1,1,11751,52.55,S,15,NA,"New York, NY",D,35
+1,TRUE,Behr Karl Howell,Behr Karl Howell,male,26,0,0,111369,30,C,15,NA,"New York, NY",C,148
+1,TRUE,Bidois Rosalie,Bidois Rosalie,female,42,0,0,PC 17757,227.52,C,14,NA,NA,None,None
+1,TRUE,Bird Ellen,Bird Ellen,female,29,0,0,PC 17483,221.78,S,20,NA,NA,C,97
+1,FALSE,Birnbaum Jakob,Birnbaum Jakob,male,25,0,0,13905,26,C,None,148,"San Francisco, CA",None,None
+1,TRUE,Bishop Dickinson H,Bishop Dickinson H,male,25,1,0,11967,91.08,C,19,NA,"Dowagiac, MI",B,49
+1,TRUE,Bishop Dickinson H,Helen Walton,female,19,1,0,11967,91.08,C,19,NA,"Dowagiac, MI",B,49
+1,TRUE,Bissette Amelia,Bissette Amelia,female,35,0,0,PC 17760,135.63,S,20,NA,NA,C,99
+1,TRUE,Bjornstrom-Steffansson Mauritz Hakan,Bjornstrom-Steffansson Mauritz Hakan,male,28,0,0,110564,26.55,S,27,NA,"Stockholm, Sweden / Washington, DC",C,52
+1,FALSE,Blackwell Stephen Weart,Blackwell Stephen Weart,male,45,0,0,113784,35.5,S,None,NA,"Trenton, NJ",T,
+1,TRUE,Blank Henry,Blank Henry,male,40,0,0,112277,31,C,19,NA,"Glen Ridge, NJ",A,31
+1,TRUE,Bonnell Caroline,Bonnell Caroline,female,30,0,0,36928,NA,S,20,NA,"Youngstown, OH",C,7
+1,TRUE,Bonnell Elizabeth,Bonnell Elizabeth,female,58,0,0,113783,26.55,S,20,NA,"Birkdale, England Cleveland, Ohio",C,103
+1,FALSE,Borebank John James,Borebank John James,male,42,0,0,110489,26.55,S,None,NA,"London / Winnipeg, MB",D,22
+1,TRUE,Bowen Grace Scott,Bowen Grace Scott,female,45,0,0,PC 17608,262.38,C,14,NA,"Cooperstown, NY",None,None
+1,TRUE,Bowerman Elsie Edith,Bowerman Elsie Edith,female,22,0,1,113505,55,S,18,NA,"St Leonards-on-Sea, England Ohio",E,33
+1,TRUE,Bradley George,"""George Arthur Brayton""",male,NA,0,0,111427,26.55,S,22,NA,"Los Angeles, CA",None,None
+1,FALSE,Brady John Bertram,Brady John Bertram,male,41,0,0,113054,30.5,S,None,NA,"Pomeroy, WA",A,21
+1,FALSE,Brandeis Emil,Brandeis Emil,male,48,0,0,PC 17591,50.5,C,None,208,"Omaha, NE",B,10
+1,FALSE,Brewe Dr Arthur Jackson,Brewe Dr Arthur Jackson,male,NA,0,0,112379,39.6,C,None,NA,"Philadelphia, PA",None,None
+1,TRUE,Brown James Joseph,Margaret Tobin,female,44,0,0,PC 17610,27.72,C,18,NA,"Denver, CO",B,4
+1,TRUE,Brown John Murray,Caroline Lane Lamson,female,59,2,0,11769,51.48,S,27,NA,"Belmont, MA",C,101
+1,TRUE,Bucknell William Robert,Emma Eliza Ward,female,60,0,0,11813,76.29,C,20,NA,"Philadelphia, PA",D,15
+1,TRUE,Burns Elizabeth Margaret,Burns Elizabeth Margaret,female,41,0,0,16966,134.5,C,13,NA,NA,E,40
+1,FALSE,Butt Major Archibald Willingham,Butt Major Archibald Willingham,male,45,0,0,113050,26.55,S,None,NA,"Washington, DC",B,38
+1,FALSE,Cairns Alexander,Cairns Alexander,male,NA,0,0,113798,31,S,None,NA,NA,None,None
+1,TRUE,Calderhead Edward Pennington,Calderhead Edward Pennington,male,42,0,0,PC 17476,26.29,S,15,NA,"New York, NY",E,24
+1,TRUE,Candee Edward,Helen Churchill Hungerford,female,53,0,0,PC 17606,27.45,C,18,NA,"Washington, DC",None,None
+1,TRUE,Cardeza Thomas Drake Martinez,Cardeza Thomas Drake Martinez,male,36,0,1,PC 17755,512.33,C,13,NA,"Austria-Hungary / Germantown, Philadelphia, PA",B,"51, 53, 55"
+1,TRUE,Cardeza James Warburton Martinez,Charlotte Wardle Drake,female,58,0,1,PC 17755,512.33,C,13,NA,"Germantown, Philadelphia, PA",B,"51, 53, 55"
+1,FALSE,Carlsson Frans Olof,Carlsson Frans Olof,male,33,0,0,695,5,S,None,NA,"New York, NY",B,"51, 53, 55"
+1,FALSE,Carrau Francisco M,Carrau Francisco M,male,28,0,0,113059,47.1,S,None,NA,"Montevideo, Uruguay",None,None
+1,FALSE,Carrau Jose Pedro,Carrau Jose Pedro,male,17,0,0,113059,47.1,S,None,NA,"Montevideo, Uruguay",None,None
+1,TRUE,Carter Master William Thornton II,Carter Master William Thornton II,male,11,1,2,113760,120,S,14,NA,"Bryn Mawr, PA",B,"96, 98"
+1,TRUE,Carter Lucile Polk,Carter Lucile Polk,female,14,1,2,113760,120,S,14,NA,"Bryn Mawr, PA",B,"96, 98"
+1,TRUE,Carter William Ernest,Carter William Ernest,male,36,1,2,113760,120,S,25,NA,"Bryn Mawr, PA",B,"96, 98"
+1,TRUE,Carter William Ernest,Lucile Polk,female,36,1,2,113760,120,S,14,NA,"Bryn Mawr, PA",B,"96, 98"
+1,FALSE,Case Howard Brown,Case Howard Brown,male,49,0,0,19924,26,S,None,NA,"Ascot, Berkshire / Rochester, NY",None,None
+1,TRUE,Cassebeer Henry Arthur Jr,Eleanor Genevieve Fosdick,female,NA,0,0,17770,27.72,C,15,NA,"New York, NY",None,None
+1,FALSE,Cavendish Tyrell William,Cavendish Tyrell William,male,36,1,0,19877,78.85,S,None,172,"Little Onn Hall, Staffs",C,46
+1,TRUE,Cavendish Tyrell William,Julia Florence Siegel,female,76,1,0,19877,78.85,S,18,NA,"Little Onn Hall, Staffs",C,46
+1,FALSE,Chaffee Herbert Fuller,Chaffee Herbert Fuller,male,46,1,0,W.E.P. 5734,61.17,S,None,NA,"Amenia, ND",E,31
+1,TRUE,Chaffee Herbert Fuller,Carrie Constance Toogood,female,47,1,0,W.E.P. 5734,61.17,S,14,NA,"Amenia, ND",E,31
+1,TRUE,Chambers Norman Campbell,Chambers Norman Campbell,male,27,1,0,113806,53.1,S,15,NA,"New York, NY / Ithaca, NY",E,8
+1,TRUE,Chambers Norman Campbell,Bertha Griggs,female,NA,1,0,113806,53.1,S,15,NA,"New York, NY / Ithaca, NY",E,8
+1,TRUE,Chaudanson Victorine,Chaudanson Victorine,female,36,0,0,PC 17608,262.38,C,14,NA,NA,B,61
+1,TRUE,Cherry Gladys,Cherry Gladys,female,30,0,0,110152,86.5,S,20,NA,"London, England",B,77
+1,TRUE,Chevre Paul Romaine,Chevre Paul Romaine,male,45,0,0,PC 17594,29.7,C,19,NA,"Paris, France",A,9
+1,TRUE,Chibnall,Edith Martha Bowerman,female,NA,0,1,113505,55,S,18,NA,"St Leonards-on-Sea, England Ohio",E,33
+1,FALSE,Chisholm Roderick Robert Crispin,Chisholm Roderick Robert Crispin,male,NA,0,0,112051,0,S,None,NA,"Liverpool, England / Belfast",None,None
+1,FALSE,Clark Walter Miller,Clark Walter Miller,male,27,1,0,13508,136.78,C,None,NA,"Los Angeles, CA",C,89
+1,TRUE,Clark Walter Miller,Virginia McDowell,female,26,1,0,13508,136.78,C,14,NA,"Los Angeles, CA",C,89
+1,TRUE,Cleaver Alice,Cleaver Alice,female,22,0,0,113781,151.55,S,3,NA,NA,None,None
+1,FALSE,Clifford George Quincy,Clifford George Quincy,male,NA,0,0,110465,52,S,None,NA,"Stoughton, MA",A,14
+1,FALSE,Colley Edward Pomeroy,Colley Edward Pomeroy,male,47,0,0,5727,25.59,S,None,NA,"Victoria, BC",E,58
+1,TRUE,Compton Sara Rebecca,Compton Sara Rebecca,female,39,1,1,PC 17756,83.16,C,8,NA,"Lakewood, NJ",E,49
+1,FALSE,Compton Alexander Taylor Jr,Compton Alexander Taylor Jr,male,37,1,1,PC 17756,83.16,C,None,NA,"Lakewood, NJ",E,52
+1,TRUE,Compton Alexander Taylor,Mary Eliza Ingersoll,female,64,0,2,PC 17756,83.16,C,8,NA,"Lakewood, NJ",E,45
+1,TRUE,Cornell Robert Clifford,Malvina Helen Lamson,female,55,2,0,11770,25.7,S,12,NA,"New York, NY",C,101
+1,FALSE,Crafton John Bertram,Crafton John Bertram,male,NA,0,0,113791,26.55,S,None,NA,"Roachdale, IN",None,None
+1,FALSE,Crosby Capt Edward Gifford,Crosby Capt Edward Gifford,male,70,1,1,WE/P 5735,71,S,None,269,"Milwaukee, WI",B,22
+1,TRUE,Crosby Harriet R,Crosby Harriet R,female,36,0,2,WE/P 5735,71,S,19,NA,"Milwaukee, WI",B,22
+1,TRUE,Crosby Edward Gifford,Catherine Elizabeth Halstead,female,64,1,1,112901,26.55,S,19,NA,"Milwaukee, WI",B,26
+1,FALSE,Cumings John Bradley,Cumings John Bradley,male,39,1,0,PC 17599,71.28,C,None,NA,"New York, NY",C,85
+1,TRUE,Cumings John Bradley,Florence Briggs Thayer,female,38,1,0,PC 17599,71.28,C,14,NA,"New York, NY",C,85
+1,TRUE,Daly Peter Denis,Daly Peter Denis,male,51,0,0,113055,26.55,S,17,NA,"Lima, Peru",E,17
+1,TRUE,Daniel Robert Williams,Daniel Robert Williams,male,27,0,0,113804,30.5,S,13,NA,"Philadelphia, PA",None,None
+1,TRUE,Daniels Sarah,Daniels Sarah,female,33,0,0,113781,151.55,S,20,NA,NA,None,None
+1,FALSE,Davidson Thornton,Davidson Thornton,male,31,1,0,F.C. 12750,52,S,None,NA,"Montreal, PQ",B,71
+1,TRUE,Davidson Thornton,Orian Hays,female,27,1,2,F.C. 12750,52,S,13,NA,"Montreal, PQ",B,71
+1,TRUE,Dick Albert Adrian,Dick Albert Adrian,male,31,1,0,17474,57,S,13,NA,"Calgary, AB",B,20
+1,TRUE,Dick Albert Adrian,Vera Gillespie,female,17,1,0,17474,57,S,13,NA,"Calgary, AB",B,20
+1,TRUE,Dodge Dr Washington,Dodge Dr Washington,male,53,1,1,33638,81.86,S,5,NA,"San Francisco, CA",A,34
+1,TRUE,Dodge Master Washington,Dodge Master Washington,male,4,0,2,33638,81.86,S,15,NA,"San Francisco, CA",A,34
+1,TRUE,Dodge Washington,Ruth Vidaver,female,54,1,1,33638,81.86,S,15,NA,"San Francisco, CA",A,34
+1,FALSE,Douglas Walter Donald,Douglas Walter Donald,male,50,1,0,PC 17761,106.42,C,None,62,"Deephaven, MN / Cedar Rapids, IA",C,86
+1,TRUE,Douglas Frederick Charles,Mary Helene Baxter,female,27,1,1,PC 17558,247.52,C,18,NA,"Montreal, PQ",B,"58, 60"
+1,TRUE,Douglas Walter Donald,Mahala Dutton,female,48,1,0,PC 17761,106.42,C,12,NA,"Deephaven, MN / Cedar Rapids, IA",C,86
+1,TRUE,Duff Gordon Lady,Lucille Christiana Sutherland,female,48,1,0,11755,39.6,C,1,NA,London / Paris,A,16
+1,TRUE,Duff Gordon Sir Cosmo Edmund,"""Mr Morgan""",male,49,1,0,PC 17485,56.93,C,1,NA,London / Paris,A,20
+1,FALSE,Dulles William Crothers,Dulles William Crothers,male,39,0,0,PC 17580,29.7,C,None,133,"Philadelphia, PA",A,18
+1,TRUE,Earnshaw Boulton,Olive Potter,female,23,0,1,11767,83.16,C,19,NA,"Mt Airy, Philadelphia, PA",C,54
+1,TRUE,Endres Caroline Louise,Endres Caroline Louise,female,38,0,0,PC 17757,227.52,C,14,NA,"New York, NY",C,45
+1,TRUE,Eustis Elizabeth Mussey,Eustis Elizabeth Mussey,female,54,1,0,36947,78.27,C,14,NA,"Brookline, MA",D,20
+1,FALSE,Evans Edith Corse,Evans Edith Corse,female,36,0,0,PC 17531,31.68,C,None,NA,"New York, NY",A,29
+1,FALSE,Farthing John,Farthing John,male,NA,0,0,PC 17483,221.78,S,None,NA,NA,C,95
+1,TRUE,Flegenheim Alfred,Antoinette,female,NA,0,0,PC 17598,31.68,S,19,NA,"New York, NY",None,None
+1,TRUE,Fleming Margaret,Fleming Margaret,female,NA,0,0,17421,110.88,C,14,NA,NA,None,None
+1,TRUE,Flynn John Irwin,"""Irving""",male,36,0,0,PC 17474,26.39,S,15,NA,"Brooklyn, NY",E,25
+1,FALSE,Foreman Benjamin Laventall,Foreman Benjamin Laventall,male,30,0,0,113051,27.75,C,None,NA,"New York, NY",C,111
+1,TRUE,Fortune Alice Elizabeth,Fortune Alice Elizabeth,female,24,3,2,19950,263,S,2,NA,"Winnipeg, MB",C,"23, 25, 27"
+1,TRUE,Fortune Ethel Flora,Fortune Ethel Flora,female,28,3,2,19950,263,S,2,NA,"Winnipeg, MB",C,"23, 25, 27"
+1,TRUE,Fortune Mabel Helen,Fortune Mabel Helen,female,23,3,2,19950,263,S,2,NA,"Winnipeg, MB",C,"23, 25, 27"
+1,FALSE,Fortune Charles Alexander,Fortune Charles Alexander,male,19,3,2,19950,263,S,None,NA,"Winnipeg, MB",C,"23, 25, 27"
+1,FALSE,Fortune Mark,Fortune Mark,male,64,1,4,19950,263,S,None,NA,"Winnipeg, MB",C,"23, 25, 27"
+1,TRUE,Fortune Mark,Mary McDougald,female,60,1,4,19950,263,S,2,NA,"Winnipeg, MB",C,"23, 25, 27"
+1,TRUE,Francatelli Laura Mabel,Francatelli Laura Mabel,female,30,0,0,PC 17485,56.93,C,1,NA,NA,E,36
+1,FALSE,Franklin Thomas Parham,Franklin Thomas Parham,male,NA,0,0,113778,26.55,S,None,NA,"Westcliff-on-Sea, Essex",D,34
+1,TRUE,Frauenthal Dr Henry William,Frauenthal Dr Henry William,male,50,2,0,PC 17611,133.65,S,15,NA,"New York, NY",None,None
+1,TRUE,Frauenthal Isaac Gerald,Frauenthal Isaac Gerald,male,43,1,0,17765,27.72,C,15,NA,"New York, NY",D,40
+1,TRUE,Frauenthal Henry William,Clara Heinsheimer,female,NA,1,0,PC 17611,133.65,S,15,NA,"New York, NY",None,None
+1,TRUE,Frolicher Hedwig Margaritha,Frolicher Hedwig Margaritha,female,22,0,2,13568,49.5,C,15,NA,"Zurich, Switzerland",B,39
+1,TRUE,Frolicher-Stehli Maxmillian,Frolicher-Stehli Maxmillian,male,60,1,1,13567,79.2,C,15,NA,"Zurich, Switzerland",B,41
+1,TRUE,Frolicher-Stehli Maxmillian,Margaretha Emerentia Stehli,female,48,1,1,13567,79.2,C,15,NA,"Zurich, Switzerland",B,41
+1,FALSE,Fry Richard,Fry Richard,male,NA,0,0,112058,0,S,None,NA,NA,B,102
+1,FALSE,Futrelle Jacques Heath,Futrelle Jacques Heath,male,37,1,0,113803,53.1,S,None,NA,"Scituate, MA",C,123
+1,TRUE,Futrelle Jacques Heath,Lily May Peel,female,35,1,0,113803,53.1,S,27,NA,"Scituate, MA",C,123
+1,FALSE,Gee Arthur H,Gee Arthur H,male,47,0,0,111320,38.5,S,None,275,"St Anne's-on-Sea, Lancashire",E,63
+1,TRUE,Geiger Amalie,Geiger Amalie,female,35,0,0,113503,211.5,C,14,NA,NA,C,130
+1,TRUE,Gibson Dorothy Winifred,Gibson Dorothy Winifred,female,22,0,1,112378,59.4,C,19,NA,"New York, NY",None,None
+1,TRUE,Gibson Leonard,Pauline C Boeson,female,45,0,1,112378,59.4,C,19,NA,"New York, NY",None,None
+1,FALSE,Giglio Victor,Giglio Victor,male,24,0,0,PC 17593,79.2,C,None,NA,NA,B,86
+1,TRUE,Goldenberg Samuel L,Goldenberg Samuel L,male,49,1,0,17453,89.1,C,15,NA,"Paris, France / New York, NY",C,92
+1,TRUE,Goldenberg Samuel L,Edwiga Grabowska,female,NA,1,0,17453,89.1,C,15,NA,"Paris, France / New York, NY",C,92
+1,FALSE,Goldschmidt George B,Goldschmidt George B,male,71,0,0,PC 17754,34.65,C,None,NA,"New York, NY",A,5
+1,TRUE,Gracie Col Archibald IV,Gracie Col Archibald IV,male,53,0,0,113780,28.5,C,24,NA,"Washington, DC",C,51
+1,TRUE,Graham Margaret Edith,Graham Margaret Edith,female,19,0,0,112053,30,S,13,NA,"Greenwich, CT",B,42
+1,FALSE,Graham George Edward,Graham George Edward,male,38,0,1,PC 17582,153.46,S,None,147,"Winnipeg, MB",C,91
+1,TRUE,Graham William Thompson,Edith Junkins,female,58,0,1,PC 17582,153.46,S,13,NA,"Greenwich, CT",C,125
+1,TRUE,Greenfield William Bertram,Greenfield William Bertram,male,23,0,1,PC 17759,63.36,C,19,NA,"New York, NY",D,"10, 12"
+1,TRUE,Greenfield Leo David,Blanche Strouse,female,45,0,1,PC 17759,63.36,C,19,NA,"New York, NY",D,"10, 12"
+1,FALSE,Guggenheim Benjamin,Guggenheim Benjamin,male,46,0,0,PC 17593,79.2,C,None,NA,"New York, NY",B,"82, 84"
+1,TRUE,Harder George Achilles,Harder George Achilles,male,25,1,0,11765,55.44,C,15,NA,"Brooklyn, NY",E,50
+1,TRUE,Harder George Achilles,Dorothy Annan,female,25,1,0,11765,55.44,C,15,NA,"Brooklyn, NY",E,50
+1,TRUE,Harper Henry Sleeper,Harper Henry Sleeper,male,48,1,0,PC 17572,76.73,C,13,NA,"New York, NY",D,33
+1,TRUE,Harper Henry Sleeper,Myna Haxtun,female,49,1,0,PC 17572,76.73,C,13,NA,"New York, NY",D,33
+1,FALSE,Harrington Charles H,Harrington Charles H,male,NA,0,0,113796,42.4,S,None,NA,NA,None,None
+1,FALSE,Harris Henry Birkhardt,Harris Henry Birkhardt,male,45,1,0,36973,83.47,S,None,NA,"New York, NY",C,83
+1,TRUE,Harris Henry Birkhardt,Irene Wallach,female,35,1,0,36973,83.47,S,27,NA,"New York, NY",C,83
+1,FALSE,Harrison William,Harrison William,male,40,0,0,112059,0,S,None,110,NA,B,94
+1,TRUE,Hassab Hammad,Hassab Hammad,male,27,0,0,PC 17572,76.73,C,13,NA,NA,D,49
+1,TRUE,Hawksford Walter James,Hawksford Walter James,male,NA,0,0,16988,30,S,13,NA,"Kingston, Surrey",D,45
+1,TRUE,Hays Margaret Bechstein,Hays Margaret Bechstein,female,24,0,0,11767,83.16,C,19,NA,"New York, NY",C,54
+1,FALSE,Hays Charles Melville,Hays Charles Melville,male,55,1,1,12749,93.5,S,None,307,"Montreal, PQ",B,69
+1,TRUE,Hays Charles Melville,Clara Jennings Gregg,female,52,1,1,12749,93.5,S,13,NA,"Montreal, PQ",B,69
+1,FALSE,Head Christopher,Head Christopher,male,42,0,0,113038,42.5,S,None,NA,London / Middlesex,B,11
+1,FALSE,Hilliard Herbert Henry,Hilliard Herbert Henry,male,NA,0,0,17463,51.86,S,None,NA,"Brighton, MA",E,46
+1,FALSE,Hipkins William Edward,Hipkins William Edward,male,55,0,0,680,50,S,None,NA,London / Birmingham,C,39
+1,TRUE,Hippach Jean Gertrude,Hippach Jean Gertrude,female,16,0,1,111361,57.98,C,14,NA,"Chicago, IL",B,18
+1,TRUE,Hippach Louis Albert,Ida Sophia Fischer,female,44,0,1,111361,57.98,C,14,NA,"Chicago, IL",B,18
+1,TRUE,Hogeboom John C,Anna Andrews,female,51,1,0,13502,77.96,S,2,NA,"Hudson, NY",D,11
+1,FALSE,Holverson Alexander Oskar,Holverson Alexander Oskar,male,42,1,0,113789,52,S,None,38,"New York, NY",None,None
+1,TRUE,Holverson Alexander Oskar,Mary Aline Towner,female,35,1,0,113789,52,S,20,NA,"New York, NY",None,None
+1,TRUE,Homer Harry,"""Mr E Haven""",male,35,0,0,111426,26.55,C,9,NA,"Indianapolis, IN",None,None
+1,TRUE,Hoyt Frederick Maxfield,Hoyt Frederick Maxfield,male,38,1,0,19943,90,S,27,NA,"New York, NY /  Stamford CT",C,93
+1,FALSE,Hoyt William Fisher,Hoyt William Fisher,male,NA,0,0,PC 17600,30.7,C,8,NA,"New York, NY",None,None
+1,TRUE,Hoyt Frederick Maxfield,Jane Anne Forby,female,35,1,0,19943,90,S,27,NA,"New York, NY /  Stamford CT",C,93
+1,FALSE,Isham Ann Elizabeth,Isham Ann Elizabeth,female,50,0,0,PC 17595,28.71,C,None,NA,"Paris, France New York, NY",C,49
+1,TRUE,Ismay Joseph Bruce,Ismay Joseph Bruce,male,49,0,0,112058,0,S,25,NA,Liverpool,B,"52, 54, 56"
+1,FALSE,Jones Charles Cresson,Jones Charles Cresson,male,46,0,0,694,26,S,None,80,"Bennington, VT",None,None
+1,FALSE,Julian Henry Forbes,Julian Henry Forbes,male,50,0,0,113044,26,S,None,NA,London,E,60
+1,FALSE,Keeping Edwin,Keeping Edwin,male,32,0,0,113503,211.5,C,None,45,NA,C,132
+1,FALSE,Kent Edward Austin,Kent Edward Austin,male,58,0,0,11771,29.7,C,None,258,"Buffalo, NY",B,37
+1,FALSE,Kenyon Frederick R,Kenyon Frederick R,male,41,1,0,17464,51.86,S,None,NA,"Southington / Noank, CT",D,21
+1,TRUE,Kenyon Frederick R,Marion,female,NA,1,0,17464,51.86,S,20,NA,"Southington / Noank, CT",D,21
+1,TRUE,Kimball Edwin Nelson Jr,Kimball Edwin Nelson Jr,male,42,1,0,11753,52.55,S,15,NA,"Boston, MA",D,19
+1,TRUE,Kimball Edwin Nelson Jr,Gertrude Parsons,female,45,1,0,11753,52.55,S,15,NA,"Boston, MA",D,19
+1,FALSE,Klaber Herman,Klaber Herman,male,NA,0,0,113028,26.55,S,None,NA,"Portland, OR",C,124
+1,TRUE,Kreuchen Emilie,Kreuchen Emilie,female,39,0,0,24160,211.34,S,12,NA,NA,None,None
+1,TRUE,Leader Dr Alice,Farnham,female,49,0,0,17465,25.93,S,20,NA,"New York, NY",D,17
+1,TRUE,LeRoy Bertha,LeRoy Bertha,female,30,0,0,PC 17761,106.42,C,12,NA,NA,None,None
+1,TRUE,Lesurer Gustave J,Lesurer Gustave J,male,35,0,0,PC 17755,512.33,C,13,NA,NA,B,101
+1,FALSE,Lewy Ervin G,Lewy Ervin G,male,NA,0,0,PC 17612,27.72,C,None,NA,"Chicago, IL",None,None
+1,FALSE,Lindeberg-Lind Erik Gustaf,"""Mr Edward Lingrey""",male,42,0,0,17475,26.55,S,None,NA,"Stockholm, Sweden",None,None
+1,TRUE,Lindstrom Carl Johan,Sigrid Posse,female,55,0,0,112377,27.72,C,18,NA,"Stockholm, Sweden",None,None
+1,TRUE,Lines Mary Conover,Lines Mary Conover,female,16,0,1,PC 17592,39.4,S,22,NA,"Paris, France",D,28
+1,TRUE,Lines Ernest H,Elizabeth Lindsey James,female,51,0,1,PC 17592,39.4,S,22,NA,"Paris, France",D,28
+1,FALSE,Long Milton Clyde,Long Milton Clyde,male,29,0,0,113501,30,S,None,126,"Springfield, MA",D,6
+1,TRUE,Longley Gretchen Fiske,Longley Gretchen Fiske,female,21,0,0,13502,77.96,S,2,NA,"Hudson, NY",D,9
+1,FALSE,Loring Joseph Holland,Loring Joseph Holland,male,30,0,0,113801,45.5,S,None,NA,"London / New York, NY",None,None
+1,TRUE,Lurette Elise,Lurette Elise,female,58,0,0,PC 17569,146.52,C,None,NA,NA,B,80
+1,TRUE,Madill Georgette Alexandra,Madill Georgette Alexandra,female,15,0,1,24160,211.34,S,12,NA,"St Louis, MO",B,5
+1,FALSE,Maguire John Edward,Maguire John Edward,male,30,0,0,110469,26,S,None,NA,"Brockton, MA",C,106
+1,TRUE,Maioni Roberta,Maioni Roberta,female,16,0,0,110152,86.5,S,20,NA,NA,B,79
+1,TRUE,Marechal Pierre,Marechal Pierre,male,NA,0,0,11774,29.7,C,19,NA,"Paris, France",C,47
+1,FALSE,Marvin Daniel Warner,Marvin Daniel Warner,male,19,1,0,113773,53.1,S,None,NA,"New York, NY",D,30
+1,TRUE,Marvin Daniel Warner,Mary Graham Carmichael Farquarson,female,18,1,0,113773,53.1,S,2,NA,"New York, NY",D,30
+1,TRUE,Mayne Mlle Berthe Antonine,"""Mrs de Villiers""",female,24,0,0,PC 17482,49.5,C,18,NA,"Belgium  Montreal, PQ",C,90
+1,FALSE,McCaffry Thomas Francis,McCaffry Thomas Francis,male,46,0,0,13050,75.24,C,None,292,"Vancouver, BC",C,6
+1,FALSE,McCarthy Timothy J,McCarthy Timothy J,male,54,0,0,17463,51.86,S,None,175,"Dorchester, MA",E,46
+1,TRUE,McGough James Robert,McGough James Robert,male,36,0,0,PC 17473,26.29,S,19,NA,"Philadelphia, PA",E,25
+1,FALSE,Meyer Edgar Joseph,Meyer Edgar Joseph,male,28,1,0,PC 17604,82.17,C,None,NA,"New York, NY",None,None
+1,TRUE,Meyer Edgar Joseph,Leila Saks,female,NA,1,0,PC 17604,82.17,C,18,NA,"New York, NY",None,None
+1,FALSE,Millet Francis Davis,Millet Francis Davis,male,65,0,0,13509,26.55,S,None,249,"East Bridgewater, MA",E,38
+1,FALSE,Minahan Dr William Edward,Minahan Dr William Edward,male,44,2,0,19928,90,Q,None,230,"Fond du Lac, WI",C,78
+1,TRUE,Minahan Daisy E,Minahan Daisy E,female,33,1,0,19928,90,Q,8,NA,"Green Bay, WI",C,78
+1,TRUE,Minahan William Edward,Lillian E Thorpe,female,37,1,0,19928,90,Q,8,NA,"Fond du Lac, WI",C,78
+1,TRUE,Mock Philipp Edmund,Mock Philipp Edmund,male,30,1,0,13236,57.75,C,3,NA,"New York, NY",C,78
+1,FALSE,Molson Harry Markland,Molson Harry Markland,male,55,0,0,113787,30.5,S,None,NA,"Montreal, PQ",C,30
+1,FALSE,Moore Clarence Bloomfield,Moore Clarence Bloomfield,male,47,0,0,113796,42.4,S,None,NA,"Washington, DC",None,None
+1,FALSE,Natsch Charles H,Natsch Charles H,male,37,0,1,PC 17596,29.7,C,None,NA,"Brooklyn, NY",C,118
+1,TRUE,Newell Madeleine,Newell Madeleine,female,31,1,0,35273,113.28,C,18,NA,"Lexington, MA",D,36
+1,TRUE,Newell Marjorie,Newell Marjorie,female,23,1,0,35273,113.28,C,18,NA,"Lexington, MA",D,36
+1,FALSE,Newell Arthur Webster,Newell Arthur Webster,male,58,0,2,35273,113.28,C,None,122,"Lexington, MA",D,48
+1,TRUE,Newsom Helen Monypeny,Newsom Helen Monypeny,female,19,0,2,11752,26.28,S,15,NA,"New York, NY",D,47
+1,FALSE,Nicholson Arthur Ernest,Nicholson Arthur Ernest,male,64,0,0,693,26,S,None,263,"Isle of Wight, England",None,None
+1,TRUE,Oliva y Ocana Dona Fermina,Oliva y Ocana Dona Fermina,female,39,0,0,PC 17758,108.9,C,20,NA,NA,C,105
+1,TRUE,Omont Alfred Fernand,Omont Alfred Fernand,male,NA,0,0,F.C. 12998,25.74,C,19,NA,"Paris, France",None,None
+1,TRUE,Ostby Helene Ragnhild,Ostby Helene Ragnhild,female,22,0,1,113509,61.98,C,15,NA,"Providence, RI",B,36
+1,FALSE,Ostby Engelhart Cornelius,Ostby Engelhart Cornelius,male,65,0,1,113509,61.98,C,None,234,"Providence, RI",B,30
+1,FALSE,Ovies y Rodriguez Servando,Ovies y Rodriguez Servando,male,28,0,0,PC 17562,27.72,C,None,189,"?Havana, Cuba",D,43
+1,FALSE,Parr William Henry Marsh,Parr William Henry Marsh,male,NA,0,0,112052,0,S,None,NA,Belfast,None,None
+1,FALSE,Partner Austen,Partner Austen,male,45,0,0,113043,28.5,S,None,166,"Surbiton Hill, Surrey",C,124
+1,FALSE,Payne Vivian Ponsonby,Payne Vivian Ponsonby,male,23,0,0,12749,93.5,S,None,NA,"Montreal, PQ",B,24
+1,FALSE,Pears Thomas Clinton,Pears Thomas Clinton,male,29,1,0,113776,66.6,S,None,NA,"Isleworth, England",C,2
+1,TRUE,Pears Thomas,Edith Wearne,female,22,1,0,113776,66.6,S,20,NA,"Isleworth, England",C,2
+1,FALSE,Penasco y Castellana Victor de Satode,Penasco y Castellana Victor de Satode,male,18,1,0,PC 17758,108.9,C,None,NA,"Madrid, Spain",C,65
+1,TRUE,Penasco y Castellana Victor de Satode,Maria Josefa Perez de Soto y Vallejo,female,17,1,0,PC 17758,108.9,C,20,NA,"Madrid, Spain",C,65
+1,TRUE,Perreault Anne,Perreault Anne,female,30,0,0,12749,93.5,S,13,NA,NA,B,73
+1,TRUE,Peuchen Major Arthur Godfrey,Peuchen Major Arthur Godfrey,male,52,0,0,113786,30.5,S,18,NA,"Toronto, ON",C,104
+1,FALSE,Porter Walter Chamberlain,Porter Walter Chamberlain,male,47,0,0,110465,52,S,None,207,"Worcester, MA",C,110
+1,TRUE,Potter Thomas Jr,Lily Alexenia Wilson,female,56,0,1,11767,83.16,C,19,NA,"Mt Airy, Philadelphia, PA",C,50
+1,FALSE,Reuchlin Jonkheer John George,Reuchlin Jonkheer John George,male,38,0,0,19972,0,S,None,NA,"Rotterdam, Netherlands",None,None
+1,TRUE,Rheims George Alexander Lucien,Rheims George Alexander Lucien,male,NA,0,0,PC 17607,39.6,S,23,NA,"Paris /  New York, NY",None,None
+1,FALSE,Ringhini Sante,Ringhini Sante,male,22,0,0,PC 17760,135.63,C,None,232,NA,None,None
+1,FALSE,Robbins Victor,Robbins Victor,male,NA,0,0,PC 17757,227.52,C,None,NA,NA,None,None
+1,TRUE,Robert Edward Scott,Elisabeth Walton McMillan,female,43,0,1,24160,211.34,S,12,NA,"St Louis, MO",B,3
+1,FALSE,Roebling Washington Augustus II,Roebling Washington Augustus II,male,31,0,0,PC 17590,50.5,S,None,NA,"Trenton, NJ",A,24
+1,TRUE,Romaine Charles Hallace,"""Mr C Rolmane""",male,NA,0,0,111428,26.55,S,22,NA,"New York, NY",None,None
+1,FALSE,Rood Hugh Roscoe,Rood Hugh Roscoe,male,NA,0,0,113767,50,S,None,NA,"Seattle, WA",A,32
+1,TRUE,Rosenbaum Edith Louise,Rosenbaum Edith Louise,female,33,0,0,PC 17613,27.72,C,3,NA,"Paris, France",A,11
+1,FALSE,Rosenshine George,"""Mr George Thorne""",male,46,0,0,PC 17585,79.2,C,None,16,"New York, NY",None,None
+1,FALSE,Ross John Hugo,Ross John Hugo,male,36,0,0,13049,40.12,C,None,NA,"Winnipeg, MB",A,10
+1,TRUE,Rothes the Countess of,Lucy Noel Martha Dyer-Edwards,female,33,0,0,110152,86.5,S,20,NA,"London  Vancouver, BC",B,77
+1,FALSE,Rothschild Martin,Rothschild Martin,male,55,1,0,PC 17603,59.4,C,None,NA,"New York, NY",None,None
+1,TRUE,Rothschild Martin,Elizabeth L Barrett,female,54,1,0,PC 17603,59.4,C,18,NA,"New York, NY",None,None
+1,FALSE,Rowe Alfred G,Rowe Alfred G,male,33,0,0,113790,26.55,S,None,109,London,None,None
+1,TRUE,Ryerson Master John Borie,Ryerson Master John Borie,male,13,2,2,PC 17608,262.38,C,14,NA,"Haverford, PA / Cooperstown, NY",B,"57, 59, 63, 66"
+1,TRUE,Ryerson Emily Borie,Ryerson Emily Borie,female,18,2,2,PC 17608,262.38,C,14,NA,"Haverford, PA / Cooperstown, NY",B,"57, 59, 63, 66"
+1,TRUE,"Ryerson Susan Parker ""Suzette""","Ryerson Susan Parker ""Suzette""",female,21,2,2,PC 17608,262.38,C,14,NA,"Haverford, PA / Cooperstown, NY",B,"57, 59, 63, 66"
+1,FALSE,Ryerson Arthur Larned,Ryerson Arthur Larned,male,61,1,3,PC 17608,262.38,C,None,NA,"Haverford, PA / Cooperstown, NY",B,"57, 59, 63, 66"
+1,TRUE,Ryerson Arthur Larned,Emily Maria Borie,female,48,1,3,PC 17608,262.38,C,14,NA,"Haverford, PA / Cooperstown, NY",B,"57, 59, 63, 66"
+1,TRUE,Saalfeld Adolphe,Saalfeld Adolphe,male,NA,0,0,19988,30.5,S,13,NA,"Manchester, England",C,106
+1,TRUE,Sagesser Mlle Emma,Sagesser Mlle Emma,female,24,0,0,PC 17477,69.3,C,22,NA,NA,B,35
+1,TRUE,Salomon Abraham L,Salomon Abraham L,male,NA,0,0,111163,26,S,1,NA,"New York, NY",None,None
+1,TRUE,Schabert Paul,Emma Mock,female,35,1,0,13236,57.75,C,3,NA,"New York, NY",C,28
+1,TRUE,Serepeca Augusta,Serepeca Augusta,female,30,0,0,113798,31,C,14,NA,NA,None,None
+1,TRUE,Seward Frederic Kimber,Seward Frederic Kimber,male,34,0,0,113794,26.55,S,19,NA,"New York, NY",None,None
+1,TRUE,Shutes Elizabeth W,Shutes Elizabeth W,female,40,0,0,PC 17582,153.46,S,13,NA,"New York, NY / Greenwich CT",C,125
+1,TRUE,Silverthorne Spencer Victor,Silverthorne Spencer Victor,male,35,0,0,PC 17475,26.29,S,15,NA,"St Louis, MO",E,24
+1,FALSE,Silvey William Baird,Silvey William Baird,male,50,1,0,13507,55.9,S,None,NA,"Duluth, MN",E,44
+1,TRUE,Silvey William Baird,Alice Munger,female,39,1,0,13507,55.9,S,3,NA,"Duluth, MN",E,44
+1,TRUE,Simonius-Blumer Col Oberst Alfons,Simonius-Blumer Col Oberst Alfons,male,56,0,0,13213,35.5,C,13,NA,"Basel, Switzerland",A,26
+1,TRUE,Sloper William Thompson,Sloper William Thompson,male,28,0,0,113788,35.5,S,19,NA,"New Britain, CT",A,6
+1,FALSE,Smart John Montgomery,Smart John Montgomery,male,56,0,0,113792,26.55,S,None,NA,"New York, NY",None,None
+1,FALSE,Smith James Clinch,Smith James Clinch,male,56,0,0,17764,30.7,C,None,NA,"St James, Long Island, NY",A,7
+1,FALSE,Smith Lucien Philip,Smith Lucien Philip,male,24,1,0,13695,60,S,None,NA,"Huntington, WV",C,31
+1,FALSE,Smith Richard William,Smith Richard William,male,NA,0,0,113056,26,S,None,NA,"Streatham, Surrey",A,19
+1,TRUE,Smith Lucien Philip,Mary Eloise Hughes,female,18,1,0,13695,60,S,18,NA,"Huntington, WV",C,31
+1,TRUE,Snyder John Pillsbury,Snyder John Pillsbury,male,24,1,0,21228,82.27,S,19,NA,"Minneapolis, MN",B,45
+1,TRUE,Snyder John Pillsbury,Nelle Stevenson,female,23,1,0,21228,82.27,S,19,NA,"Minneapolis, MN",B,45
+1,TRUE,Spedden Master Robert Douglas,Spedden Master Robert Douglas,male,6,0,2,16966,134.5,C,13,NA,"Tuxedo Park, NY",E,34
+1,TRUE,Spedden Frederic Oakley,Spedden Frederic Oakley,male,45,1,1,16966,134.5,C,13,NA,"Tuxedo Park, NY",E,34
+1,TRUE,Spedden Frederic Oakley,Margaretta Corning Stone,female,40,1,1,16966,134.5,C,13,NA,"Tuxedo Park, NY",E,34
+1,FALSE,Spencer William Augustus,Spencer William Augustus,male,57,1,0,PC 17569,146.52,C,None,NA,"Paris, France",B,78
+1,TRUE,Spencer William Augustus,Marie Eugenie,female,NA,1,0,PC 17569,146.52,C,18,NA,"Paris, France",B,78
+1,TRUE,Stahelin-Maeglin Dr Max,Stahelin-Maeglin Dr Max,male,32,0,0,13214,30.5,C,13,NA,"Basel, Switzerland",B,50
+1,FALSE,Stead William Thomas,Stead William Thomas,male,62,0,0,113514,26.55,S,None,NA,"Wimbledon Park, London / Hayling Island, Hants",C,87
+1,TRUE,Stengel Charles Emil Henry,Stengel Charles Emil Henry,male,54,1,0,11778,55.44,C,1,NA,"Newark, NJ",C,116
+1,TRUE,Stengel Charles Emil Henry,Annie May Morris,female,43,1,0,11778,55.44,C,15,NA,"Newark, NJ",C,116
+1,TRUE,Stephenson Walter Bertram,Martha Eustis,female,52,1,0,36947,78.27,C,14,NA,"Haverford, PA",D,20
+1,FALSE,Stewart Albert A,Stewart Albert A,male,NA,0,0,PC 17605,27.72,C,None,NA,"Gallipolis, Ohio / ? Paris / New York",None,None
+1,FALSE,Straus Isidor,Straus Isidor,male,67,1,0,PC 17483,221.78,S,None,96,"New York, NY",C,"55, 57"
+1,FALSE,Straus Isidor,Rosalie Ida Blun,female,63,1,0,PC 17483,221.78,S,None,NA,"New York, NY",C,"55, 57"
+1,FALSE,Sutton Frederick,Sutton Frederick,male,61,0,0,36963,32.32,S,None,46,"Haddenfield, NJ",D,50
+1,TRUE,Swift Frederick Joel,Margaret Welles Barron,female,48,0,0,17466,25.93,S,20,NA,"Brooklyn, NY",D,17
+1,TRUE,Taussig Ruth,Taussig Ruth,female,18,0,2,110413,79.65,S,20,NA,"New York, NY",E,68
+1,FALSE,Taussig Emil,Taussig Emil,male,52,1,1,110413,79.65,S,None,NA,"New York, NY",E,67
+1,TRUE,Taussig Emil,Tillie Mandelbaum,female,39,1,1,110413,79.65,S,20,NA,"New York, NY",E,67
+1,TRUE,Taylor Elmer Zebley,Taylor Elmer Zebley,male,48,1,0,19996,52,S,16,NA,"London /  East Orange, NJ",C,126
+1,TRUE,Taylor Elmer Zebley,Juliet Cummins Wright,female,NA,1,0,19996,52,S,16,NA,"London /  East Orange, NJ",C,126
+1,FALSE,Thayer John Borland,Thayer John Borland,male,49,1,1,17421,110.88,C,None,NA,"Haverford, PA",C,68
+1,TRUE,Thayer John Borland Jr,Thayer John Borland Jr,male,17,0,2,17421,110.88,C,24,NA,"Haverford, PA",C,70
+1,TRUE,Thayer John Borland,Marian Longstreth Morris,female,39,1,1,17421,NA,C,14,NA,"Haverford, PA",C,68
+1,TRUE,Thorne Gertrude Maybelle,Thorne Gertrude Maybelle,female,NA,0,0,PC 17585,79.2,C,27,NA,"New York, NY",None,None
+1,TRUE,Tucker Gilbert Milligan Jr,Tucker Gilbert Milligan Jr,male,31,0,0,2543,28.54,C,19,NA,"Albany, NY",C,53
+1,FALSE,Uruchurtu Don Manuel E,Uruchurtu Don Manuel E,male,40,0,0,PC 17601,27.72,C,None,NA,"Mexico City, Mexico",None,None
+1,FALSE,Van der hoef Wyckoff,Van der hoef Wyckoff,male,61,0,0,111240,33.5,S,None,245,"Brooklyn, NY",B,19
+1,FALSE,Walker William Anderson,Walker William Anderson,male,47,0,0,36967,34.02,S,None,NA,"East Orange, NJ",D,46
+1,TRUE,Ward Anna,Ward Anna,female,35,0,0,PC 17755,512.33,C,13,NA,NA,None,None
+1,FALSE,Warren Frank Manley,Warren Frank Manley,male,64,1,0,110813,75.25,C,None,NA,"Portland, OR",D,37
+1,TRUE,Warren Frank Manley,Anna Sophia Atkinson,female,60,1,0,110813,75.25,C,15,NA,"Portland, OR",D,37
+1,FALSE,Weir Col John,Weir Col John,male,60,0,0,113800,26.55,S,None,NA,"England Salt Lake City, Utah",None,None
+1,FALSE,White Percival Wayland,White Percival Wayland,male,54,0,1,35281,77.29,S,None,NA,"Brunswick, ME",D,26
+1,FALSE,White Richard Frasar,White Richard Frasar,male,21,0,1,35281,77.29,S,None,169,"Brunswick, ME",D,26
+1,TRUE,White John Stuart,Ella Holmes,female,55,0,0,PC 17760,135.63,C,20,NA,"New York, NY / Briarcliff Manor NY",C,32
+1,TRUE,Wick Mary Natalie,Wick Mary Natalie,female,31,0,2,36928,164.87,S,20,NA,"Youngstown, OH",C,7
+1,FALSE,Wick George Dennick,Wick George Dennick,male,57,1,1,36928,164.87,S,None,NA,"Youngstown, OH",None,None
+1,TRUE,Wick George Dennick,Mary Hitchcock,female,45,1,1,36928,164.87,S,20,NA,"Youngstown, OH",None,None
+1,FALSE,Widener George Dunton,Widener George Dunton,male,50,1,1,113503,211.5,C,None,NA,"Elkins Park, PA",C,80
+1,FALSE,Widener Harry Elkins,Widener Harry Elkins,male,27,0,2,113503,211.5,C,None,NA,"Elkins Park, PA",C,82
+1,TRUE,Widener George Dunton,Eleanor Elkins,female,50,1,1,113503,211.5,C,14,NA,"Elkins Park, PA",C,80
+1,TRUE,Willard Constance,Willard Constance,female,21,0,0,113795,26.55,S,21,NA,"Duluth, MN",None,None
+1,FALSE,Williams Charles Duane,Williams Charles Duane,male,51,0,1,PC 17597,61.38,C,None,NA,"Geneva, Switzerland / Radnor, PA",None,None
+1,TRUE,Williams Richard Norris II,Williams Richard Norris II,male,21,0,1,PC 17597,61.38,C,23,NA,"Geneva, Switzerland / Radnor, PA",None,None
+1,FALSE,Williams-Lambert Fletcher Fellows,Williams-Lambert Fletcher Fellows,male,NA,0,0,113510,35,S,None,NA,"London, England",C,128
+1,TRUE,Wilson Helen Alice,Wilson Helen Alice,female,31,0,0,16966,134.5,C,13,NA,NA,E,"39, 41"
+1,TRUE,Woolner Hugh,Woolner Hugh,male,NA,0,0,19947,35.5,S,27,NA,"London, England",C,52
+1,FALSE,Wright George,Wright George,male,62,0,0,113807,26.55,S,None,NA,"Halifax, NS",None,None
+1,TRUE,Young Marie Grice,Young Marie Grice,female,36,0,0,PC 17760,135.63,C,20,NA,"New York, NY / Washington, DC",C,32
+2,FALSE,Abelson Samuel,Abelson Samuel,male,30,1,0,P/PP 3381,24,C,None,NA,"Russia New York, NY",None,None
+2,TRUE,Abelson Samuel,Hannah Wizosky,female,28,1,0,P/PP 3381,24,C,2,NA,"Russia New York, NY",None,None
+2,FALSE,Aldworth Charles Augustus,Aldworth Charles Augustus,male,30,0,0,248744,13,S,None,NA,"Bryn Mawr, PA, USA",None,None
+2,FALSE,Andrew Edgardo Samuel,Andrew Edgardo Samuel,male,18,0,0,231945,11.5,S,None,NA,"Buenos Aires, Argentina / New Jersey, NJ",None,None
+2,FALSE,Andrew Frank Thomas,Andrew Frank Thomas,male,25,0,0,C.A. 34050,10.5,S,None,NA,"Cornwall, England Houghton, MI",None,None
+2,FALSE,Angle William A,Angle William A,male,34,1,0,226875,26,S,None,NA,"Warwick, England",None,None
+2,TRUE,Angle William A,"Florence ""Mary"" Agnes Hughes",female,36,1,0,226875,26,S,3,NA,"Warwick, England",None,None
+2,FALSE,Ashby John,Ashby John,male,57,0,0,244346,13,S,None,NA,"West Hoboken, NJ",None,None
+2,FALSE,Bailey Percy Andrew,Bailey Percy Andrew,male,18,0,0,29108,11.5,S,None,NA,"Penzance, Cornwall / Akron, OH",None,None
+2,FALSE,Baimbrigge Charles Robert,Baimbrigge Charles Robert,male,23,0,0,C.A. 31030,10.5,S,None,NA,Guernsey,None,None
+2,TRUE,Ball,Ada E Hall,female,36,0,0,28551,13,S,2,NA,"Bristol, Avon / Jacksonville, FL",D,
+2,FALSE,Banfield Frederick James,Banfield Frederick James,male,28,0,0,C.A./SOTON 34068,10.5,S,None,NA,"Plymouth, Dorset / Houghton, MI",None,None
+2,FALSE,Bateman Rev Robert James,Bateman Rev Robert James,male,51,0,0,S.O.P. 1166,12.53,S,None,174,"Jacksonville, FL",None,None
+2,TRUE,Beane Edward,Beane Edward,male,32,1,0,2908,26,S,5,NA,"Norwich / New York, NY",None,None
+2,TRUE,Beane Edward,Ethel Clarke,female,19,1,0,2908,26,S,5,NA,"Norwich / New York, NY",None,None
+2,FALSE,Beauchamp Henry James,Beauchamp Henry James,male,28,0,0,244358,26,S,None,NA,England,None,None
+2,TRUE,Becker Master Richard F,Becker Master Richard F,male,1,2,1,230136,39,S,3,NA,"Guntur, India / Benton Harbour, MI",F,4
+2,TRUE,Becker Marion Louise,Becker Marion Louise,female,4,2,1,230136,39,S,3,NA,"Guntur, India / Benton Harbour, MI",F,4
+2,TRUE,Becker Ruth Elizabeth,Becker Ruth Elizabeth,female,12,2,1,230136,39,S,5,NA,"Guntur, India / Benton Harbour, MI",F,4
+2,TRUE,Becker Allen Oliver,Nellie E Baumgardner,female,36,0,3,230136,39,S,3,NA,"Guntur, India / Benton Harbour, MI",F,4
+2,TRUE,Beesley Lawrence,Beesley Lawrence,male,34,0,0,248698,13,S,5,NA,London,D,56
+2,TRUE,Bentham Lilian W,Bentham Lilian W,female,19,0,0,28404,13,S,4,NA,"Rochester, NY",None,None
+2,FALSE,Berriman William John,Berriman William John,male,23,0,0,28425,13,S,None,NA,"St Ives, Cornwall / Calumet, MI",None,None
+2,FALSE,Botsford William Hull,Botsford William Hull,male,26,0,0,237670,13,S,None,NA,"Elmira, NY / Orange, NJ",None,None
+2,FALSE,Bowenur Solomon,Bowenur Solomon,male,42,0,0,211535,13,S,None,NA,London,None,None
+2,FALSE,Bracken James H,Bracken James H,male,27,0,0,220367,13,S,None,NA,"Lake Arthur, Chavez County, NM",None,None
+2,TRUE,"Brown Amelia ""Mildred""","Brown Amelia ""Mildred""",female,24,0,0,248733,13,S,3,NA,"London / Montreal, PQ",F,33
+2,TRUE,Brown Edith Eileen,Brown Edith Eileen,female,15,0,2,29750,39,S,8,NA,"Cape Town, South Africa / Seattle, WA",None,None
+2,FALSE,Brown Thomas William Solomon,Brown Thomas William Solomon,male,60,1,1,29750,39,S,None,NA,"Cape Town, South Africa / Seattle, WA",None,None
+2,TRUE,Brown Thomas William Solomon,Elizabeth Catherine Ford,female,40,1,1,29750,39,S,8,NA,"Cape Town, South Africa / Seattle, WA",None,None
+2,TRUE,Bryhl Dagmar Jenny Ingeborg,Bryhl Dagmar Jenny Ingeborg,female,20,1,0,236853,26,S,4,NA,"Skara, Sweden / Rockford, IL",None,None
+2,FALSE,Bryhl Kurt Arnold Gottfrid,Bryhl Kurt Arnold Gottfrid,male,25,1,0,236853,26,S,None,NA,"Skara, Sweden / Rockford, IL",None,None
+2,TRUE,Buss Kate,Buss Kate,female,36,0,0,27849,13,S,22,NA,"Sittingbourne, England / San Diego, CA",None,None
+2,FALSE,Butler Reginald Fenton,Butler Reginald Fenton,male,25,0,0,234686,NA,S,None,97,"Southsea, Hants",None,None
+2,FALSE,Byles Rev Thomas Roussel Davids,Byles Rev Thomas Roussel Davids,male,42,0,0,244310,13,S,None,NA,London,None,None
+2,TRUE,Bystrom,Karolina,female,42,0,0,236852,13,S,None,NA,"New York, NY",None,None
+2,TRUE,Caldwell Master Alden Gates,Caldwell Master Alden Gates,male,1,0,2,248738,29,S,5,NA,"Bangkok, Thailand / Roseville, IL",None,None
+2,TRUE,Caldwell Albert Francis,Caldwell Albert Francis,male,26,1,1,248738,29,S,5,NA,"Bangkok, Thailand / Roseville, IL",None,None
+2,TRUE,Caldwell Albert Francis,Sylvia Mae Harbaugh,female,22,1,1,248738,29,S,5,NA,"Bangkok, Thailand / Roseville, IL",None,None
+2,TRUE,Cameron Clear Annie,Cameron Clear Annie,female,35,0,0,F.C.C. 13528,21,S,8,NA,"Mamaroneck, NY",None,None
+2,FALSE,Campbell William,Campbell William,male,NA,0,0,239853,0,S,None,NA,Belfast,None,None
+2,FALSE,Carbines William,Carbines William,male,19,0,0,28424,13,S,None,18,"St Ives, Cornwall / Calumet, MI",None,None
+2,FALSE,Carter Ernest Courtenay,Lilian Hughes,female,44,1,0,244252,26,S,None,NA,London,None,None
+2,FALSE,Carter Rev Ernest Courtenay,Carter Rev Ernest Courtenay,male,54,1,0,244252,26,S,None,NA,London,None,None
+2,FALSE,Chapman Charles Henry,Chapman Charles Henry,male,52,0,0,248731,13.5,S,None,130,"Bronx, NY",None,None
+2,FALSE,Chapman John Henry,Chapman John Henry,male,37,1,0,SC/AH 29037,26,S,None,17,"Cornwall / Spokane, WA",None,None
+2,FALSE,Chapman John Henry,Sara Elizabeth Lawry,female,29,1,0,SC/AH 29037,26,S,None,NA,"Cornwall / Spokane, WA",None,None
+2,TRUE,Christy Julie Rachel,Christy Julie Rachel,female,25,1,1,237789,30,S,4,NA,London,None,None
+2,TRUE,Christy,Alice Frances,female,45,0,2,237789,30,S,4,NA,London,None,None
+2,FALSE,Clarke Charles Valentine,Clarke Charles Valentine,male,29,1,0,2003,26,S,None,NA,"England / San Francisco, CA",None,None
+2,TRUE,Clarke Charles V,Ada Maria Winfield,female,28,1,0,2003,26,S,8,NA,"England / San Francisco, CA",None,None
+2,FALSE,Coleridge Reginald Charles,Coleridge Reginald Charles,male,29,0,0,W./C. 14263,10.5,S,None,NA,"Hartford, Huntingdonshire",None,None
+2,FALSE,Collander Erik Gustaf,Collander Erik Gustaf,male,28,0,0,248740,13,S,None,NA,"Helsinki, Finland Ashtabula, Ohio",None,None
+2,TRUE,Collett Sidney C Stuart,Collett Sidney C Stuart,male,24,0,0,28034,10.5,S,22,NA,"London / Fort Byron, NY",None,None
+2,TRUE,"Collyer Marjorie ""Lottie""","Collyer Marjorie ""Lottie""",female,8,0,2,C.A. 31921,26.25,S,8,NA,"Bishopstoke, Hants / Fayette Valley, ID",None,None
+2,FALSE,Collyer Harvey,Collyer Harvey,male,31,1,1,C.A. 31921,26.25,S,None,NA,"Bishopstoke, Hants / Fayette Valley, ID",None,None
+2,TRUE,Collyer Harvey,Charlotte Annie Tate,female,31,1,1,C.A. 31921,26.25,S,8,NA,"Bishopstoke, Hants / Fayette Valley, ID",None,None
+2,TRUE,Cook,Selena Rogers,female,22,0,0,W./C. 14266,10.5,S,8,NA,Pennsylvania,F,33
+2,FALSE,Corbett Walter H,Irene Colvin,female,30,0,0,237249,13,S,None,NA,"Provo, UT",None,None
+2,FALSE,Corey Percy C,Mary Phyllis Elizabeth Miller,female,NA,0,0,F.C.C. 13534,21,S,None,NA,"Upper Burma, India Pittsburgh, PA",None,None
+2,FALSE,"Cotterill Henry ""Harry""","Cotterill Henry ""Harry""",male,21,0,0,29107,11.5,S,None,NA,"Penzance, Cornwall / Akron, OH",None,None
+2,FALSE,Cunningham Alfred Fleming,Cunningham Alfred Fleming,male,NA,0,0,239853,0,S,None,NA,Belfast,None,None
+2,TRUE,Davies Master John Morgan Jr,Davies Master John Morgan Jr,male,8,1,1,C.A. 33112,36.75,S,8,NA,"St Ives, Cornwall / Hancock, MI",None,None
+2,FALSE,Davies Charles Henry,Davies Charles Henry,male,18,0,0,S.O.C. 14879,73.5,S,None,NA,"Lyndhurst, England",None,None
+2,TRUE,Davies John Morgan,Elizabeth Agnes Mary White,female,48,0,2,C.A. 33112,36.75,S,8,NA,"St Ives, Cornwall / Hancock, MI",None,None
+2,TRUE,Davis Mary,Davis Mary,female,28,0,0,237668,13,S,5,NA,"London / Staten Island, NY",None,None
+2,FALSE,de Brito Jose Joaquim,de Brito Jose Joaquim,male,32,0,0,244360,13,S,None,NA,"Portugal / Sau Paulo, Brazil",None,None
+2,FALSE,Deacon Percy William,Deacon Percy William,male,17,0,0,S.O.C. 14879,73.5,S,None,NA,NA,None,None
+2,FALSE,del Carlo Sebastiano,del Carlo Sebastiano,male,29,1,0,SC/PARIS 2167,27.72,C,None,295,"Lucca, Italy / California",None,None
+2,TRUE,del Carlo Sebastiano,Argenia Genovesi,female,24,1,0,SC/PARIS 2167,27.72,C,4,NA,"Lucca, Italy / California",None,None
+2,FALSE,Denbury Herbert,Denbury Herbert,male,25,0,0,C.A. 31029,31.5,S,None,NA,"Guernsey / Elizabeth, NJ",None,None
+2,FALSE,Dibden William,Dibden William,male,18,0,0,S.O.C. 14879,73.5,S,None,NA,"New Forest, England",None,None
+2,TRUE,Doling Elsie,Doling Elsie,female,18,0,1,231919,23,S,None,NA,Southampton,None,None
+2,TRUE,Doling John T,Ada Julia Bone,female,34,0,1,231919,23,S,None,NA,Southampton,None,None
+2,FALSE,Downton William James,Downton William James,male,54,0,0,28403,26,S,None,NA,"Holley, NY",None,None
+2,TRUE,Drew Master Marshall Brines,Drew Master Marshall Brines,male,8,0,2,28220,32.5,S,2,NA,"Greenport, NY",None,None
+2,FALSE,Drew James Vivian,Drew James Vivian,male,42,1,1,28220,32.5,S,None,NA,"Greenport, NY",None,None
+2,TRUE,Drew James Vivian,Lulu Thorne Christian,female,34,1,1,28220,32.5,S,2,NA,"Greenport, NY",None,None
+2,TRUE,Duran y More Asuncion,Duran y More Asuncion,female,27,1,0,SC/PARIS 2149,13.86,C,4,NA,"Barcelona, Spain / Havana, Cuba",None,None
+2,TRUE,Duran y More Florentina,Duran y More Florentina,female,30,1,0,SC/PARIS 2148,13.86,C,4,NA,"Barcelona, Spain / Havana, Cuba",None,None
+2,FALSE,Eitemiller George Floyd,Eitemiller George Floyd,male,23,0,0,29751,13,S,None,NA,"England / Detroit, MI",None,None
+2,FALSE,Enander Ingvar,Enander Ingvar,male,21,0,0,236854,13,S,None,NA,"Goteborg, Sweden / Rockford, IL",None,None
+2,FALSE,Fahlstrom Arne Jonas,Fahlstrom Arne Jonas,male,18,0,0,236171,13,S,None,NA,"Oslo, Norway Bayonne, NJ",None,None
+2,FALSE,Faunthorpe Harry,Faunthorpe Harry,male,40,1,0,2926,26,S,None,286,"England / Philadelphia, PA",None,None
+2,TRUE,Faunthorpe Lizzie,Elizabeth Anne Wilkinson,female,29,1,0,2926,26,S,11,NA,NA,None,None
+2,FALSE,Fillbrook Joseph Charles,Fillbrook Joseph Charles,male,18,0,0,C.A. 15185,10.5,S,None,NA,"Cornwall / Houghton, MI",None,None
+2,FALSE,Fox Stanley Hubert,Fox Stanley Hubert,male,36,0,0,229236,13,S,None,236,"Rochester, NY",None,None
+2,FALSE,"Frost Anthony Wood ""Archie""","Frost Anthony Wood ""Archie""",male,NA,0,0,239854,0,S,None,NA,Belfast,None,None
+2,FALSE,Funk Annie Clemmer,Funk Annie Clemmer,female,38,0,0,237671,13,S,None,NA,"Janjgir, India / Pennsylvania",None,None
+2,FALSE,Fynney Joseph J,Fynney Joseph J,male,35,0,0,239865,26,S,None,322,"Liverpool / Montreal, PQ",None,None
+2,FALSE,Gale Harry,Gale Harry,male,38,1,0,28664,21,S,None,NA,"Cornwall / Clear Creek, CO",None,None
+2,FALSE,Gale Shadrach,Gale Shadrach,male,34,1,0,28664,21,S,None,NA,"Cornwall / Clear Creek, CO",None,None
+2,TRUE,Garside Ethel,Garside Ethel,female,34,0,0,243880,13,S,4,NA,"Brooklyn, NY",None,None
+2,FALSE,Gaskell Alfred,Gaskell Alfred,male,16,0,0,239865,26,S,None,NA,"Liverpool / Montreal, PQ",None,None
+2,FALSE,Gavey Lawrence,Gavey Lawrence,male,26,0,0,31028,10.5,S,None,NA,"Guernsey / Elizabeth, NJ",None,None
+2,FALSE,Gilbert William,Gilbert William,male,47,0,0,C.A. 30769,10.5,S,None,NA,Cornwall,None,None
+2,FALSE,Giles Edgar,Giles Edgar,male,21,1,0,28133,11.5,S,None,NA,"Cornwall / Camden, NJ",None,None
+2,FALSE,Giles Frederick Edward,Giles Frederick Edward,male,21,1,0,28134,11.5,S,None,NA,"Cornwall / Camden, NJ",None,None
+2,FALSE,Giles Ralph,Giles Ralph,male,24,0,0,248726,13.5,S,None,297,"West Kensington, London",None,None
+2,FALSE,Gill John William,Gill John William,male,24,0,0,233866,13,S,None,155,"Clevedon, England",None,None
+2,FALSE,Gillespie William Henry,Gillespie William Henry,male,34,0,0,12233,13,S,None,NA,"Vancouver, BC",None,None
+2,FALSE,Givard Hans Kristensen,Givard Hans Kristensen,male,30,0,0,250646,13,S,None,305,NA,None,None
+2,FALSE,Greenberg Samuel,Greenberg Samuel,male,52,0,0,250647,13,S,None,19,"Bronx, NY",None,None
+2,FALSE,Hale Reginald,Hale Reginald,male,30,0,0,250653,13,S,None,75,"Auburn, NY",None,None
+2,TRUE,Hamalainen Master Viljo,Hamalainen Master Viljo,male,1,1,1,250649,14.5,S,14,NA,"Detroit, MI",None,None
+2,TRUE,Hamalainen William,Anna,female,24,0,2,250649,14.5,S,14,NA,"Detroit, MI",None,None
+2,FALSE,Harbeck William H,Harbeck William H,male,44,0,0,248746,13,S,None,35,"Seattle, WA / Toledo, OH",None,None
+2,TRUE,"Harper Annie Jessie ""Nina""","Harper Annie Jessie ""Nina""",female,6,0,1,248727,33,S,3,NA,"Denmark Hill, Surrey / Chicago",None,None
+2,FALSE,Harper Rev John,Harper Rev John,male,28,0,1,248727,33,S,None,NA,"Denmark Hill, Surrey / Chicago",None,None
+2,TRUE,Harris George,Harris George,male,62,0,0,S.W./PP 752,10.5,S,9,NA,London,None,None
+2,FALSE,Harris Walter,Harris Walter,male,30,0,0,W/C 14208,10.5,S,None,NA,"Walthamstow, England",None,None
+2,TRUE,Hart Eva Miriam,Hart Eva Miriam,female,7,0,2,F.C.C. 13529,26.25,S,8,NA,"Ilford, Essex / Winnipeg, MB",None,None
+2,FALSE,Hart Benjamin,Hart Benjamin,male,43,1,1,F.C.C. 13529,26.25,S,None,NA,"Ilford, Essex / Winnipeg, MB",None,None
+2,TRUE,Hart Benjamin,Esther Ada Bloomfield,female,45,1,1,F.C.C. 13529,26.25,S,8,NA,"Ilford, Essex / Winnipeg, MB",None,None
+2,TRUE,Herman Alice,Herman Alice,female,24,1,2,220845,65,S,22,NA,"Somerset / Bernardsville, NJ",None,None
+2,TRUE,Herman Kate,Herman Kate,female,24,1,2,220845,65,S,22,NA,"Somerset / Bernardsville, NJ",None,None
+2,FALSE,Herman Samuel,Herman Samuel,male,49,1,2,220845,65,S,None,NA,"Somerset / Bernardsville, NJ",None,None
+2,TRUE,Herman Samuel,Jane Laver,female,48,1,2,220845,65,S,22,NA,"Somerset / Bernardsville, NJ",None,None
+2,TRUE,Hewlett,Mary D Kingcome,female,55,0,0,248706,16,S,5,NA,"India / Rapid City, SD",None,None
+2,FALSE,Hickman Leonard Mark,Hickman Leonard Mark,male,24,2,0,S.O.C. 14879,73.5,S,None,NA,"West Hampstead, London / Neepawa, MB",None,None
+2,FALSE,Hickman Lewis,Hickman Lewis,male,32,2,0,S.O.C. 14879,73.5,S,None,256,"West Hampstead, London / Neepawa, MB",None,None
+2,FALSE,Hickman Stanley George,Hickman Stanley George,male,21,2,0,S.O.C. 14879,73.5,S,None,NA,"West Hampstead, London / Neepawa, MB",None,None
+2,FALSE,Hiltunen Marta,Hiltunen Marta,female,18,1,1,250650,13,S,None,NA,"Kontiolahti, Finland / Detroit, MI",None,None
+2,TRUE,"Hocking Ellen ""Nellie""","Hocking Ellen ""Nellie""",female,20,2,1,29105,23,S,14,NA,"Cornwall / Akron, OH",None,None
+2,FALSE,Hocking Richard George,Hocking Richard George,male,23,2,1,29104,11.5,S,None,NA,"Cornwall / Akron, OH",None,None
+2,FALSE,Hocking Samuel James Metcalfe,Hocking Samuel James Metcalfe,male,36,0,0,242963,13,S,None,NA,"Devonport, England",None,None
+2,TRUE,Hocking Elizabeth,Eliza Needs,female,54,1,3,29105,23,S,14,NA,"Cornwall / Akron, OH",None,None
+2,FALSE,Hodges Henry Price,Hodges Henry Price,male,50,0,0,250643,13,S,None,149,Southampton,None,None
+2,FALSE,Hold Stephen,Hold Stephen,male,44,1,0,26707,26,S,None,NA,"England / Sacramento, CA",None,None
+2,TRUE,Hold Stephen,Annie Margaret Hill,female,29,1,0,26707,26,S,2,NA,"England / Sacramento, CA",None,None
+2,FALSE,Hood Ambrose Jr,Hood Ambrose Jr,male,21,0,0,S.O.C. 14879,73.5,S,None,NA,"New Forest, England",None,None
+2,TRUE,Hosono Masabumi,Hosono Masabumi,male,42,0,0,237798,13,S,2,NA,"Tokyo, Japan",None,None
+2,FALSE,Howard Benjamin,Howard Benjamin,male,63,1,0,24065,26,S,None,NA,"Swindon, England",None,None
+2,FALSE,Howard Benjamin,Ellen Truelove Arman,female,60,1,0,24065,26,S,None,NA,"Swindon, England",None,None
+2,FALSE,Hunt George Henry,Hunt George Henry,male,33,0,0,SCO/W 1585,12.28,S,None,NA,"Philadelphia, PA",None,None
+2,TRUE,Ilett Bertha,Ilett Bertha,female,17,0,0,SO/C 14885,10.5,S,None,NA,Guernsey,None,None
+2,FALSE,Jacobsohn Sidney Samuel,Jacobsohn Sidney Samuel,male,42,1,0,243847,27,S,None,NA,London,None,None
+2,TRUE,Jacobsohn Sidney Samuel,Amy Frances Christy,female,24,2,1,243847,27,S,4,NA,London,None,None
+2,FALSE,Jarvis John Denzil,Jarvis John Denzil,male,47,0,0,237565,15,S,None,NA,"North Evington, England",None,None
+2,FALSE,Jefferys Clifford Thomas,Jefferys Clifford Thomas,male,24,2,0,C.A. 31029,31.5,S,None,NA,"Guernsey / Elizabeth, NJ",None,None
+2,FALSE,Jefferys Ernest Wilfred,Jefferys Ernest Wilfred,male,22,2,0,C.A. 31029,31.5,S,None,NA,"Guernsey / Elizabeth, NJ",None,None
+2,FALSE,Jenkin Stephen Curnow,Jenkin Stephen Curnow,male,32,0,0,C.A. 33111,10.5,S,None,NA,"St Ives, Cornwall / Houghton, MI",None,None
+2,TRUE,Jerwan Amin S,Marie Marthe Thuillard,female,23,0,0,SC/AH Basle 541,13.79,C,3,NA,"New York, NY",D,
+2,FALSE,Kantor Sinai,Kantor Sinai,male,34,1,0,244367,26,S,None,283,"Moscow / Bronx, NY",None,None
+2,TRUE,Kantor Sinai,Miriam Sternin,female,24,1,0,244367,26,S,4,NA,"Moscow / Bronx, NY",None,None
+2,FALSE,Karnes J Frank,Claire Bennett,female,22,0,0,F.C.C. 13534,21,S,None,NA,"India / Pittsburgh, PA",None,None
+2,TRUE,Keane Nora A,Keane Nora A,female,NA,0,0,226593,12.35,Q,2,NA,"Harrisburg, PA",E,101
+2,FALSE,Keane Daniel,Keane Daniel,male,35,0,0,233734,12.35,Q,None,NA,NA,None,None
+2,TRUE,"Kelly Florence ""Fannie""","Kelly Florence ""Fannie""",female,45,0,0,223596,13.5,S,22,NA,"London / New York, NY",None,None
+2,FALSE,Kirkland Rev Charles Leonard,Kirkland Rev Charles Leonard,male,57,0,0,219533,12.35,Q,None,NA,"Glasgow / Bangor, ME",None,None
+2,FALSE,Knight Robert J,Knight Robert J,male,NA,0,0,239855,0,S,None,NA,Belfast,None,None
+2,FALSE,Kvillner Johan Henrik Johannesson,Kvillner Johan Henrik Johannesson,male,31,0,0,C.A. 18723,10.5,S,None,165,"Sweden / Arlington, NJ",None,None
+2,FALSE,Lahtinen William,Anna Sylfven,female,26,1,1,250651,26,S,None,NA,"Minneapolis, MN",None,None
+2,FALSE,Lahtinen Rev William,Lahtinen Rev William,male,30,1,1,250651,26,S,None,NA,"Minneapolis, MN",None,None
+2,FALSE,Lamb John Joseph,Lamb John Joseph,male,NA,0,0,240261,10.71,Q,None,NA,NA,None,None
+2,TRUE,Laroche Louise,Laroche Louise,female,1,1,2,SC/Paris 2123,41.58,C,8,NA,Paris / Haiti,None,None
+2,TRUE,Laroche Simonne Marie Anne Andree,Laroche Simonne Marie Anne Andree,female,3,1,2,SC/Paris 2123,41.58,C,8,NA,Paris / Haiti,None,None
+2,FALSE,Laroche Joseph Philippe Lemercier,Laroche Joseph Philippe Lemercier,male,25,1,2,SC/Paris 2123,41.58,C,None,NA,Paris / Haiti,None,None
+2,TRUE,Laroche Joseph,Juliette Marie Louise Lafargue,female,22,1,2,SC/Paris 2123,41.58,C,8,NA,Paris / Haiti,None,None
+2,TRUE,Lehmann Bertha,Lehmann Bertha,female,17,0,0,SC 1748,12,C,4,NA,"Berne, Switzerland / Central City, IA",None,None
+2,TRUE,Leitch Jessie Wills,Leitch Jessie Wills,female,NA,0,0,248727,33,S,3,NA,"London / Chicago, IL",None,None
+2,TRUE,Lemore,Amelia Milley,female,34,0,0,C.A. 34260,10.5,S,8,NA,"Chicago, IL",F,33
+2,FALSE,Levy Rene Jacques,Levy Rene Jacques,male,36,0,0,SC/Paris 2163,12.88,C,None,NA,"Montreal, PQ",D,
+2,FALSE,Leyson Robert William Norman,Leyson Robert William Norman,male,24,0,0,C.A. 29566,10.5,S,None,108,NA,None,None
+2,FALSE,Lingane John,Lingane John,male,61,0,0,235509,12.35,Q,None,NA,NA,None,None
+2,FALSE,Louch Charles Alexander,Louch Charles Alexander,male,50,1,0,SC/AH 3085,26,S,None,121,"Weston-Super-Mare, Somerset",None,None
+2,TRUE,Louch Charles Alexander,Alice Adelaide Slow,female,42,1,0,SC/AH 3085,26,S,None,NA,"Weston-Super-Mare, Somerset",None,None
+2,FALSE,Mack,Mary,female,57,0,0,S.O./P.P. 3,10.5,S,None,52,"Southampton / New York, NY",E,77
+2,FALSE,Malachard Noel,Malachard Noel,male,NA,0,0,237735,15.05,C,None,NA,Paris,D,
+2,TRUE,Mallet Master Andre,Mallet Master Andre,male,1,0,2,S.C./PARIS 2079,37,C,2,NA,"Paris / Montreal, PQ",None,None
+2,FALSE,Mallet Albert,Mallet Albert,male,31,1,1,S.C./PARIS 2079,37,C,None,NA,"Paris / Montreal, PQ",None,None
+2,TRUE,Mallet Albert,Antoinette Magnin,female,24,1,1,S.C./PARIS 2079,37,C,2,NA,"Paris / Montreal, PQ",None,None
+2,FALSE,Mangiavacchi Serafino Emilio,Mangiavacchi Serafino Emilio,male,NA,0,0,SC/A.3 2861,15.58,C,None,NA,"New York, NY",None,None
+2,FALSE,Matthews William John,Matthews William John,male,30,0,0,28228,13,S,None,NA,"St Austall, Cornwall",None,None
+2,FALSE,Maybery Frank Hubert,Maybery Frank Hubert,male,40,0,0,239059,16,S,None,NA,"Weston-Super-Mare / Moose Jaw, SK",None,None
+2,FALSE,McCrae Arthur Gordon,McCrae Arthur Gordon,male,32,0,0,237216,13.5,S,None,209,"Sydney, Australia",None,None
+2,FALSE,McCrie James Matthew,McCrie James Matthew,male,30,0,0,233478,13,S,None,NA,"Sarnia, ON",None,None
+2,FALSE,McKane Peter David,McKane Peter David,male,46,0,0,28403,26,S,None,NA,"Rochester, NY",None,None
+2,TRUE,Mellinger Madeleine Violet,Mellinger Madeleine Violet,female,13,0,1,250644,19.5,S,8,NA,"England / Bennington, VT",None,None
+2,TRUE,Mellinger,Elizabeth Anne Maidment,female,41,0,1,250644,19.5,S,8,NA,"England / Bennington, VT",None,None
+2,TRUE,Mellors William John,Mellors William John,male,19,0,0,SW/PP 751,10.5,S,24,NA,"Chelsea, London",None,None
+2,FALSE,Meyer August,Meyer August,male,39,0,0,248723,13,S,None,NA,"Harrow-on-the-Hill, Middlesex",None,None
+2,FALSE,Milling Jacob Christian,Milling Jacob Christian,male,48,0,0,234360,13,S,None,271,"Copenhagen, Denmark",None,None
+2,FALSE,Mitchell Henry Michael,Mitchell Henry Michael,male,70,0,0,C.A. 24580,10.5,S,None,NA,"Guernsey / Montclair, NJ and/or Toledo, Ohio",None,None
+2,FALSE,Montvila Rev Juozas,Montvila Rev Juozas,male,27,0,0,211536,13,S,None,NA,"Worcester, MA",None,None
+2,FALSE,Moraweck Dr Ernest,Moraweck Dr Ernest,male,54,0,0,29011,14,S,None,NA,"Frankfort, KY",None,None
+2,FALSE,Morley Henry Samuel,"""Mr Henry Marshall""",male,39,0,0,250655,26,S,None,NA,NA,None,None
+2,FALSE,Mudd Thomas Charles,Mudd Thomas Charles,male,16,0,0,S.O./P.P. 3,10.5,S,None,NA,"Halesworth, England",None,None
+2,FALSE,Myles Thomas Francis,Myles Thomas Francis,male,62,0,0,240276,9.69,Q,None,NA,"Cambridge, MA",None,None
+2,FALSE,Nasser Nicholas,Nasser Nicholas,male,32,1,0,237736,30.07,C,None,43,"New York, NY",None,None
+2,TRUE,Nasser Nicholas,Adele Achem,female,14,1,0,237736,30.07,C,None,NA,"New York, NY",None,None
+2,TRUE,Navratil Master Edmond Roger,Navratil Master Edmond Roger,male,2,1,1,230080,26,S,27,NA,"Nice, France",F,2
+2,TRUE,Navratil Master Michel M,Navratil Master Michel M,male,3,1,1,230080,26,S,27,NA,"Nice, France",F,2
+2,FALSE,Navratil Michel,"""Louis M Hoffman""",male,36,0,2,230080,26,S,None,15,"Nice, France",F,2
+2,FALSE,Nesson Israel,Nesson Israel,male,26,0,0,244368,13,S,None,NA,"Boston, MA",F,2
+2,FALSE,Nicholls Joseph Charles,Nicholls Joseph Charles,male,19,1,1,C.A. 33112,36.75,S,None,101,"Cornwall / Hancock, MI",None,None
+2,FALSE,Norman Robert Douglas,Norman Robert Douglas,male,28,0,0,218629,13.5,S,None,287,Glasgow,None,None
+2,TRUE,Nourney Alfred,"""Baron von Drachstedt""",male,20,0,0,SC/PARIS 2166,13.86,C,19,NA,"Cologne, Germany",D,38
+2,TRUE,Nye,Elizabeth Ramell,female,29,0,0,C.A. 29395,10.5,S,3,NA,"Folkstone, Kent / New York, NY",F,33
+2,FALSE,Otter Richard,Otter Richard,male,39,0,0,28213,13,S,None,NA,"Middleburg Heights, OH",None,None
+2,TRUE,Oxenham Percy Thomas,Oxenham Percy Thomas,male,22,0,0,W./C. 14260,10.5,S,5,NA,"Pondersend, England / New Durham, NJ",None,None
+2,TRUE,Padro y Manent Julian,Padro y Manent Julian,male,NA,0,0,SC/PARIS 2146,13.86,C,22,NA,"Spain / Havana, Cuba",None,None
+2,FALSE,Pain Dr Alfred,Pain Dr Alfred,male,23,0,0,244278,10.5,S,None,NA,"Hamilton, ON",None,None
+2,TRUE,Pallas y Castello Emilio,Pallas y Castello Emilio,male,29,0,0,SC/PARIS 2147,13.86,C,22,NA,"Spain / Havana, Cuba",None,None
+2,FALSE,Parker Clifford Richard,Parker Clifford Richard,male,28,0,0,SC 14888,10.5,S,None,NA,"St Andrews, Guernsey",None,None
+2,FALSE,"Parkes Francis ""Frank""","Parkes Francis ""Frank""",male,NA,0,0,239853,0,S,None,NA,Belfast,None,None
+2,TRUE,Parrish,Lutie Davis,female,50,0,1,230433,26,S,4,NA,"Woodford County, KY",None,None
+2,FALSE,Pengelly Frederick William,Pengelly Frederick William,male,19,0,0,28665,10.5,S,None,NA,"Gunnislake, England / Butte, MT",None,None
+2,FALSE,Pernot Rene,Pernot Rene,male,NA,0,0,SC/PARIS 2131,15.05,C,None,NA,NA,None,None
+2,FALSE,Peruschitz Rev Joseph Maria,Peruschitz Rev Joseph Maria,male,41,0,0,237393,13,S,None,NA,NA,None,None
+2,TRUE,Phillips Alice Frances Louisa,Phillips Alice Frances Louisa,female,21,0,1,S.O./P.P. 2,21,S,4,NA,"Ilfracombe, Devon",None,None
+2,TRUE,Phillips Kate Florence,"""Mrs Kate Louise Phillips Marshall""",female,19,0,0,250655,26,S,3,NA,"Worcester, England",None,None
+2,FALSE,Phillips Escott Robert,Phillips Escott Robert,male,43,0,1,S.O./P.P. 2,21,S,None,NA,"Ilfracombe, Devon",None,None
+2,TRUE,Pinsky,Rosa,female,32,0,0,234604,13,S,22,NA,Russia,None,None
+2,FALSE,Ponesell Martin,Ponesell Martin,male,34,0,0,250647,13,S,None,NA,"Denmark / New York, NY",None,None
+2,TRUE,Portaluppi Emilio Ilario Giuseppe,Portaluppi Emilio Ilario Giuseppe,male,30,0,0,C.A. 34644,12.74,C,8,NA,"Milford, NH",None,None
+2,FALSE,Pulbaum Franz,Pulbaum Franz,male,27,0,0,SC/PARIS 2168,15.03,C,None,NA,Paris,None,None
+2,TRUE,Quick Phyllis May,Quick Phyllis May,female,2,1,1,26360,26,S,3,NA,"Plymouth, Devon / Detroit, MI",None,None
+2,TRUE,Quick Winifred Vera,Quick Winifred Vera,female,8,1,1,26360,26,S,3,NA,"Plymouth, Devon / Detroit, MI",None,None
+2,TRUE,Quick Frederick Charles,Jane Richards,female,33,0,2,26360,26,S,3,NA,"Plymouth, Devon / Detroit, MI",None,None
+2,FALSE,Reeves David,Reeves David,male,36,0,0,C.A. 17248,10.5,S,None,NA,"Brighton, Sussex",None,None
+2,FALSE,Renouf Peter Henry,Renouf Peter Henry,male,34,1,0,31027,21,S,4,NA,"Elizabeth, NJ",None,None
+2,TRUE,Renouf Peter Henry,Lillian Jefferys,female,30,3,0,31027,21,S,None,NA,"Elizabeth, NJ",None,None
+2,TRUE,Reynaldo Ms Encarnacion,Reynaldo Ms Encarnacion,female,28,0,0,230434,13,S,22,NA,Spain,None,None
+2,FALSE,Richard Emile,Richard Emile,male,23,0,0,SC/PARIS 2133,15.05,C,None,NA,"Paris / Montreal, PQ",None,None
+2,TRUE,Richards Master George Sibley,Richards Master George Sibley,male,1,1,1,29106,18.75,S,14,NA,"Cornwall / Akron, OH",None,None
+2,TRUE,Richards Master William Rowe,Richards Master William Rowe,male,3,1,1,29106,18.75,S,14,NA,"Cornwall / Akron, OH",None,None
+2,TRUE,Richards Sidney,Emily Hocking,female,24,2,3,29106,18.75,S,14,NA,"Cornwall / Akron, OH",None,None
+2,TRUE,Ridsdale Lucy,Ridsdale Lucy,female,50,0,0,W./C. 14258,10.5,S,5,NA,"London, England / Marietta, Ohio and Milwaukee, WI",None,None
+2,FALSE,Rogers Reginald Harry,Rogers Reginald Harry,male,19,0,0,28004,10.5,S,None,NA,NA,None,None
+2,TRUE,Rugg Emily,Rugg Emily,female,21,0,0,C.A. 31026,10.5,S,4,NA,"Guernsey / Wilmington, DE",None,None
+2,FALSE,Schmidt August,Schmidt August,male,26,0,0,248659,13,S,None,NA,"Newark, NJ",None,None
+2,FALSE,Sedgwick Charles Frederick Waddington,Sedgwick Charles Frederick Waddington,male,25,0,0,244361,13,S,None,NA,Liverpool,None,None
+2,FALSE,Sharp Percival James R,Sharp Percival James R,male,27,0,0,244358,26,S,None,NA,"Hornsey, England",None,None
+2,TRUE,Shelley William,Imanita Parrish Hall,female,25,0,1,230433,26,S,4,NA,"Deer Lodge, MT",None,None
+2,TRUE,Silven Lyyli Karoliina,Silven Lyyli Karoliina,female,18,0,2,250652,13,S,11,NA,"Finland / Minneapolis, MN",None,None
+2,TRUE,Sincock Maude,Sincock Maude,female,20,0,0,C.A. 33112,36.75,S,3,NA,"Cornwall / Hancock, MI",None,None
+2,TRUE,Sinkkonen Anna,Sinkkonen Anna,female,30,0,0,250648,13,S,2,NA,"Finland / Washington, DC",None,None
+2,FALSE,Sjostedt Ernst Adolf,Sjostedt Ernst Adolf,male,59,0,0,237442,13.5,S,None,NA,"Sault St Marie, ON",None,None
+2,TRUE,Slayter Hilda Mary,Slayter Hilda Mary,female,30,0,0,234818,12.35,Q,5,NA,"Halifax, NS",None,None
+2,FALSE,Slemen Richard James,Slemen Richard James,male,35,0,0,28206,10.5,S,None,NA,Cornwall,None,None
+2,TRUE,Smith Marion Elsie,Smith Marion Elsie,female,40,0,0,31418,13,S,22,NA,NA,None,None
+2,FALSE,Sobey Samuel James Hayden,Sobey Samuel James Hayden,male,25,0,0,C.A. 29178,13,S,None,NA,"Cornwall / Houghton, MI",None,None
+2,FALSE,Stanton Samuel Ward,Stanton Samuel Ward,male,41,0,0,237734,15.05,C,None,NA,"New York, NY",None,None
+2,FALSE,Stokes Philip Joseph,Stokes Philip Joseph,male,25,0,0,F.C.C. 13540,10.5,S,None,81,"Catford, Kent / Detroit, MI",None,None
+2,FALSE,Swane George,Swane George,male,18,0,0,248734,13,S,None,294,NA,F,
+2,FALSE,Sweet George Frederick,Sweet George Frederick,male,14,0,0,220845,65,S,None,NA,"Somerset / Bernardsville, NJ",None,None
+2,TRUE,Toomey Ellen,Toomey Ellen,female,50,0,0,F.C.C. 13531,10.5,S,22,NA,"Indianapolis, IN",None,None
+2,FALSE,Troupiansky Moses Aaron,Troupiansky Moses Aaron,male,23,0,0,233639,13,S,None,NA,NA,None,None
+2,TRUE,Trout William H,Jessie L,female,28,0,0,240929,12.65,S,None,NA,"Columbus, OH",None,None
+2,TRUE,"Troutt Edwina Celia ""Winnie""","Troutt Edwina Celia ""Winnie""",female,27,0,0,34218,10.5,S,11,NA,"Bath, England / Massachusetts",E,101
+2,FALSE,Turpin William John Robert,Turpin William John Robert,male,29,1,0,11668,21,S,None,NA,"Plymouth, England",None,None
+2,FALSE,Turpin William John Robert,Dorothy Ann Wonnacott,female,27,1,0,11668,21,S,None,NA,"Plymouth, England",None,None
+2,FALSE,Veal James,Veal James,male,40,0,0,28221,13,S,None,NA,"Barre, Co Washington, VT",None,None
+2,TRUE,Walcroft Nellie,Walcroft Nellie,female,31,0,0,F.C.C. 13528,21,S,8,NA,"Mamaroneck, NY",None,None
+2,FALSE,Ware John James,Ware John James,male,30,1,0,CA 31352,21,S,None,NA,"Bristol, England / New Britain, CT",None,None
+2,FALSE,Ware William Jeffery,Ware William Jeffery,male,23,1,0,28666,10.5,S,None,NA,NA,None,None
+2,TRUE,Ware John James,Florence Louise Long,female,31,0,0,CA 31352,21,S,2,NA,"Bristol, England / New Britain, CT",None,None
+2,FALSE,Watson Ennis Hastings,Watson Ennis Hastings,male,NA,0,0,239856,0,S,None,NA,Belfast,None,None
+2,TRUE,Watt Bertha J,Watt Bertha J,female,12,0,0,C.A. 33595,15.75,S,22,NA,"Aberdeen / Portland, OR",None,None
+2,TRUE,Watt James,"Elizabeth ""Bessie"" Inglis Milne",female,40,0,0,C.A. 33595,15.75,S,22,NA,"Aberdeen / Portland, OR",None,None
+2,TRUE,Webber Susan,Webber Susan,female,32,0,0,27267,13,S,4,NA,"England / Hartford, CT",E,101
+2,FALSE,Weisz Leopold,Weisz Leopold,male,27,1,0,228414,26,S,None,293,"Bromsgrove, England / Montreal, PQ",None,None
+2,TRUE,Weisz Leopold,Mathilde Francoise Pede,female,29,1,0,228414,26,S,2,NA,"Bromsgrove, England / Montreal, PQ",None,None
+2,TRUE,Wells Master Ralph Lester,Wells Master Ralph Lester,male,2,1,1,29103,23,S,8,NA,"Cornwall / Akron, OH",None,None
+2,TRUE,Wells Joan,Wells Joan,female,4,1,1,29103,23,S,8,NA,"Cornwall / Akron, OH",None,None
+2,TRUE,Wells Arthur Henry,"""Addie"" Dart Trevaskis",female,29,0,2,29103,23,S,8,NA,"Cornwall / Akron, OH",None,None
+2,TRUE,West Barbara J,West Barbara J,female,1,1,2,C.A. 34651,27.75,S,2,NA,"Bournmouth, England",None,None
+2,TRUE,West Constance Mirium,West Constance Mirium,female,5,1,2,C.A. 34651,27.75,S,2,NA,"Bournmouth, England",None,None
+2,FALSE,West Edwy Arthur,West Edwy Arthur,male,36,1,2,C.A. 34651,27.75,S,None,NA,"Bournmouth, England",None,None
+2,TRUE,West Edwy Arthur,Ada Mary Worth,female,33,1,2,C.A. 34651,27.75,S,2,NA,"Bournmouth, England",None,None
+2,FALSE,Wheadon Edward H,Wheadon Edward H,male,66,0,0,C.A. 24579,10.5,S,None,NA,"Guernsey, England / Edgewood, RI",None,None
+2,FALSE,"Wheeler Edwin ""Frederick""","Wheeler Edwin ""Frederick""",male,NA,0,0,SC/PARIS 2159,12.88,S,None,NA,NA,None,None
+2,TRUE,Wilhelms Charles,Wilhelms Charles,male,NA,0,0,244270,13,S,22,NA,"London, England",None,None
+2,TRUE,Williams Charles Eugene,Williams Charles Eugene,male,NA,0,0,244373,13,S,8,NA,"Harrow, England",None,None
+2,TRUE,Wright Marion,Wright Marion,female,26,0,0,220844,13.5,S,22,NA,"Yoevil, England / Cottage Grove, OR",None,None
+2,FALSE,Yrois Henriette,"""Mrs Harbeck""",female,24,0,0,248747,13,S,None,NA,Paris,None,None
+3,FALSE,Abbing Anthony,Abbing Anthony,male,42,0,0,C.A. 5547,7.55,S,None,NA,NA,None,None
+3,FALSE,Abbott Master Eugene Joseph,Abbott Master Eugene Joseph,male,13,0,2,C.A. 2673,20.25,S,None,NA,"East Providence, RI",None,None
+3,FALSE,Abbott Rossmore Edward,Abbott Rossmore Edward,male,16,1,1,C.A. 2673,20.25,S,None,190,"East Providence, RI",None,None
+3,TRUE,Abbott Stanton,Rosa Hunt,female,35,1,1,C.A. 2673,20.25,S,23,NA,"East Providence, RI",None,None
+3,TRUE,Abelseth Karen Marie,Abelseth Karen Marie,female,16,0,0,348125,7.65,S,11,NA,"Norway Los Angeles, CA",None,None
+3,TRUE,Abelseth Olaus Jorgensen,Abelseth Olaus Jorgensen,male,25,0,0,348122,7.65,S,23,NA,"Perkins County, SD",F,63
+3,TRUE,Abrahamsson Abraham August Johannes,Abrahamsson Abraham August Johannes,male,20,0,0,SOTON/O2 3101284,7.92,S,9,NA,"Taalintehdas, Finland Hoboken, NJ",None,None
+3,TRUE,Abrahim Joseph,Sophie Halaut Easu,female,18,0,0,2657,7.23,C,25,NA,"Greensburg, PA",None,None
+3,FALSE,Adahl Mauritz Nils Martin,Adahl Mauritz Nils Martin,male,30,0,0,C 7076,7.25,S,None,72,"Asarum, Sweden Brooklyn, NY",None,None
+3,FALSE,Adams John,Adams John,male,26,0,0,341826,8.05,S,None,103,"Bournemouth, England",None,None
+3,FALSE,Ahlin Johan,Johanna Persdotter Larsson,female,40,1,0,7546,9.47,S,None,NA,"Sweden Akeley, MN",None,None
+3,TRUE,Aks Master Philip Frank,Aks Master Philip Frank,male,1,0,1,392091,9.35,S,3,NA,"London, England Norfolk, VA",None,None
+3,TRUE,Aks Sam,Leah Rosen,female,18,0,1,392091,9.35,S,5,NA,"London, England Norfolk, VA",None,None
+3,TRUE,Albimona Nassef Cassem,Albimona Nassef Cassem,male,26,0,0,2699,18.79,C,9,NA,"Syria Fredericksburg, VA",None,None
+3,FALSE,Alexander William,Alexander William,male,26,0,0,3474,7.89,S,None,NA,"England Albion, NY",None,None
+3,FALSE,Alhomaki Ilmari Rudolf,Alhomaki Ilmari Rudolf,male,20,0,0,SOTON/O2 3101287,7.92,S,None,NA,"Salo, Finland Astoria, OR",None,None
+3,FALSE,Ali Ahmed,Ali Ahmed,male,24,0,0,SOTON/O.Q. 3101311,7.05,S,None,NA,NA,None,None
+3,FALSE,Ali William,Ali William,male,25,0,0,SOTON/O.Q. 3101312,7.05,S,None,79,Argentina,None,None
+3,FALSE,Allen William Henry,Allen William Henry,male,35,0,0,373450,8.05,S,None,NA,"Lower Clapton, Middlesex or Erdington, Birmingham",None,None
+3,FALSE,Allum Owen George,Allum Owen George,male,18,0,0,2223,8.3,S,None,259,"Windsor, England New York, NY",None,None
+3,FALSE,Andersen Albert Karvin,Andersen Albert Karvin,male,32,0,0,C 4001,22.52,S,None,260,"Bergen, Norway",None,None
+3,TRUE,Andersen-Jensen Carla Christine Nielsine,Andersen-Jensen Carla Christine Nielsine,female,19,1,0,350046,7.85,S,11,NA,NA,None,None
+3,FALSE,Andersson Master Sigvard Harald Elias,Andersson Master Sigvard Harald Elias,male,4,4,2,347082,31.27,S,None,NA,"Sweden Winnipeg, MN",None,None
+3,FALSE,Andersson Ebba Iris Alfrida,Andersson Ebba Iris Alfrida,female,6,4,2,347082,31.27,S,None,NA,"Sweden Winnipeg, MN",None,None
+3,FALSE,Andersson Ellis Anna Maria,Andersson Ellis Anna Maria,female,2,4,2,347082,31.27,S,None,NA,"Sweden Winnipeg, MN",None,None
+3,TRUE,Andersson Erna Alexandra,Andersson Erna Alexandra,female,17,4,2,3101281,7.92,S,27,NA,"Ruotsinphyhtaa, Finland New York, NY",None,None
+3,FALSE,Andersson Ida Augusta Margareta,Andersson Ida Augusta Margareta,female,38,4,2,347091,7.78,S,None,NA,"Vadsbro, Sweden Ministee, MI",None,None
+3,FALSE,Andersson Ingeborg Constanzia,Andersson Ingeborg Constanzia,female,9,4,2,347082,31.27,S,None,NA,"Sweden Winnipeg, MN",None,None
+3,FALSE,Andersson Sigrid Elisabeth,Andersson Sigrid Elisabeth,female,11,4,2,347082,31.27,S,None,NA,"Sweden Winnipeg, MN",None,None
+3,FALSE,Andersson Anders Johan,Andersson Anders Johan,male,39,1,5,347082,31.27,S,None,NA,"Sweden Winnipeg, MN",None,None
+3,TRUE,Andersson August Edvard,"""Wennerstrom""",male,27,0,0,350043,7.8,S,23,NA,NA,None,None
+3,FALSE,Andersson Johan Samuel,Andersson Johan Samuel,male,26,0,0,347075,7.78,S,None,NA,"Hartford, CT",None,None
+3,FALSE,Andersson Anders Johan,Alfrida Konstantia Brogren,female,39,1,5,347082,31.27,S,None,NA,"Sweden Winnipeg, MN",None,None
+3,FALSE,Andreasson Paul Edvin,Andreasson Paul Edvin,male,20,0,0,347466,7.85,S,None,NA,"Sweden Chicago, IL",None,None
+3,FALSE,Angheloff Minko,Angheloff Minko,male,26,0,0,349202,7.9,S,None,NA,"Bulgaria Chicago, IL",None,None
+3,FALSE,Arnold-Franchi Josef,Arnold-Franchi Josef,male,25,1,0,349237,17.8,S,None,NA,"Altdorf, Switzerland",None,None
+3,FALSE,Arnold-Franchi Josef,Josefine Franchi,female,18,1,0,349237,17.8,S,None,NA,"Altdorf, Switzerland",None,None
+3,FALSE,Aronsson Ernst Axel Algot,Aronsson Ernst Axel Algot,male,24,0,0,349911,7.78,S,None,NA,"Sweden Joliet, IL",None,None
+3,FALSE,Asim Adola,Asim Adola,male,35,0,0,SOTON/O.Q. 3101310,7.05,S,None,NA,NA,None,None
+3,FALSE,Asplund Master Carl Edgar,Asplund Master Carl Edgar,male,5,4,2,347077,31.39,S,None,NA,"Sweden  Worcester, MA",None,None
+3,FALSE,Asplund Master Clarence Gustaf Hugo,Asplund Master Clarence Gustaf Hugo,male,9,4,2,347077,31.39,S,None,NA,"Sweden Worcester, MA",None,None
+3,TRUE,Asplund Master Edvin Rojj Felix,Asplund Master Edvin Rojj Felix,male,3,4,2,347077,31.39,S,9,NA,"Sweden Worcester, MA",None,None
+3,FALSE,Asplund Master Filip Oscar,Asplund Master Filip Oscar,male,13,4,2,347077,31.39,S,None,NA,"Sweden Worcester, MA",None,None
+3,TRUE,Asplund Lillian Gertrud,Asplund Lillian Gertrud,female,5,4,2,347077,31.39,S,9,NA,"Sweden Worcester, MA",None,None
+3,FALSE,Asplund Carl Oscar Vilhelm Gustafsson,Asplund Carl Oscar Vilhelm Gustafsson,male,40,1,5,347077,31.39,S,None,142,"Sweden  Worcester, MA",None,None
+3,TRUE,Asplund Johan Charles,Asplund Johan Charles,male,23,0,0,350054,7.8,S,5,NA,"Oskarshamn, Sweden Minneapolis, MN",None,None
+3,TRUE,Asplund Carl Oscar,Selma Augusta Emilia Johansson,female,38,1,5,347077,31.39,S,9,NA,"Sweden  Worcester, MA",None,None
+3,TRUE,Assaf Khalil Mariana,"""Miriam""",female,45,0,0,2696,7.22,C,25,NA,"Ottawa, ON",None,None
+3,FALSE,Assaf Gerios,Assaf Gerios,male,21,0,0,2692,7.22,C,None,NA,"Ottawa, ON",None,None
+3,FALSE,Assam Ali,Assam Ali,male,23,0,0,SOTON/O.Q. 3101309,7.05,S,None,NA,NA,None,None
+3,FALSE,Attalah Malake,Attalah Malake,female,17,0,0,2627,14.46,C,None,NA,NA,None,None
+3,FALSE,Attalah Sleiman,Attalah Sleiman,male,30,0,0,2694,7.22,C,None,NA,"Ottawa, ON",None,None
+3,FALSE,Augustsson Albert,Augustsson Albert,male,23,0,0,347468,7.85,S,None,NA,"Krakoryd, Sweden Bloomington, IL",None,None
+3,TRUE,Ayoub Banoura,Ayoub Banoura,female,13,0,0,2687,7.23,C,25,NA,"Syria Youngstown, OH",None,None
+3,FALSE,Baccos Raffull,Baccos Raffull,male,20,0,0,2679,7.22,C,None,NA,NA,None,None
+3,FALSE,Backstrom Karl Alfred,Backstrom Karl Alfred,male,32,1,0,3101278,15.85,S,27,NA,"Ruotsinphytaa, Finland New York, NY",None,None
+3,TRUE,Backstrom Karl Alfred,Maria Mathilda Gustafsson,female,33,3,0,3101278,15.85,S,None,NA,"Ruotsinphytaa, Finland New York, NY",None,None
+3,TRUE,Baclini Eugenie,Baclini Eugenie,female,1,2,1,2666,19.26,C,25,NA,"Syria New York, NY",None,None
+3,TRUE,Baclini Helene Barbara,Baclini Helene Barbara,female,1,2,1,2666,19.26,C,25,NA,"Syria New York, NY",None,None
+3,TRUE,Baclini Marie Catherine,Baclini Marie Catherine,female,5,2,1,2666,19.26,C,25,NA,"Syria New York, NY",None,None
+3,TRUE,Baclini Solomon,Latifa Qurban,female,24,0,3,2666,19.26,C,25,NA,"Syria New York, NY",None,None
+3,TRUE,Badman Emily Louisa,Badman Emily Louisa,female,18,0,0,A/4 31416,8.05,S,25,NA,"London Skanteales, NY",None,None
+3,FALSE,Badt Mohamed,Badt Mohamed,male,40,0,0,2623,7.22,C,None,NA,NA,None,None
+3,FALSE,Balkic Cerin,Balkic Cerin,male,26,0,0,349248,7.9,S,None,NA,NA,None,None
+3,TRUE,Barah Hanna Assi,Barah Hanna Assi,male,20,0,0,2663,7.23,C,9,NA,NA,None,None
+3,FALSE,Barbara Saiide,Barbara Saiide,female,18,0,1,2691,14.45,C,None,NA,"Syria Ottawa, ON",None,None
+3,FALSE,Barbara,Catherine David,female,45,0,1,2691,14.45,C,None,NA,"Syria Ottawa, ON",None,None
+3,FALSE,Barry Julia,Barry Julia,female,27,0,0,330844,7.88,Q,None,NA,"New York, NY",None,None
+3,FALSE,Barton David John,Barton David John,male,22,0,0,324669,8.05,S,None,NA,"England New York, NY",None,None
+3,FALSE,Beavan William Thomas,Beavan William Thomas,male,19,0,0,323951,8.05,S,None,NA,England,None,None
+3,FALSE,Bengtsson John Viktor,Bengtsson John Viktor,male,26,0,0,347068,7.78,S,None,NA,"Krakudden, Sweden Moune, IL",None,None
+3,FALSE,Berglund Karl Ivar Sven,Berglund Karl Ivar Sven,male,22,0,0,PP 4348,9.35,S,None,NA,"Tranvik, Finland New York",None,None
+3,FALSE,Betros Master Seman,Betros Master Seman,male,NA,0,0,2622,7.23,C,None,NA,NA,None,None
+3,FALSE,Betros Tannous,Betros Tannous,male,20,0,0,2648,4.01,C,None,NA,Syria,None,None
+3,TRUE,Bing Lee,Bing Lee,male,32,0,0,1601,56.5,S,25,NA,"Hong Kong New York, NY",None,None
+3,FALSE,Birkeland Hans Martin Monsen,Birkeland Hans Martin Monsen,male,21,0,0,312992,7.78,S,None,NA,"Brennes, Norway New York",None,None
+3,FALSE,Bjorklund Ernst Herbert,Bjorklund Ernst Herbert,male,18,0,0,347090,7.75,S,None,NA,"Stockholm, Sweden New York",None,None
+3,FALSE,Bostandyeff Guentcho,Bostandyeff Guentcho,male,26,0,0,349224,7.9,S,None,NA,"Bulgaria Chicago, IL",None,None
+3,FALSE,Boulos Master Akar,Boulos Master Akar,male,6,1,1,2678,15.25,C,None,NA,"Syria Kent, ON",None,None
+3,FALSE,Boulos Nourelain,Boulos Nourelain,female,9,1,1,2678,15.25,C,None,NA,"Syria Kent, ON",None,None
+3,FALSE,Boulos Hanna,Boulos Hanna,male,NA,0,0,2664,7.22,C,None,NA,Syria,None,None
+3,FALSE,Boulos Joseph,Sultana,female,NA,0,2,2678,15.25,C,None,NA,"Syria Kent, ON",None,None
+3,FALSE,Bourke Mary,Bourke Mary,female,NA,0,2,364848,7.75,Q,None,NA,"Ireland Chicago, IL",None,None
+3,FALSE,Bourke John,Bourke John,male,40,1,1,364849,15.5,Q,None,NA,"Ireland Chicago, IL",None,None
+3,FALSE,Bourke John,Catherine,female,32,1,1,364849,15.5,Q,None,NA,"Ireland Chicago, IL",None,None
+3,FALSE,"Bowen David John ""Dai""","Bowen David John ""Dai""",male,21,0,0,54636,16.1,S,None,NA,"Treherbert, Cardiff, Wales",None,None
+3,TRUE,Bradley Bridget Delia,Bradley Bridget Delia,female,22,0,0,334914,7.72,Q,5,NA,"Kingwilliamstown, Co Cork, Ireland Glens Falls, NY",None,None
+3,FALSE,Braf Elin Ester Maria,Braf Elin Ester Maria,female,20,0,0,347471,7.85,S,None,NA,"Medeltorp, Sweden Chicago, IL",None,None
+3,FALSE,Braund Lewis Richard,Braund Lewis Richard,male,29,1,0,3460,7.05,S,None,NA,"Bridgerule, Devon",None,None
+3,FALSE,Braund Owen Harris,Braund Owen Harris,male,22,1,0,A/5 21171,7.25,S,None,NA,"Bridgerule, Devon",None,None
+3,FALSE,Brobeck Karl Rudolf,Brobeck Karl Rudolf,male,22,0,0,350045,7.8,S,None,NA,"Sweden Worcester, MA",None,None
+3,FALSE,Brocklebank William Alfred,Brocklebank William Alfred,male,35,0,0,364512,8.05,S,None,NA,"Broomfield, Chelmsford, England",None,None
+3,FALSE,Buckley Katherine,Buckley Katherine,female,18,0,0,329944,7.28,Q,None,299,"Co Cork, Ireland Roxbury, MA",None,None
+3,TRUE,Buckley Daniel,Buckley Daniel,male,21,0,0,330920,7.82,Q,5,NA,"Kingwilliamstown, Co Cork, Ireland New York, NY",None,None
+3,FALSE,Burke Jeremiah,Burke Jeremiah,male,19,0,0,365222,6.75,Q,None,NA,"Co Cork, Ireland Charlestown, MA",None,None
+3,FALSE,Burns Mary Delia,Burns Mary Delia,female,18,0,0,330963,7.88,Q,None,NA,"Co Sligo, Ireland New York, NY",None,None
+3,FALSE,Cacic Manda,Cacic Manda,female,21,0,0,315087,8.66,S,None,NA,NA,None,None
+3,FALSE,Cacic Marija,Cacic Marija,female,30,0,0,315084,8.66,S,None,NA,NA,None,None
+3,FALSE,Cacic Jego Grga,Cacic Jego Grga,male,18,0,0,315091,8.66,S,None,NA,NA,None,None
+3,FALSE,Cacic Luka,Cacic Luka,male,38,0,0,315089,8.66,S,None,NA,Croatia,None,None
+3,FALSE,Calic Jovo,Calic Jovo,male,17,0,0,315093,8.66,S,None,NA,NA,None,None
+3,FALSE,Calic Petar,Calic Petar,male,17,0,0,315086,8.66,S,None,NA,NA,None,None
+3,FALSE,Canavan Mary,Canavan Mary,female,21,0,0,364846,7.75,Q,None,NA,NA,None,None
+3,FALSE,Canavan Patrick,Canavan Patrick,male,21,0,0,364858,7.75,Q,None,NA,"Ireland Philadelphia, PA",None,None
+3,FALSE,Cann Ernest Charles,Cann Ernest Charles,male,21,0,0,A./5. 2152,8.05,S,None,NA,NA,None,None
+3,FALSE,Caram Joseph,Caram Joseph,male,NA,1,0,2689,14.46,C,None,NA,"Ottawa, ON",None,None
+3,FALSE,Caram Joseph,Maria Elias,female,NA,1,0,2689,14.46,C,None,NA,"Ottawa, ON",None,None
+3,FALSE,Carlsson August Sigfrid,Carlsson August Sigfrid,male,28,0,0,350042,7.8,S,None,NA,"Dagsas, Sweden Fower, MN",None,None
+3,FALSE,Carlsson Carl Robert,Carlsson Carl Robert,male,24,0,0,350409,7.85,S,None,NA,"Goteborg, Sweden Huntley, IL",None,None
+3,TRUE,"Carr Helen ""Ellen""","Carr Helen ""Ellen""",female,16,0,0,367231,7.75,Q,11,NA,"Co Longford, Ireland New York, NY",None,None
+3,FALSE,Carr Jeannie,Carr Jeannie,female,37,0,0,368364,7.75,Q,None,NA,"Co Sligo, Ireland Hartford, CT",None,None
+3,FALSE,Carver Alfred John,Carver Alfred John,male,28,0,0,392095,7.25,S,None,NA,"St Denys, Southampton, Hants",None,None
+3,FALSE,Celotti Francesco,Celotti Francesco,male,24,0,0,343275,8.05,S,None,NA,London,None,None
+3,FALSE,Charters David,Charters David,male,21,0,0,A/5. 13032,7.73,Q,None,NA,"Ireland New York, NY",None,None
+3,TRUE,Chip Chang,Chip Chang,male,32,0,0,1601,56.5,S,25,NA,"Hong Kong New York, NY",None,None
+3,FALSE,Christmann Emil,Christmann Emil,male,29,0,0,343276,8.05,S,None,NA,NA,None,None
+3,FALSE,Chronopoulos Apostolos,Chronopoulos Apostolos,male,26,1,0,2680,14.45,C,None,NA,Greece,None,None
+3,FALSE,Chronopoulos Demetrios,Chronopoulos Demetrios,male,18,1,0,2680,14.45,C,None,NA,Greece,None,None
+3,FALSE,Coelho Domingos Fernandeo,Coelho Domingos Fernandeo,male,20,0,0,SOTON/O.Q. 3101307,7.05,S,None,NA,Portugal,None,None
+3,TRUE,"Cohen Gurshon ""Gus""","Cohen Gurshon ""Gus""",male,18,0,0,A/5 3540,8.05,S,4,NA,"London Brooklyn, NY",None,None
+3,FALSE,Colbert Patrick,Colbert Patrick,male,24,0,0,371109,7.25,Q,None,NA,"Co Limerick, Ireland Sherbrooke, PQ",None,None
+3,FALSE,Coleff Peju,Coleff Peju,male,36,0,0,349210,7.5,S,None,NA,"Bulgaria Chicago, IL",None,None
+3,FALSE,Coleff Satio,Coleff Satio,male,24,0,0,349209,7.5,S,None,NA,NA,None,None
+3,FALSE,Conlon Thomas Henry,Conlon Thomas Henry,male,31,0,0,21332,7.73,Q,None,NA,"Philadelphia, PA",None,None
+3,FALSE,Connaghton Michael,Connaghton Michael,male,31,0,0,335097,7.75,Q,None,NA,"Ireland Brooklyn, NY",None,None
+3,TRUE,Connolly Kate,Connolly Kate,female,22,0,0,370373,7.75,Q,5,NA,Ireland,None,None
+3,FALSE,Connolly Kate,Connolly Kate,female,30,0,0,330972,7.63,Q,None,NA,Ireland,None,None
+3,FALSE,Connors Patrick,Connors Patrick,male,70,0,0,370369,7.75,Q,None,171,NA,None,None
+3,FALSE,Cook Jacob,Cook Jacob,male,43,0,0,A/5 3536,8.05,S,None,NA,NA,None,None
+3,FALSE,Cor Bartol,Cor Bartol,male,35,0,0,349230,7.9,S,None,NA,Austria,None,None
+3,FALSE,Cor Ivan,Cor Ivan,male,27,0,0,349229,7.9,S,None,NA,Austria,None,None
+3,FALSE,Cor Liudevit,Cor Liudevit,male,19,0,0,349231,7.9,S,None,NA,Austria,None,None
+3,FALSE,Corn Harry,Corn Harry,male,30,0,0,SOTON/OQ 392090,8.05,S,None,NA,London,None,None
+3,TRUE,"Coutts Master Eden Leslie ""Neville""","Coutts Master Eden Leslie ""Neville""",male,9,1,1,C.A. 37671,15.9,S,12,NA,"England Brooklyn, NY",None,None
+3,TRUE,"Coutts Master William Loch ""William""","Coutts Master William Loch ""William""",male,3,1,1,C.A. 37671,15.9,S,12,NA,"England Brooklyn, NY",None,None
+3,TRUE,Coutts William,"Winnie ""Minnie"" Treanor",female,36,0,2,C.A. 37671,15.9,S,12,NA,"England Brooklyn, NY",None,None
+3,FALSE,Coxon Daniel,Coxon Daniel,male,59,0,0,364500,7.25,S,None,NA,"Merrill, WI",None,None
+3,FALSE,Crease Ernest James,Crease Ernest James,male,19,0,0,S.P. 3464,8.16,S,None,NA,"Bristol, England Cleveland, OH",None,None
+3,TRUE,Cribb Laura Alice,Cribb Laura Alice,female,17,0,1,371362,16.1,S,4,NA,"Bournemouth, England Newark, NJ",None,None
+3,FALSE,Cribb John Hatfield,Cribb John Hatfield,male,44,0,1,371362,16.1,S,None,NA,"Bournemouth, England Newark, NJ",None,None
+3,FALSE,Culumovic Jeso,Culumovic Jeso,male,17,0,0,315090,8.66,S,None,NA,Austria-Hungary,None,None
+3,FALSE,Daher Shedid,Daher Shedid,male,22,0,0,2698,7.22,C,None,9,NA,None,None
+3,TRUE,Dahl Karl Edwart,Dahl Karl Edwart,male,45,0,0,7598,8.05,S,9,NA,"Australia Fingal, ND",None,None
+3,FALSE,Dahlberg Gerda Ulrika,Dahlberg Gerda Ulrika,female,22,0,0,7552,10.52,S,None,NA,"Norrlot, Sweden Chicago, IL",None,None
+3,FALSE,Dakic Branko,Dakic Branko,male,19,0,0,349228,10.17,S,None,NA,Austria,None,None
+3,TRUE,"Daly Margaret Marcella ""Maggie""","Daly Margaret Marcella ""Maggie""",female,30,0,0,382650,6.95,Q,9,NA,"Co Athlone, Ireland New York, NY",None,None
+3,TRUE,Daly Eugene Patrick,Daly Eugene Patrick,male,29,0,0,382651,7.75,Q,7,NA,"Co Athlone, Ireland New York, NY",None,None
+3,FALSE,Danbom Master Gilbert Sigvard Emanuel,Danbom Master Gilbert Sigvard Emanuel,male,1,0,2,347080,14.4,S,None,NA,"Stanton, IA",None,None
+3,FALSE,Danbom Ernst Gilbert,Danbom Ernst Gilbert,male,34,1,1,347080,14.4,S,None,197,"Stanton, IA",None,None
+3,FALSE,Danbom Ernst Gilbert,Anna Sigrid Maria Brogren,female,28,1,1,347080,14.4,S,None,NA,"Stanton, IA",None,None
+3,FALSE,Danoff Yoto,Danoff Yoto,male,27,0,0,349219,7.9,S,None,NA,"Bulgaria Chicago, IL",None,None
+3,FALSE,Dantcheff Ristiu,Dantcheff Ristiu,male,25,0,0,349203,7.9,S,None,NA,"Bulgaria Chicago, IL",None,None
+3,FALSE,Davies Alfred J,Davies Alfred J,male,24,2,0,A/4 48871,24.15,S,None,NA,"West Bromwich, England Pontiac, MI",None,None
+3,FALSE,Davies Evan,Davies Evan,male,22,0,0,SC/A4 23568,8.05,S,None,NA,NA,None,None
+3,FALSE,Davies John Samuel,Davies John Samuel,male,21,2,0,A/4 48871,24.15,S,None,NA,"West Bromwich, England Pontiac, MI",None,None
+3,FALSE,Davies Joseph,Davies Joseph,male,17,2,0,A/4 48873,8.05,S,None,NA,"West Bromwich, England Pontiac, MI",None,None
+3,FALSE,Davison Thomas Henry,Davison Thomas Henry,male,NA,1,0,386525,16.1,S,None,NA,"Liverpool, England Bedford, OH",None,None
+3,TRUE,Davison Thomas Henry,Mary E Finck,female,NA,1,0,386525,16.1,S,11,NA,"Liverpool, England Bedford, OH",None,None
+3,TRUE,de Messemaeker Guillaume Joseph,de Messemaeker Guillaume Joseph,male,36,1,0,345572,17.4,S,9,NA,"Tampico, MT",None,None
+3,TRUE,de Messemaeker Guillaume Joseph,Emma,female,36,1,0,345572,17.4,S,5,NA,"Tampico, MT",None,None
+3,TRUE,de Mulder Theodore,de Mulder Theodore,male,30,0,0,345774,9.5,S,3,NA,"Belgium Detroit, MI",None,None
+3,FALSE,de Pelsmaeker Alfons,de Pelsmaeker Alfons,male,16,0,0,345778,NA,S,None,NA,NA,None,None
+3,TRUE,Dean Master Bertram Vere,Dean Master Bertram Vere,male,1,1,2,C.A. 2315,20.58,S,2,NA,"Devon, England Wichita, KS",None,None
+3,TRUE,"Dean Elizabeth Gladys ""Millvina""","Dean Elizabeth Gladys ""Millvina""",female,1,1,2,C.A. 2315,20.58,S,2,NA,"Devon, England Wichita, KS",None,None
+3,FALSE,Dean Bertram Frank,Dean Bertram Frank,male,26,1,2,C.A. 2315,20.58,S,None,NA,"Devon, England Wichita, KS",None,None
+3,TRUE,Dean Bertram,Eva Georgetta Light,female,33,1,2,C.A. 2315,20.58,S,2,NA,"Devon, England Wichita, KS",None,None
+3,FALSE,Delalic Redjo,Delalic Redjo,male,25,0,0,349250,7.9,S,None,NA,NA,None,None
+3,FALSE,Demetri Marinko,Demetri Marinko,male,NA,0,0,349238,7.9,S,None,NA,NA,None,None
+3,FALSE,Denkoff Mitto,Denkoff Mitto,male,NA,0,0,349225,7.9,S,None,NA,"Bulgaria Coon Rapids, IA",None,None
+3,FALSE,Dennis Samuel,Dennis Samuel,male,22,0,0,A/5 21172,7.25,S,None,NA,NA,None,None
+3,FALSE,Dennis William,Dennis William,male,36,0,0,A/5 21175,7.25,S,None,NA,NA,None,None
+3,TRUE,Devaney Margaret Delia,Devaney Margaret Delia,female,19,0,0,330958,7.88,Q,25,NA,"Kilmacowen, Co Sligo, Ireland New York, NY",None,None
+3,FALSE,Dika Mirko,Dika Mirko,male,17,0,0,349232,7.9,S,None,NA,NA,None,None
+3,FALSE,Dimic Jovan,Dimic Jovan,male,42,0,0,315088,8.66,S,None,NA,NA,None,None
+3,FALSE,Dintcheff Valtcho,Dintcheff Valtcho,male,43,0,0,349226,7.9,S,None,NA,NA,None,None
+3,FALSE,Doharr Tannous,Doharr Tannous,male,NA,0,0,2686,7.23,C,None,NA,NA,None,None
+3,FALSE,Dooley Patrick,Dooley Patrick,male,32,0,0,370376,7.75,Q,None,NA,"Ireland New York, NY",None,None
+3,TRUE,Dorking Edward Arthur,Dorking Edward Arthur,male,19,0,0,A/5. 10482,8.05,S,24,NA,"England Oglesby, IL",None,None
+3,TRUE,Dowdell Elizabeth,Dowdell Elizabeth,female,30,0,0,364516,12.47,S,5,NA,"Union Hill, NJ",None,None
+3,FALSE,Doyle Elizabeth,Doyle Elizabeth,female,24,0,0,368702,7.75,Q,None,NA,"Ireland New York, NY",None,None
+3,TRUE,Drapkin Jennie,Drapkin Jennie,female,23,0,0,SOTON/OQ 392083,8.05,S,None,NA,"London New York, NY",None,None
+3,FALSE,Drazenoic Jozef,Drazenoic Jozef,male,33,0,0,349241,7.9,C,None,51,"Austria Niagara Falls, NY",None,None
+3,FALSE,Duane Frank,Duane Frank,male,65,0,0,336439,7.75,Q,None,NA,NA,None,None
+3,TRUE,Duquemin Joseph,Duquemin Joseph,male,24,0,0,S.O./P.P. 752,7.55,S,27,NA,"England Albion, NY",None,None
+3,FALSE,Dyker Adolf Fredrik,Dyker Adolf Fredrik,male,23,1,0,347072,13.9,S,None,NA,"West Haven, CT",None,None
+3,TRUE,Dyker Adolf Fredrik,Anna Elisabeth Judith Andersson,female,22,1,0,347072,13.9,S,11,NA,"West Haven, CT",None,None
+3,FALSE,Edvardsson Gustaf Hjalmar,Edvardsson Gustaf Hjalmar,male,18,0,0,349912,7.78,S,None,NA,"Tofta, Sweden Joliet, IL",None,None
+3,FALSE,Eklund Hans Linus,Eklund Hans Linus,male,16,0,0,347074,7.78,S,None,NA,"Karberg, Sweden Jerome Junction, AZ",None,None
+3,FALSE,Ekstrom Johan,Ekstrom Johan,male,45,0,0,347061,6.97,S,None,NA,"Effington Rut, SD",None,None
+3,FALSE,Elias Dibo,Elias Dibo,male,NA,0,0,2674,7.22,C,None,NA,NA,None,None
+3,FALSE,Elias Joseph,Elias Joseph,male,39,0,2,2675,7.23,C,None,NA,"Syria Ottawa, ON",None,None
+3,FALSE,Elias Joseph Jr,Elias Joseph Jr,male,17,1,1,2690,7.23,C,None,NA,NA,None,None
+3,FALSE,Elias Tannous,Elias Tannous,male,15,1,1,2695,7.23,C,None,NA,Syria,None,None
+3,FALSE,Elsbury William James,Elsbury William James,male,47,0,0,A/5 3902,7.25,S,None,NA,"Illinois, USA",None,None
+3,TRUE,Emanuel Virginia Ethel,Emanuel Virginia Ethel,female,5,0,0,364516,12.47,S,5,NA,"New York, NY",None,None
+3,FALSE,Emir Farred Chehab,Emir Farred Chehab,male,NA,0,0,2631,7.22,C,None,NA,NA,None,None
+3,FALSE,Everett Thomas James,Everett Thomas James,male,40,0,0,C.A. 6212,15.1,S,None,187,NA,None,None
+3,FALSE,Farrell James,Farrell James,male,40,0,0,367232,7.75,Q,None,68,"Aughnacliff, Co Longford, Ireland New York, NY",None,None
+3,TRUE,Finoli Luigi,Finoli Luigi,male,NA,0,0,SOTON/O.Q. 3101308,7.05,S,9,NA,"Italy Philadelphia, PA",None,None
+3,FALSE,Fischer Eberhard Thelander,Fischer Eberhard Thelander,male,18,0,0,350036,7.8,S,None,NA,NA,None,None
+3,FALSE,Fleming Honora,Fleming Honora,female,NA,0,0,364859,7.75,Q,None,NA,NA,None,None
+3,FALSE,Flynn James,Flynn James,male,NA,0,0,364851,7.75,Q,None,NA,NA,None,None
+3,FALSE,Flynn John,Flynn John,male,NA,0,0,368323,6.95,Q,None,NA,NA,None,None
+3,FALSE,Foley Joseph,Foley Joseph,male,26,0,0,330910,7.88,Q,None,NA,"Ireland Chicago, IL",None,None
+3,FALSE,Foley William,Foley William,male,NA,0,0,365235,7.75,Q,None,NA,Ireland,None,None
+3,TRUE,Foo Choong,Foo Choong,male,NA,0,0,1601,56.5,S,5,NA,"Hong Kong New York, NY",None,None
+3,FALSE,"Ford Doolina Margaret ""Daisy""","Ford Doolina Margaret ""Daisy""",female,21,2,2,W./C. 6608,34.38,S,None,NA,"Rotherfield, Sussex, England Essex Co, MA",None,None
+3,FALSE,"Ford Robina Maggie ""Ruby""","Ford Robina Maggie ""Ruby""",female,9,2,2,W./C. 6608,34.38,S,None,NA,"Rotherfield, Sussex, England Essex Co, MA",None,None
+3,FALSE,Ford Arthur,Ford Arthur,male,NA,0,0,A/5 1478,8.05,S,None,NA,"Bridgwater, Somerset, England",None,None
+3,FALSE,Ford Edward Watson,Ford Edward Watson,male,18,2,2,W./C. 6608,34.38,S,None,NA,"Rotherfield, Sussex, England Essex Co, MA",None,None
+3,FALSE,Ford William Neal,Ford William Neal,male,16,1,3,W./C. 6608,34.38,S,None,NA,"Rotherfield, Sussex, England Essex Co, MA",None,None
+3,FALSE,Ford Edward,Margaret Ann Watson,female,48,1,3,W./C. 6608,34.38,S,None,NA,"Rotherfield, Sussex, England Essex Co, MA",None,None
+3,FALSE,Fox Patrick,Fox Patrick,male,NA,0,0,368573,7.75,Q,None,NA,"Ireland New York, NY",None,None
+3,FALSE,Franklin Charles,Charles Fardon,male,NA,0,0,SOTON/O.Q. 3101314,7.25,S,None,NA,NA,None,None
+3,FALSE,Gallagher Martin,Gallagher Martin,male,25,0,0,36864,7.74,Q,None,NA,"New York, NY",None,None
+3,FALSE,Garfirth John,Garfirth John,male,NA,0,0,358585,14.5,S,None,NA,NA,None,None
+3,FALSE,Gheorgheff Stanio,Gheorgheff Stanio,male,NA,0,0,349254,7.9,C,None,NA,NA,None,None
+3,FALSE,Gilinski Eliezer,Gilinski Eliezer,male,22,0,0,14973,8.05,S,None,47,NA,None,None
+3,TRUE,"Gilnagh Katherine ""Katie""","Gilnagh Katherine ""Katie""",female,16,0,0,35851,7.73,Q,11,NA,"Co Longford, Ireland New York, NY",None,None
+3,TRUE,Glynn Mary Agatha,Glynn Mary Agatha,female,NA,0,0,335677,7.75,Q,5,NA,"Co Clare, Ireland Washington, DC",None,None
+3,TRUE,"Goldsmith Master Frank John William ""Frankie""","Goldsmith Master Frank John William ""Frankie""",male,9,0,2,363291,20.52,S,26,NA,"Strood, Kent, England Detroit, MI",None,None
+3,FALSE,Goldsmith Frank John,Goldsmith Frank John,male,33,1,1,363291,20.52,S,None,NA,"Strood, Kent, England Detroit, MI",None,None
+3,FALSE,Goldsmith Nathan,Goldsmith Nathan,male,41,0,0,SOTON/O.Q. 3101263,7.85,S,None,NA,"Philadelphia, PA",None,None
+3,TRUE,Goldsmith Frank John,Emily Alice Brown,female,31,1,1,363291,20.52,S,26,NA,"Strood, Kent, England Detroit, MI",None,None
+3,FALSE,Goncalves Manuel Estanslas,Goncalves Manuel Estanslas,male,38,0,0,SOTON/O.Q. 3101306,7.05,S,None,NA,Portugal,None,None
+3,FALSE,Goodwin Master Harold Victor,Goodwin Master Harold Victor,male,9,5,2,CA 2144,46.9,S,None,NA,"Wiltshire, England Niagara Falls, NY",None,None
+3,FALSE,Goodwin Master Sidney Leonard,Goodwin Master Sidney Leonard,male,1,5,2,CA 2144,46.9,S,None,NA,"Wiltshire, England Niagara Falls, NY",None,None
+3,FALSE,Goodwin Master William Frederick,Goodwin Master William Frederick,male,11,5,2,CA 2144,46.9,S,None,NA,"Wiltshire, England Niagara Falls, NY",None,None
+3,FALSE,Goodwin Jessie Allis,Goodwin Jessie Allis,female,10,5,2,CA 2144,46.9,S,None,NA,"Wiltshire, England Niagara Falls, NY",None,None
+3,FALSE,Goodwin Lillian Amy,Goodwin Lillian Amy,female,16,5,2,CA 2144,46.9,S,None,NA,"Wiltshire, England Niagara Falls, NY",None,None
+3,FALSE,Goodwin Charles Edward,Goodwin Charles Edward,male,14,5,2,CA 2144,46.9,S,None,NA,"Wiltshire, England Niagara Falls, NY",None,None
+3,FALSE,Goodwin Charles Frederick,Goodwin Charles Frederick,male,40,1,6,CA 2144,46.9,S,None,NA,"Wiltshire, England Niagara Falls, NY",None,None
+3,FALSE,Goodwin Frederick,Augusta Tyler,female,43,1,6,CA 2144,46.9,S,None,NA,"Wiltshire, England Niagara Falls, NY",None,None
+3,FALSE,Green George Henry,Green George Henry,male,51,0,0,21440,8.05,S,None,NA,"Dorking, Surrey, England",None,None
+3,FALSE,Gronnestad Daniel Danielsen,Gronnestad Daniel Danielsen,male,32,0,0,8471,8.36,S,None,NA,"Foresvik, Norway Portland, ND",None,None
+3,FALSE,Guest Robert,Guest Robert,male,NA,0,0,376563,8.05,S,None,NA,NA,None,None
+3,FALSE,Gustafsson Alfred Ossian,Gustafsson Alfred Ossian,male,20,0,0,7534,9.85,S,None,NA,"Waukegan, Chicago, IL",None,None
+3,FALSE,Gustafsson Anders Vilhelm,Gustafsson Anders Vilhelm,male,37,2,0,3101276,7.92,S,None,98,"Ruotsinphytaa, Finland New York, NY",None,None
+3,FALSE,Gustafsson Johan Birger,Gustafsson Johan Birger,male,28,2,0,3101277,7.92,S,None,NA,"Ruotsinphytaa, Finland New York, NY",None,None
+3,FALSE,Gustafsson Karl Gideon,Gustafsson Karl Gideon,male,19,0,0,347069,7.78,S,None,NA,"Myren, Sweden New York, NY",None,None
+3,FALSE,Haas Aloisia,Haas Aloisia,female,24,0,0,349236,8.85,S,None,NA,NA,None,None
+3,FALSE,Hagardon Kate,Hagardon Kate,female,17,0,0,AQ/3. 30631,7.73,Q,None,NA,NA,None,None
+3,FALSE,Hagland Ingvald Olai Olsen,Hagland Ingvald Olai Olsen,male,NA,1,0,65303,19.97,S,None,NA,NA,None,None
+3,FALSE,Hagland Konrad Mathias Reiersen,Hagland Konrad Mathias Reiersen,male,NA,1,0,65304,19.97,S,None,NA,NA,None,None
+3,FALSE,Hakkarainen Pekka Pietari,Hakkarainen Pekka Pietari,male,28,1,0,STON/O2. 3101279,15.85,S,None,NA,NA,None,None
+3,TRUE,Hakkarainen Pekka Pietari,Elin Matilda Dolck,female,24,1,0,STON/O2. 3101279,15.85,S,9,NA,NA,None,None
+3,FALSE,Hampe Leon,Hampe Leon,male,20,0,0,345769,9.5,S,None,NA,NA,None,None
+3,FALSE,Hanna Mansour,Hanna Mansour,male,23,0,0,2693,7.23,C,None,188,NA,None,None
+3,FALSE,Hansen Claus Peter,Hansen Claus Peter,male,41,2,0,350026,14.11,S,None,NA,NA,None,None
+3,FALSE,Hansen Henrik Juul,Hansen Henrik Juul,male,26,1,0,350025,7.85,S,None,NA,NA,None,None
+3,FALSE,Hansen Henry Damsgaard,Hansen Henry Damsgaard,male,21,0,0,350029,7.85,S,None,69,NA,None,None
+3,TRUE,Hansen Claus Peter,Jennie L Howard,female,45,1,0,350026,14.11,S,3,NA,NA,None,None
+3,FALSE,Harknett Alice Phoebe,Harknett Alice Phoebe,female,NA,0,0,W./C. 6609,7.55,S,None,NA,NA,None,None
+3,FALSE,Harmer Abraham,David Lishin,male,25,0,0,374887,7.25,S,24,NA,NA,None,None
+3,FALSE,Hart Henry,Hart Henry,male,NA,0,0,394140,6.86,Q,None,NA,NA,None,None
+3,FALSE,Hassan Houssein G N,Hassan Houssein G N,male,11,0,0,2699,18.79,C,None,NA,NA,None,None
+3,TRUE,"Healy Hanora ""Nora""","Healy Hanora ""Nora""",female,NA,0,0,370375,7.75,Q,11,NA,NA,None,None
+3,TRUE,Hedman Oskar Arvid,Hedman Oskar Arvid,male,27,0,0,347089,6.97,S,9,NA,NA,None,None
+3,TRUE,Hee Ling,Hee Ling,male,NA,0,0,1601,56.5,S,25,NA,NA,None,None
+3,FALSE,"Hegarty Hanora ""Nora""","Hegarty Hanora ""Nora""",female,18,0,0,365226,6.75,Q,None,NA,NA,None,None
+3,TRUE,Heikkinen Laina,Heikkinen Laina,female,26,0,0,STON/O2. 3101282,7.92,S,None,NA,NA,None,None
+3,FALSE,Heininen Wendla Maria,Heininen Wendla Maria,female,23,0,0,STON/O2. 3101290,7.92,S,None,NA,NA,None,None
+3,TRUE,Hellstrom Hilda Maria,Hellstrom Hilda Maria,female,22,0,0,7548,8.96,S,25,NA,NA,None,None
+3,FALSE,Hendekovic Ignjac,Hendekovic Ignjac,male,28,0,0,349243,7.9,S,None,306,NA,None,None
+3,FALSE,Henriksson Jenny Lovisa,Henriksson Jenny Lovisa,female,28,0,0,347086,7.78,S,None,NA,NA,None,None
+3,FALSE,Henry Delia,Henry Delia,female,NA,0,0,382649,7.75,Q,None,NA,NA,None,None
+3,TRUE,Hirvonen Hildur E,Hirvonen Hildur E,female,2,0,1,3101298,12.29,S,9,NA,NA,None,None
+3,TRUE,Hirvonen Alexander,Helga E Lindqvist,female,22,1,1,3101298,12.29,S,9,NA,NA,None,None
+3,FALSE,Holm John Fredrik Alexander,Holm John Fredrik Alexander,male,43,0,0,C 7075,6.45,S,None,NA,NA,None,None
+3,FALSE,Holthen Johan Martin,Holthen Johan Martin,male,28,0,0,C 4001,22.52,S,None,NA,NA,None,None
+3,TRUE,Honkanen Eliina,Honkanen Eliina,female,27,0,0,STON/O2. 3101283,7.92,S,None,NA,NA,None,None
+3,FALSE,Horgan John,Horgan John,male,NA,0,0,370377,7.75,Q,None,NA,NA,None,None
+3,TRUE,Howard May Elizabeth,Howard May Elizabeth,female,NA,0,0,A. 2. 39186,8.05,S,25,NA,NA,None,None
+3,FALSE,Humblen Adolf Mathias Nicolai Olsen,Humblen Adolf Mathias Nicolai Olsen,male,42,0,0,348121,7.65,S,None,120,NA,F,63
+3,TRUE,Hyman Abraham,Hyman Abraham,male,NA,0,0,3470,7.89,S,25,NA,NA,None,None
+3,FALSE,Ibrahim Shawah Yousseff,Ibrahim Shawah Yousseff,male,30,0,0,2685,7.23,C,None,NA,NA,None,None
+3,FALSE,Ilieff Ylio,Ilieff Ylio,male,NA,0,0,349220,NA,S,None,NA,NA,None,None
+3,FALSE,Ilmakangas Ida Livija,Ilmakangas Ida Livija,female,27,1,0,STON/O2. 3101270,7.92,S,None,NA,NA,None,None
+3,FALSE,Ilmakangas Pieta Sofia,Ilmakangas Pieta Sofia,female,25,1,0,STON/O2. 3101271,7.92,S,None,NA,NA,None,None
+3,FALSE,Ivanoff Kanio,Ivanoff Kanio,male,NA,0,0,349201,7.9,S,None,NA,NA,None,None
+3,TRUE,Jalsevac Ivan,Jalsevac Ivan,male,29,0,0,349240,7.9,C,9,NA,NA,None,None
+3,TRUE,Jansson Carl Olof,Jansson Carl Olof,male,21,0,0,350034,7.8,S,23,NA,NA,None,None
+3,FALSE,Jardin Jose Neto,Jardin Jose Neto,male,NA,0,0,SOTON/O.Q. 3101305,7.05,S,None,NA,NA,None,None
+3,FALSE,Jensen Hans Peder,Jensen Hans Peder,male,20,0,0,350050,7.85,S,None,NA,NA,None,None
+3,FALSE,Jensen Niels Peder,Jensen Niels Peder,male,48,0,0,350047,7.85,S,None,NA,NA,None,None
+3,FALSE,Jensen Svend Lauritz,Jensen Svend Lauritz,male,17,1,0,350048,7.05,S,None,NA,NA,None,None
+3,TRUE,Jermyn Annie,Jermyn Annie,female,NA,0,0,14313,7.75,Q,27,NA,NA,None,None
+3,TRUE,Johannesen-Bratthammer Bernt,Johannesen-Bratthammer Bernt,male,NA,0,0,65306,8.11,S,5,NA,NA,None,None
+3,FALSE,Johanson Jakob Alfred,Johanson Jakob Alfred,male,34,0,0,3101264,6.5,S,None,143,NA,None,None
+3,TRUE,Johansson Palmquist Oskar Leander,Johansson Palmquist Oskar Leander,male,26,0,0,347070,7.78,S,9,NA,NA,None,None
+3,FALSE,Johansson Erik,Johansson Erik,male,22,0,0,350052,7.8,S,None,156,NA,None,None
+3,FALSE,Johansson Gustaf Joel,Johansson Gustaf Joel,male,33,0,0,7540,8.65,S,None,285,NA,None,None
+3,FALSE,Johansson Karl Johan,Johansson Karl Johan,male,31,0,0,347063,7.78,S,None,NA,NA,None,None
+3,FALSE,Johansson Nils,Johansson Nils,male,29,0,0,347467,7.85,S,None,NA,NA,None,None
+3,TRUE,Johnson Master Harold Theodor,Johnson Master Harold Theodor,male,4,1,1,347742,11.13,S,9,NA,NA,None,None
+3,TRUE,Johnson Eleanor Ileen,Johnson Eleanor Ileen,female,1,1,1,347742,11.13,S,9,NA,NA,None,None
+3,FALSE,Johnson Alfred,Johnson Alfred,male,49,0,0,LINE,0,S,None,NA,NA,None,None
+3,FALSE,Johnson Malkolm Joackim,Johnson Malkolm Joackim,male,33,0,0,347062,7.78,S,None,37,NA,None,None
+3,FALSE,Johnson William Cahoone Jr,Johnson William Cahoone Jr,male,19,0,0,LINE,0,S,None,NA,NA,None,None
+3,TRUE,Johnson Oscar W,Elisabeth Vilhelmina Berg,female,27,0,2,347742,NA,S,9,NA,NA,None,None
+3,FALSE,"Johnston Master William Arthur ""Willie""","Johnston Master William Arthur ""Willie""",male,NA,1,2,W./C. 6607,23.45,S,None,NA,NA,None,None
+3,FALSE,"Johnston Catherine Helen ""Carrie""","Johnston Catherine Helen ""Carrie""",female,NA,1,2,W./C. 6607,23.45,S,None,NA,NA,None,None
+3,FALSE,Johnston Andrew G,Johnston Andrew G,male,NA,1,2,W./C. 6607,23.45,S,None,NA,NA,None,None
+3,FALSE,Johnston Andrew G,"Elizabeth ""Lily"" Watson",female,NA,1,2,W./C. 6607,23.45,S,None,NA,NA,None,None
+3,FALSE,Jonkoff Lalio,Jonkoff Lalio,male,23,0,0,349204,7.9,S,None,NA,NA,None,None
+3,TRUE,Jonsson Carl,Jonsson Carl,male,32,0,0,350417,7.85,S,9,NA,NA,None,None
+3,FALSE,Jonsson Nils Hilding,Jonsson Nils Hilding,male,27,0,0,350408,7.85,S,None,NA,NA,None,None
+3,FALSE,Jussila Katriina,Jussila Katriina,female,20,1,0,4136,9.82,S,None,NA,NA,None,None
+3,FALSE,Jussila Mari Aina,Jussila Mari Aina,female,21,1,0,4137,9.82,S,None,NA,NA,None,None
+3,TRUE,Jussila Eiriik,Jussila Eiriik,male,32,0,0,STON/O 2. 3101286,7.92,S,9,NA,NA,None,None
+3,FALSE,Kallio Nikolai Erland,Kallio Nikolai Erland,male,17,0,0,STON/O 2. 3101274,7.12,S,None,NA,NA,None,None
+3,FALSE,Kalvik Johannes Halvorsen,Kalvik Johannes Halvorsen,male,21,0,0,8475,8.43,S,None,NA,NA,None,None
+3,FALSE,Karaic Milan,Karaic Milan,male,30,0,0,349246,7.9,S,None,NA,NA,None,None
+3,TRUE,Karlsson Einar Gervasius,Karlsson Einar Gervasius,male,21,0,0,350053,7.8,S,5,NA,NA,None,None
+3,FALSE,Karlsson Julius Konrad Eugen,Karlsson Julius Konrad Eugen,male,33,0,0,347465,7.85,S,None,NA,NA,None,None
+3,FALSE,Karlsson Nils August,Karlsson Nils August,male,22,0,0,350060,7.52,S,None,NA,NA,None,None
+3,TRUE,Karun Manca,Karun Manca,female,4,0,1,349256,13.42,C,9,NA,NA,None,None
+3,TRUE,Karun Franz,Karun Franz,male,39,0,1,349256,13.42,C,9,NA,NA,None,None
+3,FALSE,Kassem Fared,Kassem Fared,male,NA,0,0,2700,7.23,C,None,NA,NA,None,None
+3,FALSE,Katavelas Vassilios,"""Catavelas Vassilios""",male,18,0,0,2682,7.23,C,None,58,NA,None,None
+3,FALSE,"Keane Andrew ""Andy""","Keane Andrew ""Andy""",male,NA,0,0,12460,7.75,Q,None,NA,NA,None,None
+3,FALSE,Keefe Arthur,Keefe Arthur,male,NA,0,0,323592,7.25,S,23,NA,NA,None,None
+3,TRUE,"Kelly Anna Katherine ""Annie Kate""","Kelly Anna Katherine ""Annie Kate""",female,NA,0,0,9234,NA,Q,11,NA,NA,None,None
+3,TRUE,Kelly Mary,Kelly Mary,female,NA,0,0,14312,7.75,Q,27,NA,NA,None,None
+3,FALSE,Kelly James,Kelly James,male,NA,0,0,330911,7.83,Q,None,70,NA,None,None
+3,FALSE,Kelly James,Kelly James,male,44,0,0,363592,8.05,S,None,NA,NA,None,None
+3,TRUE,Kennedy John,Kennedy John,male,NA,0,0,368783,7.75,Q,None,NA,NA,None,None
+3,FALSE,Khalil Betros,Khalil Betros,male,NA,1,0,2660,14.45,C,None,NA,NA,None,None
+3,FALSE,Khalil Betros,"Zahie ""Maria"" Elias",female,NA,1,0,2660,14.45,C,None,NA,NA,None,None
+3,FALSE,Kiernan John,Kiernan John,male,NA,1,0,367227,7.75,Q,None,NA,NA,None,None
+3,FALSE,Kiernan Philip,Kiernan Philip,male,NA,1,0,367229,7.75,Q,None,NA,NA,None,None
+3,FALSE,Kilgannon Thomas J,Kilgannon Thomas J,male,NA,0,0,36865,7.74,Q,None,NA,NA,None,None
+3,FALSE,Kink Maria,Kink Maria,female,22,2,0,315152,8.66,S,None,NA,NA,None,None
+3,FALSE,Kink Vincenz,Kink Vincenz,male,26,2,0,315151,8.66,S,None,NA,NA,None,None
+3,TRUE,Kink-Heilmann Luise Gretchen,Kink-Heilmann Luise Gretchen,female,4,0,2,315153,22.02,S,12,NA,NA,None,None
+3,TRUE,Kink-Heilmann Anton,Kink-Heilmann Anton,male,29,3,1,315153,22.02,S,12,NA,NA,None,None
+3,TRUE,Kink-Heilmann Anton,Luise Heilmann,female,26,1,1,315153,22.02,S,12,NA,NA,None,None
+3,FALSE,Klasen Gertrud Emilia,Klasen Gertrud Emilia,female,1,1,1,350405,12.18,S,None,NA,NA,None,None
+3,FALSE,Klasen Klas Albin,Klasen Klas Albin,male,18,1,1,350404,7.85,S,None,NA,NA,None,None
+3,FALSE,Klasen,Hulda Kristina Eugenia Lofqvist,female,36,0,2,350405,12.18,S,None,NA,NA,None,None
+3,FALSE,Kraeff Theodor,Kraeff Theodor,male,NA,0,0,349253,7.9,C,None,NA,NA,None,None
+3,TRUE,Krekorian Neshan,Krekorian Neshan,male,25,0,0,2654,7.23,C,2,NA,NA,F,57
+3,FALSE,Lahoud Sarkis,Lahoud Sarkis,male,NA,0,0,2624,7.22,C,None,NA,NA,None,None
+3,FALSE,Laitinen Kristina Sofia,Laitinen Kristina Sofia,female,37,0,0,4135,9.59,S,None,NA,NA,None,None
+3,FALSE,Laleff Kristo,Laleff Kristo,male,NA,0,0,349217,7.9,S,None,NA,NA,None,None
+3,TRUE,Lam Ali,Lam Ali,male,NA,0,0,1601,56.5,S,25,NA,NA,None,None
+3,FALSE,Lam Len,Lam Len,male,NA,0,0,1601,56.5,S,None,NA,NA,None,None
+3,TRUE,Landergren Aurora Adelia,Landergren Aurora Adelia,female,22,0,0,C 7077,7.25,S,5,NA,NA,None,None
+3,FALSE,Lane Patrick,Lane Patrick,male,NA,0,0,7935,7.75,Q,None,NA,NA,None,None
+3,TRUE,Lang Fang,Lang Fang,male,26,0,0,1601,56.5,S,8,NA,NA,None,None
+3,FALSE,Larsson August Viktor,Larsson August Viktor,male,29,0,0,7545,9.48,S,None,NA,NA,None,None
+3,FALSE,Larsson Bengt Edvin,Larsson Bengt Edvin,male,29,0,0,347067,7.78,S,None,NA,NA,None,None
+3,FALSE,Larsson-Rondberg Edvard A,Larsson-Rondberg Edvard A,male,22,0,0,347065,7.78,S,None,NA,NA,None,None
+3,TRUE,Leeni Fahim,"""Philip Zenni""",male,22,0,0,2620,7.22,C,18,NA,NA,None,None
+3,FALSE,Lefebre Master Henry Forbes,Lefebre Master Henry Forbes,male,NA,3,1,4133,25.47,S,None,NA,NA,None,None
+3,FALSE,Lefebre Ida,Lefebre Ida,female,NA,3,1,4133,25.47,S,None,NA,NA,None,None
+3,FALSE,Lefebre Jeannie,Lefebre Jeannie,female,NA,3,1,4133,25.47,S,None,NA,NA,None,None
+3,FALSE,Lefebre Mathilde,Lefebre Mathilde,female,NA,3,1,4133,25.47,S,None,NA,NA,None,None
+3,FALSE,Lefebre Frank,Frances,female,NA,0,4,4133,25.47,S,None,NA,NA,None,None
+3,FALSE,Leinonen Antti Gustaf,Leinonen Antti Gustaf,male,32,0,0,STON/O 2. 3101292,7.92,S,None,NA,NA,None,None
+3,FALSE,Lemberopolous Peter L,Lemberopolous Peter L,male,34,0,0,2683,6.44,C,None,196,NA,None,None
+3,FALSE,Lennon Mary,Lennon Mary,female,NA,1,0,370371,15.5,Q,None,NA,NA,None,None
+3,FALSE,Lennon Denis,Lennon Denis,male,NA,1,0,370371,15.5,Q,None,NA,NA,None,None
+3,FALSE,Leonard Lionel,Leonard Lionel,male,36,0,0,LINE,0,S,None,NA,NA,None,None
+3,FALSE,Lester James,Lester James,male,39,0,0,A/4 48871,24.15,S,None,NA,NA,None,None
+3,FALSE,Lievens Rene Aime,Lievens Rene Aime,male,24,0,0,345781,9.5,S,None,NA,NA,None,None
+3,FALSE,Lindahl Agda Thorilda Viktoria,Lindahl Agda Thorilda Viktoria,female,25,0,0,347071,7.78,S,None,NA,NA,None,None
+3,FALSE,Lindblom Augusta Charlotta,Lindblom Augusta Charlotta,female,45,0,0,347073,7.75,S,None,NA,NA,None,None
+3,FALSE,Lindell Edvard Bengtsson,Lindell Edvard Bengtsson,male,36,1,0,349910,15.55,S,23,NA,NA,None,None
+3,FALSE,Lindell Edvard Bengtsson,Elin Gerda Persson,female,30,1,0,349910,15.55,S,23,NA,NA,None,None
+3,TRUE,Lindqvist Eino William,Lindqvist Eino William,male,20,1,0,STON/O 2. 3101285,7.92,S,9,NA,NA,None,None
+3,FALSE,Linehan Michael,Linehan Michael,male,NA,0,0,330971,7.88,Q,None,NA,NA,None,None
+3,FALSE,Ling Lee,Ling Lee,male,28,0,0,1601,56.5,S,None,NA,NA,None,None
+3,FALSE,Lithman Simon,Lithman Simon,male,NA,0,0,S.O./P.P. 251,7.55,S,None,NA,NA,None,None
+3,FALSE,Lobb William Arthur,Lobb William Arthur,male,30,1,0,A/5. 3336,16.1,S,None,NA,NA,None,None
+3,FALSE,Lobb William Arthur,Cordelia K Stanlick,female,26,1,0,A/5. 3336,16.1,S,None,NA,NA,None,None
+3,FALSE,Lockyer Edward,Lockyer Edward,male,NA,0,0,1222,7.88,S,None,153,NA,None,None
+3,FALSE,Lovell John Hall,"""Henry""",male,20,0,0,A/5 21173,7.25,S,None,NA,NA,None,None
+3,TRUE,Lulic Nikola,Lulic Nikola,male,27,0,0,315098,8.66,S,9,NA,NA,None,None
+3,FALSE,Lundahl Johan Svensson,Lundahl Johan Svensson,male,51,0,0,347743,7.05,S,None,NA,NA,None,None
+3,TRUE,Lundin Olga Elida,Lundin Olga Elida,female,23,0,0,347469,7.85,S,2,NA,NA,None,None
+3,TRUE,Lundstrom Thure Edvin,Lundstrom Thure Edvin,male,32,0,0,350403,7.58,S,9,NA,NA,None,None
+3,FALSE,Lyntakoff Stanko,Lyntakoff Stanko,male,NA,0,0,349235,7.9,S,None,NA,NA,None,None
+3,FALSE,MacKay George William,MacKay George William,male,NA,0,0,C.A. 42795,7.55,S,None,NA,NA,None,None
+3,TRUE,"Madigan Margaret ""Maggie""","Madigan Margaret ""Maggie""",female,NA,0,0,370370,7.75,Q,9,NA,NA,None,None
+3,TRUE,Madsen Fridtjof Arne,Madsen Fridtjof Arne,male,24,0,0,C 17369,7.14,S,5,NA,NA,None,None
+3,FALSE,Maenpaa Matti Alexanteri,Maenpaa Matti Alexanteri,male,22,0,0,STON/O 2. 3101275,7.12,S,None,NA,NA,None,None
+3,FALSE,Mahon Bridget Delia,Mahon Bridget Delia,female,NA,0,0,330924,7.88,Q,None,NA,NA,None,None
+3,FALSE,Mahon John,Mahon John,male,NA,0,0,AQ/4 3130,7.75,Q,None,NA,NA,None,None
+3,FALSE,Maisner Simon,Maisner Simon,male,NA,0,0,A/S 2816,8.05,S,None,NA,NA,None,None
+3,FALSE,Makinen Kalle Edvard,Makinen Kalle Edvard,male,29,0,0,STON/O 2. 3101268,7.92,S,None,NA,NA,None,None
+3,TRUE,Mamee Hanna,Mamee Hanna,male,NA,0,0,2677,7.23,C,9,NA,NA,None,None
+3,FALSE,Mangan Mary,Mangan Mary,female,30,0,0,364850,7.75,Q,None,61,NA,None,None
+3,TRUE,Mannion Margareth,Mannion Margareth,female,NA,0,0,36866,7.74,Q,11,NA,NA,None,None
+3,FALSE,Mardirosian Sarkis,Mardirosian Sarkis,male,NA,0,0,2655,7.23,C,None,NA,NA,F,46
+3,FALSE,Markoff Marin,Markoff Marin,male,35,0,0,349213,7.9,C,None,NA,NA,None,None
+3,FALSE,Markun Johann,Markun Johann,male,33,0,0,349257,7.9,S,None,NA,NA,None,None
+3,TRUE,Masselmani Fatima,Masselmani Fatima,female,NA,0,0,2649,7.22,C,25,NA,NA,None,None
+3,FALSE,Matinoff Nicola,Matinoff Nicola,male,NA,0,0,349255,7.9,C,None,NA,NA,None,None
+3,TRUE,"McCarthy Catherine ""Katie""","McCarthy Catherine ""Katie""",female,NA,0,0,383123,7.75,Q,10,NA,NA,None,None
+3,TRUE,McCormack Thomas Joseph,McCormack Thomas Joseph,male,NA,0,0,367228,7.75,Q,None,NA,NA,None,None
+3,TRUE,McCoy Agnes,McCoy Agnes,female,NA,2,0,367226,23.25,Q,11,NA,NA,None,None
+3,TRUE,McCoy Alicia,McCoy Alicia,female,NA,2,0,367226,23.25,Q,11,NA,NA,None,None
+3,TRUE,McCoy Bernard,McCoy Bernard,male,NA,2,0,367226,23.25,Q,11,NA,NA,None,None
+3,TRUE,McDermott Brigdet Delia,McDermott Brigdet Delia,female,NA,0,0,330932,7.79,Q,5,NA,NA,None,None
+3,FALSE,McEvoy Michael,McEvoy Michael,male,NA,0,0,36568,15.5,Q,None,NA,NA,None,None
+3,TRUE,McGovern Mary,McGovern Mary,female,NA,0,0,330931,7.88,Q,5,NA,NA,None,None
+3,TRUE,"McGowan Anna ""Annie""","McGowan Anna ""Annie""",female,15,0,0,330923,8.03,Q,None,NA,NA,None,None
+3,FALSE,McGowan Katherine,McGowan Katherine,female,35,0,0,9232,7.75,Q,None,NA,NA,None,None
+3,FALSE,McMahon Martin,McMahon Martin,male,NA,0,0,370372,7.75,Q,None,NA,NA,None,None
+3,FALSE,McNamee Neal,McNamee Neal,male,24,1,0,376566,16.1,S,None,NA,NA,None,None
+3,FALSE,McNamee Neal,Eileen O'Leary,female,19,1,0,376566,16.1,S,None,53,NA,None,None
+3,FALSE,McNeill Bridget,McNeill Bridget,female,NA,0,0,370368,7.75,Q,None,NA,NA,None,None
+3,FALSE,Meanwell,Marion Ogden,female,NA,0,0,SOTON/O.Q. 392087,8.05,S,None,NA,NA,None,None
+3,FALSE,Meek Thomas,Annie Louise Rowley,female,NA,0,0,343095,NA,S,None,NA,NA,None,None
+3,FALSE,Meo Alfonzo,Meo Alfonzo,male,55,0,0,A.5. 11206,8.05,S,None,201,NA,None,None
+3,FALSE,Mernagh Robert,Mernagh Robert,male,NA,0,0,368703,7.75,Q,None,NA,NA,None,None
+3,TRUE,Midtsjo Karl Albert,Midtsjo Karl Albert,male,21,0,0,345501,7.78,S,9,NA,NA,None,None
+3,FALSE,Miles Frank,Miles Frank,male,NA,0,0,359306,8.05,S,None,NA,NA,None,None
+3,FALSE,Mineff Ivan,Mineff Ivan,male,24,0,0,349233,7.9,S,None,NA,NA,None,None
+3,FALSE,Minkoff Lazar,Minkoff Lazar,male,21,0,0,349211,7.9,S,None,NA,NA,None,None
+3,FALSE,Mionoff Stoytcho,Mionoff Stoytcho,male,28,0,0,349207,7.9,S,None,NA,NA,None,None
+3,FALSE,Mitkoff Mito,Mitkoff Mito,male,NA,0,0,349221,7.9,S,None,NA,NA,None,None
+3,TRUE,"Mockler Helen Mary ""Ellie""","Mockler Helen Mary ""Ellie""",female,NA,0,0,330980,7.88,Q,11,NA,NA,None,None
+3,FALSE,Moen Sigurd Hansen,Moen Sigurd Hansen,male,25,0,0,348123,7.65,S,None,309,NA,F,73
+3,TRUE,Moor Master Meier,Moor Master Meier,male,6,0,1,392096,12.47,S,8,NA,NA,E,121
+3,TRUE,Moor,Beila,female,27,0,1,392096,12.47,S,8,NA,NA,E,121
+3,FALSE,Moore Leonard Charles,Moore Leonard Charles,male,NA,0,0,A4. 54510,8.05,S,None,NA,NA,None,None
+3,TRUE,Moran Bertha,Moran Bertha,female,NA,1,0,371110,24.15,Q,11,NA,NA,None,None
+3,FALSE,Moran Daniel J,Moran Daniel J,male,NA,1,0,371110,NA,Q,None,NA,NA,None,None
+3,FALSE,Moran James,Moran James,male,NA,0,0,330877,8.46,Q,None,NA,NA,None,None
+3,FALSE,Morley William,Morley William,male,34,0,0,364506,8.05,S,None,NA,NA,None,None
+3,FALSE,Morrow Thomas Rowan,Morrow Thomas Rowan,male,NA,0,0,372622,7.75,Q,None,NA,NA,None,None
+3,TRUE,Moss Albert Johan,Moss Albert Johan,male,NA,0,0,312991,7.78,S,24,NA,NA,None,None
+3,TRUE,Moubarek Master Gerios,Moubarek Master Gerios,male,NA,1,1,2661,15.25,C,25,NA,NA,None,None
+3,TRUE,Moubarek Master Halim Gonios,"""William George""",male,NA,1,1,2661,15.25,C,25,NA,NA,None,None
+3,TRUE,Moubarek George,"Omine ""Amenia"" Alexander",female,NA,0,2,2661,15.25,C,25,NA,NA,None,None
+3,TRUE,Moussa,Mantoura Boulos,female,NA,0,0,2626,7.23,C,None,NA,NA,None,None
+3,FALSE,Moutal Rahamin Haim,Moutal Rahamin Haim,male,NA,0,0,374746,8.05,S,None,NA,NA,None,None
+3,TRUE,"Mullens Katherine ""Katie""","Mullens Katherine ""Katie""",female,NA,0,0,35852,7.73,Q,11,NA,NA,None,None
+3,TRUE,Mulvihill Bertha E,Mulvihill Bertha E,female,24,0,0,382653,7.75,Q,9,NA,NA,None,None
+3,FALSE,Murdlin Joseph,Murdlin Joseph,male,NA,0,0,A./5. 3235,8.05,S,None,NA,NA,None,None
+3,TRUE,"Murphy Katherine ""Kate""","Murphy Katherine ""Kate""",female,NA,1,0,367230,15.5,Q,11,NA,NA,None,None
+3,TRUE,Murphy Margaret Jane,Murphy Margaret Jane,female,NA,1,0,367230,15.5,Q,11,NA,NA,None,None
+3,TRUE,Murphy Nora,Murphy Nora,female,NA,0,0,36568,15.5,Q,11,NA,NA,None,None
+3,FALSE,Myhrman Pehr Fabian Oliver Malkolm,Myhrman Pehr Fabian Oliver Malkolm,male,18,0,0,347078,7.75,S,None,NA,NA,None,None
+3,FALSE,Naidenoff Penko,Naidenoff Penko,male,22,0,0,349206,7.9,S,None,NA,NA,None,None
+3,TRUE,"Najib Adele Kiamie ""Jane""","Najib Adele Kiamie ""Jane""",female,15,0,0,2667,7.22,C,25,NA,NA,None,None
+3,TRUE,Nakid Maria,"""Mary""",female,1,0,2,2653,15.74,C,25,NA,NA,None,None
+3,TRUE,Nakid Sahid,Nakid Sahid,male,NA,1,1,2653,15.74,C,25,NA,NA,None,None
+3,TRUE,Nakid Said,"Waika ""Mary"" Mowad",female,19,1,1,2653,15.74,C,25,NA,NA,None,None
+3,FALSE,Nancarrow William Henry,Nancarrow William Henry,male,33,0,0,A./5. 3338,8.05,S,None,NA,NA,None,None
+3,FALSE,Nankoff Minko,Nankoff Minko,male,NA,0,0,349218,7.9,S,None,NA,NA,None,None
+3,FALSE,Nasr Mustafa,Nasr Mustafa,male,NA,0,0,2652,7.23,C,None,NA,NA,None,None
+3,FALSE,Naughton Hannah,Naughton Hannah,female,NA,0,0,365237,7.75,Q,None,NA,NA,None,None
+3,FALSE,Nenkoff Christo,Nenkoff Christo,male,NA,0,0,349234,7.9,S,None,NA,NA,None,None
+3,TRUE,Nicola-Yarred Master Elias,Nicola-Yarred Master Elias,male,12,1,0,2651,11.24,C,25,NA,NA,None,None
+3,TRUE,Nicola-Yarred Jamila,Nicola-Yarred Jamila,female,14,1,0,2651,11.24,C,25,NA,NA,None,None
+3,FALSE,Nieminen Manta Josefina,Nieminen Manta Josefina,female,29,0,0,3101297,7.92,S,None,NA,NA,None,None
+3,FALSE,Niklasson Samuel,Niklasson Samuel,male,28,0,0,363611,8.05,S,None,NA,NA,None,None
+3,TRUE,Nilsson Berta Olivia,Nilsson Berta Olivia,female,18,0,0,347066,7.78,S,27,NA,NA,None,None
+3,TRUE,Nilsson Helmina Josefina,Nilsson Helmina Josefina,female,26,0,0,347470,7.85,S,5,NA,NA,None,None
+3,FALSE,Nilsson August Ferdinand,Nilsson August Ferdinand,male,21,0,0,350410,7.85,S,None,NA,NA,None,None
+3,FALSE,Nirva Iisakki Antino Aijo,Nirva Iisakki Antino Aijo,male,41,0,0,SOTON/O2 3101272,7.12,S,None,NA,"Finland Sudbury, ON",None,None
+3,TRUE,Niskanen Juha,Niskanen Juha,male,39,0,0,STON/O 2. 3101289,7.92,S,22,NA,NA,None,None
+3,FALSE,Nosworthy Richard Cater,Nosworthy Richard Cater,male,21,0,0,A/4. 39886,7.8,S,None,NA,NA,None,None
+3,FALSE,Novel Mansouer,Novel Mansouer,male,28,0,0,2697,7.23,C,None,181,NA,None,None
+3,TRUE,Nysten Anna Sofia,Nysten Anna Sofia,female,22,0,0,347081,7.75,S,5,NA,NA,None,None
+3,FALSE,Nysveen Johan Hansen,Nysveen Johan Hansen,male,61,0,0,345364,6.24,S,None,NA,NA,None,None
+3,FALSE,O'Brien Thomas,O'Brien Thomas,male,NA,1,0,370365,15.5,Q,None,NA,NA,None,None
+3,FALSE,O'Brien Timothy,O'Brien Timothy,male,NA,0,0,330979,7.83,Q,None,NA,NA,None,None
+3,TRUE,O'Brien Thomas,"Johanna ""Hannah"" Godfrey",female,NA,1,0,370365,15.5,Q,None,NA,NA,None,None
+3,FALSE,O'Connell Patrick D,O'Connell Patrick D,male,NA,0,0,334912,7.73,Q,None,NA,NA,None,None
+3,FALSE,O'Connor Maurice,O'Connor Maurice,male,NA,0,0,371060,7.75,Q,None,NA,NA,None,None
+3,FALSE,O'Connor Patrick,O'Connor Patrick,male,NA,0,0,366713,7.75,Q,None,NA,NA,None,None
+3,FALSE,Odahl Nils Martin,Odahl Nils Martin,male,23,0,0,7267,9.22,S,None,NA,NA,None,None
+3,FALSE,O'Donoghue Ms Bridget,O'Donoghue Ms Bridget,female,NA,0,0,364856,7.75,Q,None,NA,NA,None,None
+3,TRUE,O'Driscoll Bridget,O'Driscoll Bridget,female,NA,0,0,14311,7.75,Q,27,NA,NA,None,None
+3,TRUE,"O'Dwyer Ellen ""Nellie""","O'Dwyer Ellen ""Nellie""",female,NA,0,0,330959,7.88,Q,None,NA,NA,None,None
+3,TRUE,Ohman Velin,Ohman Velin,female,22,0,0,347085,7.78,S,25,NA,NA,None,None
+3,TRUE,O'Keefe Patrick,O'Keefe Patrick,male,NA,0,0,368402,7.75,Q,24,NA,NA,None,None
+3,TRUE,"O'Leary Hanora ""Norah""","O'Leary Hanora ""Norah""",female,NA,0,0,330919,7.83,Q,5,NA,NA,None,None
+3,TRUE,Olsen Master Artur Karl,Olsen Master Artur Karl,male,9,0,1,C 17368,3.17,S,5,NA,NA,None,None
+3,FALSE,Olsen Henry Margido,Olsen Henry Margido,male,28,0,0,C 4001,22.52,S,None,173,NA,None,None
+3,FALSE,Olsen Karl Siegwart Andreas,Olsen Karl Siegwart Andreas,male,42,0,1,4579,8.4,S,None,NA,NA,None,None
+3,FALSE,Olsen Ole Martin,Olsen Ole Martin,male,NA,0,0,Fa 265302,7.31,S,None,NA,NA,None,None
+3,FALSE,Olsson Elina,Olsson Elina,female,31,0,0,350407,7.85,S,None,NA,NA,None,None
+3,FALSE,Olsson Nils Johan Goransson,Olsson Nils Johan Goransson,male,28,0,0,347464,7.85,S,None,NA,NA,None,None
+3,TRUE,Olsson Oscar Wilhelm,Olsson Oscar Wilhelm,male,32,0,0,347079,7.78,S,23,NA,NA,None,None
+3,FALSE,Olsvigen Thor Anderson,Olsvigen Thor Anderson,male,20,0,0,6563,9.22,S,None,89,"Oslo, Norway Cameron, WI",None,None
+3,FALSE,Oreskovic Jelka,Oreskovic Jelka,female,23,0,0,315085,8.66,S,None,NA,NA,None,None
+3,FALSE,Oreskovic Marija,Oreskovic Marija,female,20,0,0,315096,8.66,S,None,NA,NA,None,None
+3,FALSE,Oreskovic Luka,Oreskovic Luka,male,20,0,0,315094,8.66,S,None,NA,NA,None,None
+3,FALSE,Osen Olaf Elon,Osen Olaf Elon,male,16,0,0,7534,9.22,S,None,NA,NA,None,None
+3,TRUE,Osman Mara,Osman Mara,female,31,0,0,349244,8.68,S,None,NA,NA,None,None
+3,FALSE,O'Sullivan Bridget Mary,O'Sullivan Bridget Mary,female,NA,0,0,330909,7.63,Q,None,NA,NA,None,None
+3,FALSE,Palsson Master Gosta Leonard,Palsson Master Gosta Leonard,male,2,3,1,349909,21.08,S,None,4,NA,None,None
+3,FALSE,Palsson Master Paul Folke,Palsson Master Paul Folke,male,6,3,1,349909,21.08,S,None,NA,NA,None,None
+3,FALSE,Palsson Stina Viola,Palsson Stina Viola,female,3,3,1,349909,21.08,S,None,NA,NA,None,None
+3,FALSE,Palsson Torborg Danira,Palsson Torborg Danira,female,8,3,1,349909,21.08,S,None,NA,NA,None,None
+3,FALSE,Palsson Nils,Alma Cornelia Berglund,female,29,0,4,349909,21.08,S,None,206,NA,None,None
+3,FALSE,Panula Master Eino Viljami,Panula Master Eino Viljami,male,1,4,1,3101295,39.69,S,None,NA,NA,None,None
+3,FALSE,Panula Master Juha Niilo,Panula Master Juha Niilo,male,7,4,1,3101295,39.69,S,None,NA,NA,None,None
+3,FALSE,Panula Master Urho Abraham,Panula Master Urho Abraham,male,2,4,1,3101295,39.69,S,None,NA,NA,None,None
+3,FALSE,Panula Ernesti Arvid,Panula Ernesti Arvid,male,16,4,1,3101295,39.69,S,None,NA,NA,None,None
+3,FALSE,Panula Jaako Arnold,Panula Jaako Arnold,male,14,4,1,3101295,39.69,S,None,NA,NA,None,None
+3,FALSE,Panula Juha,Maria Emilia Ojala,female,41,0,5,3101295,39.69,S,None,NA,NA,None,None
+3,FALSE,Pasic Jakob,Pasic Jakob,male,21,0,0,315097,8.66,S,None,NA,NA,None,None
+3,FALSE,Patchett George,Patchett George,male,19,0,0,358585,14.5,S,None,NA,NA,None,None
+3,FALSE,Paulner Uscher,Paulner Uscher,male,NA,0,0,3411,8.71,C,None,NA,NA,None,None
+3,FALSE,Pavlovic Stefo,Pavlovic Stefo,male,32,0,0,349242,7.9,S,None,NA,NA,None,None
+3,FALSE,Peacock Master Alfred Edward,Peacock Master Alfred Edward,male,1,1,1,SOTON/O.Q. 3101315,13.78,S,None,NA,NA,None,None
+3,FALSE,Peacock Treasteall,Peacock Treasteall,female,3,1,1,SOTON/O.Q. 3101315,13.78,S,None,NA,NA,None,None
+3,FALSE,Peacock Benjamin,Edith Nile,female,26,0,2,SOTON/O.Q. 3101315,13.78,S,None,NA,NA,None,None
+3,FALSE,Pearce Ernest,Pearce Ernest,male,NA,0,0,343271,7,S,None,NA,NA,None,None
+3,FALSE,Pedersen Olaf,Pedersen Olaf,male,NA,0,0,345498,7.78,S,None,NA,NA,None,None
+3,FALSE,Peduzzi Joseph,Peduzzi Joseph,male,NA,0,0,A/5 2817,8.05,S,None,NA,NA,None,None
+3,FALSE,Pekoniemi Edvard,Pekoniemi Edvard,male,21,0,0,STON/O 2. 3101294,7.92,S,None,NA,NA,None,None
+3,FALSE,Peltomaki Nikolai Johannes,Peltomaki Nikolai Johannes,male,NA,0,0,STON/O 2. 3101291,7.92,S,None,NA,NA,None,None
+3,FALSE,Perkin John Henry,Perkin John Henry,male,22,0,0,A/5 21174,7.25,S,None,NA,NA,None,None
+3,TRUE,Persson Ernst Ulrik,Persson Ernst Ulrik,male,25,1,0,347083,7.78,S,9,NA,NA,None,None
+3,TRUE,Peter Master Michael J,Peter Master Michael J,male,NA,1,1,2668,22.36,C,25,NA,NA,None,None
+3,TRUE,Peter Anna,Peter Anna,female,NA,1,1,2668,22.36,C,27,NA,NA,F,69
+3,TRUE,Peter Catherine,Catherine Rizk,female,NA,0,2,2668,NA,C,27,NA,NA,None,None
+3,FALSE,Peters Katie,Peters Katie,female,NA,0,0,330935,8.14,Q,None,NA,NA,None,None
+3,FALSE,Petersen Marius,Petersen Marius,male,24,0,0,342441,8.05,S,None,NA,NA,None,None
+3,FALSE,Petranec Matilda,Petranec Matilda,female,28,0,0,349245,7.9,S,None,NA,NA,None,None
+3,FALSE,Petroff Nedelio,Petroff Nedelio,male,19,0,0,349212,7.9,S,None,NA,NA,None,None
+3,FALSE,Petroff Pastcho,"""Pentcho""",male,NA,0,0,349215,7.9,S,None,NA,NA,None,None
+3,FALSE,Petterson Johan Emil,Petterson Johan Emil,male,25,1,0,347076,7.78,S,None,NA,NA,None,None
+3,FALSE,Pettersson Ellen Natalia,Pettersson Ellen Natalia,female,18,0,0,347087,7.78,S,None,NA,NA,None,None
+3,TRUE,Pickard Berk,Berk Trembisky,male,32,0,0,SOTON/O.Q. 392078,8.05,S,22,NA,NA,E,10
+3,FALSE,Plotcharsky Vasil,Plotcharsky Vasil,male,NA,0,0,349227,7.9,S,None,NA,NA,None,None
+3,FALSE,Pokrnic Mate,Pokrnic Mate,male,17,0,0,315095,8.66,S,None,NA,NA,None,None
+3,FALSE,Pokrnic Tome,Pokrnic Tome,male,24,0,0,315092,8.66,S,None,NA,NA,None,None
+3,FALSE,Radeff Alexander,Radeff Alexander,male,NA,0,0,349223,7.9,S,None,NA,NA,None,None
+3,FALSE,Rasmussen,Lena Jacobsen Solvang,female,NA,0,0,65305,8.11,S,None,NA,NA,None,None
+3,FALSE,Razi Raihed,Razi Raihed,male,NA,0,0,2629,7.23,C,None,NA,NA,None,None
+3,FALSE,Reed James George,Reed James George,male,NA,0,0,362316,7.25,S,None,NA,NA,None,None
+3,FALSE,Rekic Tido,Rekic Tido,male,38,0,0,349249,7.9,S,None,NA,NA,None,None
+3,FALSE,Reynolds Harold J,Reynolds Harold J,male,21,0,0,342684,8.05,S,None,NA,NA,None,None
+3,FALSE,Rice Master Albert,Rice Master Albert,male,10,4,1,382652,29.12,Q,None,NA,NA,None,None
+3,FALSE,Rice Master Arthur,Rice Master Arthur,male,4,4,1,382652,29.12,Q,None,NA,NA,None,None
+3,FALSE,Rice Master Eric,Rice Master Eric,male,7,4,1,382652,29.12,Q,None,NA,NA,None,None
+3,FALSE,Rice Master Eugene,Rice Master Eugene,male,2,4,1,382652,29.12,Q,None,NA,NA,None,None
+3,FALSE,Rice Master George Hugh,Rice Master George Hugh,male,8,4,1,382652,29.12,Q,None,NA,NA,None,None
+3,FALSE,Rice William,Margaret Norton,female,39,0,5,382652,29.12,Q,None,327,NA,None,None
+3,FALSE,"Riihivouri Susanna Juhantytar ""Sanni""","Riihivouri Susanna Juhantytar ""Sanni""",female,22,0,0,3101295,39.69,S,None,NA,NA,None,None
+3,FALSE,Rintamaki Matti,Rintamaki Matti,male,NA,0,0,STON/O 2. 3101273,7.12,S,None,NA,NA,None,None
+3,TRUE,"Riordan Johanna ""Hannah""","Riordan Johanna ""Hannah""",female,NA,0,0,334915,7.72,Q,5,NA,NA,None,None
+3,FALSE,Risien Samuel Beard,Risien Samuel Beard,male,NA,0,0,364498,14.5,S,None,NA,NA,None,None
+3,FALSE,Risien Samuel,Emma,female,NA,0,0,364498,14.5,S,None,NA,NA,None,None
+3,FALSE,Robins Alexander A,Robins Alexander A,male,50,1,0,A/5. 3337,14.5,S,None,119,NA,None,None
+3,FALSE,Robins Alexander A,Grace Charity Laury,female,47,1,0,A/5. 3337,14.5,S,None,7,NA,None,None
+3,FALSE,Rogers William John,Rogers William John,male,NA,0,0,S.C./A.4. 23567,8.05,S,None,NA,NA,None,None
+3,FALSE,Rommetvedt Knud Paust,Rommetvedt Knud Paust,male,NA,0,0,312993,7.78,S,None,NA,NA,None,None
+3,FALSE,Rosblom Salli Helena,Rosblom Salli Helena,female,2,1,1,370129,20.21,S,None,NA,NA,None,None
+3,FALSE,Rosblom Viktor Richard,Rosblom Viktor Richard,male,18,1,1,370129,20.21,S,None,NA,NA,None,None
+3,FALSE,Rosblom Viktor,Helena Wilhelmina,female,41,0,2,370129,20.21,S,None,NA,NA,None,None
+3,TRUE,Roth Sarah A,Roth Sarah A,female,NA,0,0,342712,8.05,S,25,NA,NA,None,None
+3,FALSE,Rouse Richard Henry,Rouse Richard Henry,male,50,0,0,A/5 3594,8.05,S,None,NA,NA,None,None
+3,FALSE,Rush Alfred George John,Rush Alfred George John,male,16,0,0,A/4. 20589,8.05,S,None,NA,NA,None,None
+3,TRUE,Ryan Edward,Ryan Edward,male,NA,0,0,383162,7.75,Q,8,NA,NA,None,None
+3,FALSE,Ryan Patrick,Ryan Patrick,male,NA,0,0,371110,24.15,Q,None,NA,NA,None,None
+3,FALSE,Saad Amin,Saad Amin,male,NA,0,0,2671,7.23,C,None,NA,NA,None,None
+3,FALSE,Saad Khalil,Saad Khalil,male,25,0,0,2672,7.22,C,None,NA,NA,None,None
+3,FALSE,Saade Jean Nassr,Saade Jean Nassr,male,NA,0,0,2676,7.22,C,None,NA,NA,None,None
+3,FALSE,Sadlier Matthew,Sadlier Matthew,male,NA,0,0,367655,7.73,Q,None,NA,NA,None,None
+3,FALSE,Sadowitz Harry,Sadowitz Harry,male,NA,0,0,LP 1588,7.58,S,None,NA,NA,None,None
+3,FALSE,Saether Simon Sivertsen,Saether Simon Sivertsen,male,38,0,0,SOTON/O.Q. 3101262,7.25,S,None,32,NA,None,None
+3,FALSE,Sage Master Thomas Henry,Sage Master Thomas Henry,male,NA,8,2,CA. 2343,69.55,S,None,NA,NA,None,None
+3,FALSE,Sage Master William Henry,Sage Master William Henry,male,14,8,2,CA. 2343,69.55,S,None,67,NA,None,None
+3,FALSE,Sage Ada,Sage Ada,female,NA,8,2,CA. 2343,69.55,S,None,NA,NA,None,None
+3,FALSE,Sage Constance Gladys,Sage Constance Gladys,female,NA,8,2,CA. 2343,69.55,S,None,NA,NA,None,None
+3,FALSE,"Sage Dorothy Edith ""Dolly""","Sage Dorothy Edith ""Dolly""",female,NA,8,2,CA. 2343,69.55,S,None,NA,NA,None,None
+3,FALSE,Sage Stella Anna,Sage Stella Anna,female,NA,8,2,CA. 2343,69.55,S,None,NA,NA,None,None
+3,FALSE,Sage Douglas Bullen,Sage Douglas Bullen,male,NA,8,2,CA. 2343,69.55,S,None,NA,NA,None,None
+3,FALSE,Sage Frederick,Sage Frederick,male,NA,8,2,CA. 2343,69.55,S,None,NA,NA,None,None
+3,FALSE,Sage George John Jr,Sage George John Jr,male,NA,8,2,CA. 2343,69.55,S,None,NA,NA,None,None
+3,FALSE,Sage John George,Sage John George,male,NA,1,9,CA. 2343,69.55,S,None,NA,NA,None,None
+3,FALSE,Sage John,Annie Bullen,female,NA,1,9,CA. 2343,69.55,S,None,NA,NA,None,None
+3,FALSE,Salander Karl Johan,Salander Karl Johan,male,24,0,0,7266,9.32,S,None,NA,NA,None,None
+3,TRUE,Salkjelsvik Anna Kristine,Salkjelsvik Anna Kristine,female,21,0,0,343120,7.65,S,25,NA,NA,None,None
+3,FALSE,Salonen Johan Werner,Salonen Johan Werner,male,39,0,0,3101296,7.92,S,None,NA,NA,None,None
+3,FALSE,Samaan Elias,Samaan Elias,male,NA,2,0,2662,21.68,C,None,NA,NA,None,None
+3,FALSE,Samaan Hanna,Samaan Hanna,male,NA,2,0,2662,21.68,C,None,NA,NA,None,None
+3,FALSE,Samaan Youssef,Samaan Youssef,male,NA,2,0,2662,21.68,C,None,NA,NA,None,None
+3,TRUE,Sandstrom Beatrice Irene,Sandstrom Beatrice Irene,female,1,1,1,PP 9549,16.7,S,5,NA,NA,G,6
+3,TRUE,Sandstrom Hjalmar,Agnes Charlotta Bengtsson,female,24,0,2,PP 9549,16.7,S,5,NA,NA,G,6
+3,TRUE,Sandstrom Marguerite Rut,Sandstrom Marguerite Rut,female,4,1,1,PP 9549,16.7,S,5,NA,NA,G,6
+3,TRUE,Sap Julius,Sap Julius,male,25,0,0,345768,9.5,S,3,NA,NA,None,None
+3,FALSE,Saundercock William Henry,Saundercock William Henry,male,20,0,0,A/5. 2151,8.05,S,None,NA,NA,None,None
+3,FALSE,Sawyer Frederick Charles,Sawyer Frederick Charles,male,24,0,0,342826,8.05,S,None,284,NA,None,None
+3,FALSE,Scanlan James,Scanlan James,male,NA,0,0,36209,7.72,Q,None,NA,NA,None,None
+3,FALSE,Sdycoff Todor,Sdycoff Todor,male,NA,0,0,349222,7.9,S,None,NA,NA,None,None
+3,FALSE,Shaughnessy Patrick,Shaughnessy Patrick,male,NA,0,0,370374,7.75,Q,None,NA,NA,None,None
+3,TRUE,Sheerlinck Jan Baptist,Sheerlinck Jan Baptist,male,29,0,0,345779,9.5,S,3,NA,NA,None,None
+3,FALSE,Shellard Frederick William,Shellard Frederick William,male,NA,0,0,C.A. 6212,15.1,S,None,NA,NA,None,None
+3,TRUE,Shine Ellen Natalia,Shine Ellen Natalia,female,NA,0,0,330968,7.78,Q,None,NA,NA,None,None
+3,FALSE,Shorney Charles Joseph,Shorney Charles Joseph,male,NA,0,0,374910,8.05,S,None,NA,NA,None,None
+3,FALSE,Simmons John,Simmons John,male,NA,0,0,SOTON/OQ 392082,8.05,S,None,NA,NA,None,None
+3,FALSE,Sirayanian Orsen,Sirayanian Orsen,male,22,0,0,2669,7.23,C,None,NA,NA,None,None
+3,FALSE,Sirota Maurice,Sirota Maurice,male,NA,0,0,392092,8.05,S,None,NA,NA,None,None
+3,FALSE,Sivic Husein,Sivic Husein,male,40,0,0,349251,7.9,S,None,NA,NA,None,None
+3,FALSE,Sivola Antti Wilhelm,Sivola Antti Wilhelm,male,21,0,0,STON/O 2. 3101280,7.92,S,None,NA,NA,None,None
+3,TRUE,Sjoblom Anna Sofia,Sjoblom Anna Sofia,female,18,0,0,3101265,7.5,S,11,NA,NA,None,None
+3,FALSE,Skoog Master Harald,Skoog Master Harald,male,4,3,2,347088,27.9,S,None,NA,NA,None,None
+3,FALSE,Skoog Master Karl Thorsten,Skoog Master Karl Thorsten,male,10,3,2,347088,27.9,S,None,NA,NA,None,None
+3,FALSE,Skoog Mabel,Skoog Mabel,female,9,3,2,347088,27.9,S,None,NA,NA,None,None
+3,FALSE,Skoog Margit Elizabeth,Skoog Margit Elizabeth,female,2,3,2,347088,27.9,S,None,NA,NA,None,None
+3,FALSE,Skoog Wilhelm,Skoog Wilhelm,male,40,1,4,347088,27.9,S,None,NA,NA,None,None
+3,FALSE,Skoog William,Anna Bernhardina Karlsson,female,45,1,4,347088,27.9,S,None,NA,NA,None,None
+3,FALSE,Slabenoff Petco,Slabenoff Petco,male,NA,0,0,349214,7.9,S,None,NA,NA,None,None
+3,FALSE,Slocovski Selman Francis,Slocovski Selman Francis,male,NA,0,0,SOTON/OQ 392086,8.05,S,None,NA,NA,None,None
+3,FALSE,Smiljanic Mile,Smiljanic Mile,male,NA,0,0,315037,8.66,S,None,NA,NA,None,None
+3,FALSE,Smith Thomas,Smith Thomas,male,NA,0,0,384461,7.75,Q,None,NA,NA,None,None
+3,TRUE,Smyth Julia,Smyth Julia,female,NA,0,0,335432,7.73,Q,5,NA,NA,None,None
+3,FALSE,Soholt Peter Andreas Lauritz Andersen,Soholt Peter Andreas Lauritz Andersen,male,19,0,0,348124,7.65,S,None,NA,NA,F,73
+3,FALSE,Somerton Francis William,Somerton Francis William,male,30,0,0,A.5. 18509,8.05,S,None,NA,NA,None,None
+3,FALSE,Spector Woolf,Spector Woolf,male,NA,0,0,A.5. 3236,8.05,S,None,NA,NA,None,None
+3,FALSE,Spinner Henry John,Spinner Henry John,male,32,0,0,STON/OQ. 369943,8.05,S,None,NA,NA,None,None
+3,FALSE,Staneff Ivan,Staneff Ivan,male,NA,0,0,349208,7.9,S,None,NA,NA,None,None
+3,FALSE,Stankovic Ivan,Stankovic Ivan,male,33,0,0,349239,8.66,C,None,NA,NA,None,None
+3,TRUE,Stanley Amy Zillah Elsie,Stanley Amy Zillah Elsie,female,23,0,0,CA. 2314,7.55,S,25,NA,NA,None,None
+3,FALSE,Stanley Edward Roland,Stanley Edward Roland,male,21,0,0,A/4 45380,8.05,S,None,NA,NA,None,None
+3,FALSE,Storey Thomas,Storey Thomas,male,60,0,0,3701,NA,S,None,261,NA,None,None
+3,FALSE,Stoytcheff Ilia,Stoytcheff Ilia,male,19,0,0,349205,7.9,S,None,NA,NA,None,None
+3,FALSE,Strandberg Ida Sofia,Strandberg Ida Sofia,female,22,0,0,7553,9.84,S,None,NA,NA,None,None
+3,TRUE,Stranden Juho,Stranden Juho,male,31,0,0,STON/O 2. 3101288,7.92,S,22,NA,NA,None,None
+3,FALSE,Strilic Ivan,Strilic Ivan,male,27,0,0,315083,8.66,S,None,NA,NA,None,None
+3,FALSE,Strom Telma Matilda,Strom Telma Matilda,female,2,0,1,347054,10.46,S,None,NA,NA,G,6
+3,FALSE,Strom Wilhelm,Elna Matilda Persson,female,29,1,1,347054,10.46,S,None,NA,NA,G,6
+3,TRUE,Sunderland Victor Francis,Sunderland Victor Francis,male,16,0,0,SOTON/OQ 392089,8.05,S,24,NA,NA,None,None
+3,TRUE,Sundman Johan Julian,Sundman Johan Julian,male,44,0,0,STON/O 2. 3101269,7.92,S,9,NA,NA,None,None
+3,FALSE,Sutehall Henry Jr,Sutehall Henry Jr,male,25,0,0,SOTON/OQ 392076,7.05,S,None,NA,NA,None,None
+3,FALSE,Svensson Johan,Svensson Johan,male,74,0,0,347060,7.78,S,None,NA,NA,None,None
+3,TRUE,Svensson Johan Cervin,Svensson Johan Cervin,male,14,0,0,7538,9.22,S,5,NA,NA,None,None
+3,FALSE,Svensson Olof,Svensson Olof,male,24,0,0,350035,7.8,S,None,NA,NA,None,None
+3,TRUE,Tenglin Gunnar Isidor,Tenglin Gunnar Isidor,male,25,0,0,350033,7.8,S,6,NA,NA,None,None
+3,FALSE,Theobald Thomas Leonard,Theobald Thomas Leonard,male,34,0,0,363294,8.05,S,None,176,NA,None,None
+3,TRUE,Thomas Master Assad Alexander,Thomas Master Assad Alexander,male,1,0,1,2625,8.52,C,11,NA,NA,None,None
+3,FALSE,Thomas Charles P,Thomas Charles P,male,NA,1,0,2621,6.44,C,None,NA,NA,None,None
+3,FALSE,Thomas John,Thomas John,male,NA,0,0,2681,6.44,C,None,NA,NA,None,None
+3,FALSE,Thomas Tannous,Thomas Tannous,male,NA,0,0,2684,7.22,C,None,NA,NA,None,None
+3,TRUE,Thomas Alexander,"Thamine ""Thelma""",female,16,1,1,2625,8.52,C,8,NA,NA,None,None
+3,FALSE,Thomson Alexander Morrison,Thomson Alexander Morrison,male,NA,0,0,32302,8.05,S,None,NA,NA,None,None
+3,FALSE,Thorneycroft Percival,Thorneycroft Percival,male,NA,1,0,376564,16.1,S,None,NA,NA,None,None
+3,TRUE,Thorneycroft Percival,Florence Kate White,female,NA,1,0,376564,16.1,S,2,NA,NA,None,None
+3,FALSE,Tikkanen Juho,Tikkanen Juho,male,32,0,0,STON/O 2. 3101293,7.92,S,None,NA,NA,None,None
+3,FALSE,Tobin Roger,Tobin Roger,male,NA,0,0,383121,7.75,Q,None,NA,NA,F,38
+3,FALSE,Todoroff Lalio,Todoroff Lalio,male,NA,0,0,349216,7.9,S,None,NA,NA,None,None
+3,FALSE,Tomlin Ernest Portage,Tomlin Ernest Portage,male,30,0,0,364499,8.05,S,None,50,NA,None,None
+3,FALSE,Torber Ernst William,Torber Ernst William,male,44,0,0,364511,8.05,S,None,NA,NA,None,None
+3,FALSE,Torfa Assad,Torfa Assad,male,NA,0,0,2673,7.23,C,None,NA,NA,None,None
+3,TRUE,Tornquist William Henry,Tornquist William Henry,male,25,0,0,LINE,0,S,9,NA,NA,None,None
+3,FALSE,Toufik Nakli,Toufik Nakli,male,NA,0,0,2641,7.23,C,None,NA,NA,None,None
+3,TRUE,Touma Master Georges Youssef,Touma Master Georges Youssef,male,7,1,1,2650,15.25,C,25,NA,NA,None,None
+3,TRUE,Touma Maria Youssef,Touma Maria Youssef,female,9,1,1,2650,15.25,C,25,NA,NA,None,None
+3,TRUE,Touma Darwis,Hanne Youssef Razi,female,29,0,2,2650,15.25,C,25,NA,NA,None,None
+3,FALSE,Turcin Stjepan,Turcin Stjepan,male,36,0,0,349247,7.9,S,None,NA,NA,None,None
+3,TRUE,Turja Anna Sofia,Turja Anna Sofia,female,18,0,0,4138,9.84,S,9,NA,NA,None,None
+3,TRUE,Turkula,Hedwig,female,63,0,0,4134,9.59,S,9,NA,NA,None,None
+3,FALSE,van Billiard Master James William,van Billiard Master James William,male,NA,1,1,A/5. 851,14.5,S,None,NA,NA,None,None
+3,FALSE,van Billiard Master Walter John,van Billiard Master Walter John,male,11,1,1,A/5. 851,14.5,S,None,1,NA,None,None
+3,FALSE,van Billiard Austin Blyler,van Billiard Austin Blyler,male,40,0,2,A/5. 851,14.5,S,None,255,NA,None,None
+3,FALSE,Van Impe Catharina,Van Impe Catharina,female,10,0,2,345773,24.15,S,None,NA,NA,None,None
+3,FALSE,Van Impe Jean Baptiste,Van Impe Jean Baptiste,male,36,1,1,345773,24.15,S,None,NA,NA,None,None
+3,FALSE,Van Impe Jean Baptiste,Rosalie Paula Govaert,female,30,1,1,345773,24.15,S,None,NA,NA,None,None
+3,FALSE,van Melkebeke Philemon,van Melkebeke Philemon,male,NA,0,0,345777,9.5,S,None,NA,NA,None,None
+3,FALSE,Vande Velde Johannes Joseph,Vande Velde Johannes Joseph,male,33,0,0,345780,9.5,S,None,NA,NA,None,None
+3,FALSE,Vande Walle Nestor Cyriel,Vande Walle Nestor Cyriel,male,28,0,0,345770,9.5,S,None,NA,NA,None,None
+3,FALSE,Vanden Steen Leo Peter,Vanden Steen Leo Peter,male,28,0,0,345783,9.5,S,None,NA,NA,None,None
+3,FALSE,Vander Cruyssen Victor,Vander Cruyssen Victor,male,47,0,0,345765,9,S,None,NA,NA,None,None
+3,FALSE,Vander Planke Augusta Maria,Vander Planke Augusta Maria,female,18,2,0,345764,18,S,None,NA,NA,None,None
+3,FALSE,Vander Planke Julius,Vander Planke Julius,male,31,3,0,345763,18,S,None,NA,NA,None,None
+3,FALSE,Vander Planke Leo Edmondus,Vander Planke Leo Edmondus,male,16,2,0,345764,18,S,None,NA,NA,None,None
+3,FALSE,Vander Planke Julius,Emelia Maria Vandemoortele,female,31,1,0,345763,18,S,None,NA,NA,None,None
+3,TRUE,Vartanian David,Vartanian David,male,22,0,0,2658,7.22,C,6,NA,NA,None,None
+3,FALSE,Vendel Olof Edvin,Vendel Olof Edvin,male,20,0,0,350416,7.85,S,None,NA,NA,None,None
+3,FALSE,Vestrom Hulda Amanda Adolfina,Vestrom Hulda Amanda Adolfina,female,14,0,0,350406,7.85,S,None,NA,NA,None,None
+3,FALSE,Vovk Janko,Vovk Janko,male,22,0,0,349252,7.9,S,None,NA,NA,None,None
+3,FALSE,Waelens Achille,Waelens Achille,male,22,0,0,345767,9,S,None,NA,"Antwerp, Belgium / Stanton, OH",None,None
+3,FALSE,Ware Frederick,Ware Frederick,male,NA,0,0,359309,8.05,S,None,NA,NA,None,None
+3,FALSE,Warren Charles William,Warren Charles William,male,NA,0,0,C.A. 49867,7.55,S,None,NA,NA,None,None
+3,FALSE,Webber James,Webber James,male,NA,0,0,SOTON/OQ 3101316,8.05,S,None,NA,NA,None,None
+3,FALSE,Wenzel Linhart,Wenzel Linhart,male,32,0,0,345775,9.5,S,None,298,NA,None,None
+3,TRUE,Whabee George Joseph,Shawneene Abi-Saab,female,38,0,0,2688,7.23,C,25,NA,NA,None,None
+3,FALSE,Widegren Carl/Charles Peter,Widegren Carl/Charles Peter,male,51,0,0,347064,7.75,S,None,NA,NA,None,None
+3,FALSE,Wiklund Jakob Alfred,Wiklund Jakob Alfred,male,18,1,0,3101267,6.5,S,None,314,NA,None,None
+3,FALSE,Wiklund Karl Johan,Wiklund Karl Johan,male,21,1,0,3101266,6.5,S,None,NA,NA,None,None
+3,TRUE,Wilkes James,Ellen Needs,female,47,1,0,363272,7,S,None,NA,NA,None,None
+3,FALSE,Willer Aaron,"""Abi Weller""",male,NA,0,0,3410,8.71,S,None,NA,NA,None,None
+3,FALSE,Willey Edward,Willey Edward,male,NA,0,0,S.O./P.P. 751,7.55,S,None,NA,NA,None,None
+3,FALSE,"Williams Howard Hugh ""Harry""","Williams Howard Hugh ""Harry""",male,NA,0,0,A/5 2466,8.05,S,None,NA,NA,None,None
+3,FALSE,Williams Leslie,Williams Leslie,male,28,0,0,54636,16.1,S,None,14,NA,None,None
+3,FALSE,Windelov Einar,Windelov Einar,male,21,0,0,SOTON/OQ 3101317,7.25,S,None,NA,NA,None,None
+3,FALSE,Wirz Albert,Wirz Albert,male,27,0,0,315154,8.66,S,None,131,NA,None,None
+3,FALSE,Wiseman Phillippe,Wiseman Phillippe,male,NA,0,0,A/4. 34244,7.25,S,None,NA,NA,None,None
+3,FALSE,Wittevrongel Camille,Wittevrongel Camille,male,36,0,0,345771,9.5,S,None,NA,NA,None,None
+3,FALSE,Yasbeck Antoni,Yasbeck Antoni,male,27,1,0,2659,14.45,C,25,NA,NA,None,None
+3,TRUE,Yasbeck Antoni,Selini Alexander,female,15,1,0,2659,14.45,C,None,NA,NA,None,None
+3,FALSE,Youseff Gerious,Youseff Gerious,male,45,0,0,2628,7.22,C,None,312,NA,None,None
+3,FALSE,Yousif Wazli,Yousif Wazli,male,NA,0,0,2647,7.22,C,None,NA,NA,None,None
+3,FALSE,Yousseff Gerious,Yousseff Gerious,male,NA,0,0,2627,14.46,C,None,NA,NA,None,None
+3,FALSE,Zabour Hileni,Zabour Hileni,female,14,1,0,2665,14.45,C,None,328,NA,None,None
+3,FALSE,Zabour Thamine,Zabour Thamine,female,NA,1,0,2665,14.45,C,None,NA,NA,None,None
+3,FALSE,Zakarian Mapriededer,Zakarian Mapriededer,male,26,0,0,2656,7.22,C,None,304,NA,None,None
+3,FALSE,Zakarian Ortin,Zakarian Ortin,male,27,0,0,2670,7.22,C,None,NA,NA,None,None
+3,FALSE,Zimmerman Leo,Zimmerman Leo,male,29,0,0,315082,7.88,S,None,NA,NA,None,None
