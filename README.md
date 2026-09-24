@@ -3,6 +3,7 @@
 [![Language](https://img.shields.io/badge/Language-R%204.4-276DC3?style=flat&logo=r)](https://www-r-project.org/)
 [![Framework](https://img.shields.io/badge/Framework-tidyverse%20%7C%20ggplot2-blue)](https://www.tidyverse.org/)
 [![Report](https://img.shields.io/badge/Report-20--Page%20Executive%20PDF-red?logo=adobeacrobatreader)](Titanic.pdf)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > An econometric deconstruction of disaster survival on the RMS Titanic (1,305 passengers), isolating confounding variables, physical cabin deck geography, and non-linear sociological interactions.
 
